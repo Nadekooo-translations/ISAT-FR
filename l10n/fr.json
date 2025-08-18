@@ -22,7 +22,7 @@
         "(It's full of boring administrative papers.)": "",
         "\\m[clear](You look at the sword, waiting for the Universe to right itself.)": "",
         "(...)": "(...)",
-        "\\m[clear](A row of spears.)": "(Une rangée de lances.)",
+        "\\m[clear](A row of spears.)": "\\m[clear](Une rangée de lances.)",
         "(\"Why the need for\"...)": "",
         "\\m[clear](A stool.)": "\\m[clear](Un tabouret.)",
         "(But you're fine, so it'd be a waste of time to sit down.)": "",
