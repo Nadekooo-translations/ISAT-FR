@@ -71,7 +71,7 @@
         "\\m[clear](Nothing else here.)": "",
         "\\m[clear](A cooking book all about stupid croissants.)": "",
         "(You grip your coin you grip your coin you grip your\\|\\^": "",
-        "\\m[clear](A cooking book.)": "(Un livre de cuisine.)",
+        "\\m[clear](A cooking book.)": "\\m[clear](Un livre de cuisine.)",
         "\\m[clear](The closet contains some bandages, painkillers, and eyepatches.)": "",
         "(Your stomach hurts, you feel cold, you keep shaking, and you have a headache from thinking too hard on all your mistakes.)": "",
         "(You look at the recommended amount of painkillers you should take, and swallow one more.)": "",
