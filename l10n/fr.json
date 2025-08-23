@@ -12101,7 +12101,7 @@
         "(So they WERE the voice you've been hearing, giving you advice?)": "",
         "\\m[vl]See, I'm useful.\\!\\ I'm very useful!\\!\\ That's why I'm here, helpful Loop.": "",
         "\\m[rb]\\m[clear](That IS useful, but...)": "",
-        "\\m[vl]\\..\\..\\..": "",
+        "\\m[vl]\\..\\..\\..": "\\m[vl]\\..\\..\\..",
         "Because I think you should be helped.": "",
         "I won't always have the answers, but...\\!\\m[wait] I think having someone on your side to talk to is better than dealing with this alone.": "",
         "Right?\\m[rb]": "",
