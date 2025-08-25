@@ -8775,7 +8775,7 @@
         "(You don't want to be here, so what--\\!\\ What are you doing wrong?)": "",
         "(Is it waking up?!\\!\\ Are you waking up wrong?!?\\!\\ Or, going to the House?\\!\\ But you have to, you have to go, you have to beat the King, save Vaugarde, because obviously, saving Vaugarde is why you're here--)": "",
         "(Defeating the King is why you're here, and you do defeat him, you fight, you get his guard down, he talks, everyone talks, you attack all at once, and you defeat the King with your own two hands--)\\!\\m[wait]\\^": "",
-        "(No.)\\!\\m[wait]\\^": "",
+        "(No.)\\!\\m[wait]\\^": "(Non.)\\!\\m[wait]\\^",
         "(You DON'T defeat him with your own two hands.)\\!\\m[wait]\\^": "",
         "(Mirabelle.\\!\\m[wait] She's always the one who deals the final strike, isn't she.)": "",
         "(You've never, even once, defeated him yourself.)": "",
