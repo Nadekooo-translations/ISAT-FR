@@ -170,7 +170,7 @@
         "\\m[clear](A list of students' names for a month long class.)": "",
         "(Some of the students have more than their first and last name listed.)": "",
         "\\wave(Good for them!)": "",
-        "\\m[clear](A list of students' names.)": "\\m[clear](Une liste de noms d'étudiants)",
+        "\\m[clear](A list of students' names.)": "\\m[clear](Une liste de noms d'étudiants.)",
         "\\m[clear](A desk with an open notebook.)": "\\m[clear](Un bureau avec un cahier ouvert.)",
         "\\m[clear](An empty desk.)": "\\m[clear](Un bureau vide.)",
         "\\m[clear](Some school books.)": "\\m[clear](Quelques livres scolaires.)",
