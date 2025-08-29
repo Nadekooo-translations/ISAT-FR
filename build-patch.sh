@@ -11,6 +11,9 @@ done
 
 mv patch/isat patch/www
 
+mkdir -p patch/www/img/pictures
+cp -r img/pictures/* patch/www/pictures
+
 cd patch && zip -r patch.zip * && cd ..
 
 mv patch/patch.zip .
