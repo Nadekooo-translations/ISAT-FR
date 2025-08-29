@@ -10,9 +10,9 @@ jobs:
             - name: Downloading ISAT build
               run: curl -Lo isat.tar.gz ${{ secrets.ISAT_URL }}
             - run: mkdir isat isat-orig
-            - run: tar xf isat.tar.gz
+            - run: tar xf ../isat.tar.gz
               working-directory: isat
-            - run: tar xf isat.tar.gz
+            - run: tar xf ../isat.tar.gz
               working-directory: isat-orig
 
             - name: Patching game
