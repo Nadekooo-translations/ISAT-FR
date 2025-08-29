@@ -23,6 +23,6 @@ jobs:
               run: ./build-patch.sh
             - name: Upload patch
               run: |
-                source agent-start "$GITHUB_ACTION"
+                eval $(ssh-agent -s)
                 echo "${{ secrets.REMOTE_KEY }}" | agent-add
                 rsync patch.zip ${{ secrets.REMOTE_URL }}
