@@ -25,4 +25,4 @@ jobs:
               run: |
                 eval $(ssh-agent -s)
                 echo "${{ secrets.REMOTE_KEY }}" | tr -d '\r' | ssh-add -
-                rsync patch.zip ${{ secrets.REMOTE_URL }}
+                rsync -e 'ssh -o StrictHostKeyChecking=no' patch.zip ${{ secrets.REMOTE_URL }}
