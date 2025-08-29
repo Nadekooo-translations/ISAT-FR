@@ -22,7 +22,7 @@ jobs:
             - name: Building patch
               run: ./build-patch.sh
             - name: Upload patch
-              run: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v4
               with:
                 name: Patch
                 path: patch.zip
