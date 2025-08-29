@@ -24,5 +24,5 @@ jobs:
             - name: Upload patch
               run: |
                 eval $(ssh-agent -s)
-                echo "${{ secrets.REMOTE_KEY }}" | agent-add
+                echo "${{ secrets.REMOTE_KEY }}" | tr -d '\r' | ssh-add -
                 rsync patch.zip ${{ secrets.REMOTE_URL }}
