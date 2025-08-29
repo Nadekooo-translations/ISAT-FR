@@ -1,0 +1,24 @@
+on:
+    push:
+        branches: ['master']
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v5
+            - name: Downloading ISAT build
+              run: curl -Lo isat.tar.gz ${{ secrets.ISAT_URL }}
+            - run: mkdir isat isat-orig
+            - run: tar xf isat.tar.gz
+              working-directory: isat
+            - run: tar xf isat.tar.gz
+              working-directory: isat-orig
+
+            - name: Patching game
+              run: node patch.js
+              env:
+                  COMMIT_HASH: ${{ github.sha }}
+            - name: Building patch
+            - name: Upload patch
+              
