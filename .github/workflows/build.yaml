@@ -22,7 +22,7 @@ jobs:
             - name: Building patch
               run: ./build-patch.sh
             - name: Upload patch
-              uses: actions/upload-artifact@v4
-              with:
-                name: Patch
-                path: patch.zip
+              run: |
+                source agent-start "$GITHUB_ACTION"
+                echo "${{ secrets.REMOTE_KEY }}" | agent-add
+                rsync patch.zip ${{ secrets.REMOTE_URL }}
