@@ -12,7 +12,7 @@ done
 mv patch/isat patch/www
 
 mkdir -p patch/www/img/pictures
-cp -r img/pictures/* patch/www/pictures
+cp -r img/pictures/* patch/www/img/pictures
 
 cd patch && zip -r patch.zip * && cd ..
 
