@@ -8547,7 +8547,7 @@
         "[HOWEVER, IF YOU DON'T WANT THIS BOON, YOU CAN TURN IT OFF IN THE OPTIONS WHENEVER YOU'D LIKE.]\\!\\m[wait]\\^": "",
         "[PLEASE ENJOY THIS TALE ONCE MORE.\\!\\m[wait]<br>I know I will! o(*°▽°*)o\\. ]\\m[rb]": "",
         "\\m[vmnp]\"--frin!\"": "\\m[vmnp]\"--frin!\"",
-        "\\m[vmnp]\\wave\"Siffrin!\"": "",
+        "\\m[vmnp]\\wave\"Siffrin!\"": "\\m[vmnp]\\wave\"Siffrin!\"",
         "\\m[vmnp]\"...Siffrin?\"": "",
         "\\m[vm]Good morning!": "",
         "Well, more like, good afternoon, I guess...": "",
