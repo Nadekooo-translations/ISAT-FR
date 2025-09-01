@@ -8557,7 +8557,7 @@
         "\\m[clear](You're too sleepy to talk.)": "",
         "(Sleep's sweet embrace calls for you...)": "(La douce étreinte du sommeil t'appelle...)",
         "(You close your eyes again.)": "(Tu refermes tes yeux.)",
-        "\\m[vm]...\\!You're still half asleep, aren't you?": "",
+        "\\m[vm]...\\!You're still half asleep, aren't you?": "\\m[vm]...\\!Tu es encore à moitié endormis, hein ?",
         "\\m[clear](You make a grumbling sound.)": "",
         "\\m[vm]Hm...\\!\\ Okay, then...": "",
         "You can sleep for a little longer, but not too long!\\!\\ Come to the village when you're ready, okay?": "",
