@@ -8561,7 +8561,7 @@
         "\\m[clear](You make a grumbling sound.)": "",
         "\\m[vm]Hm...\\!\\ Okay, then...": "",
         "You can sleep for a little longer, but not too long!\\!\\ Come to the village when you're ready, okay?": "Tu peux dormir encore un peu, mais pas trop longtemps !\\!\\ Viens au village quand tu seras prêt, d'accord ?",
-        "\\m[clear](You yawn so hard your jaw cracks.)": "",
+        "\\m[clear](You yawn so hard your jaw cracks.)": "\\m[clear](Tu bailles si fort que ta mâchoire craque.)",
         "(You were having such a nice rest too...)": "",
         "(Urgh.)": "(Argh.)",
         "(You can't spend the rest of the day sleeping.\\!\\ That would be a waste.)": "",
