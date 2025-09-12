@@ -8608,7 +8608,7 @@
         "[For example, the Memory you just got can only be equipped by you.\\!\\ When Memory of Looping is equipped, it'll boost your MaxHP by +5 per loop.]": "",
         "[You can equip Memories by opening your menu and going to the Equip section!]\\m[rb]": "",
         "(What is that voice you've been hearing this whole time...?)": "(Quelle est cette voix que tu entends depuis un moment...?)",
-        "\\m[clear](You're back.)": "",
+        "\\m[clear](You're back.)": "\\m[clear](Tu es de retour.)",
         "Were you taking a nap?\\!\\ That's just like...\\!\\ \\..\\..\\..": "",
         "Siffrin, what's wrong?": "",
         "\\m[wait](You won, didn't you?\\!\\ Why are you back?\\!\\shake WHY ARE YOU BACK?!)": "",
