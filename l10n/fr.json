@@ -2887,7 +2887,7 @@
         "\\m[clear](Alright.\\!\\ This time for sure.)": "\\m[clear](Très bien.\\!\\ Cette fois c'est sûr.)",
         "(You take the fishing pole,\\!\\ find the same lure you used before,\\!\\ check the fishing pole,\\!\\ throw it,\\!\\ and sit down and wait.)": "(Tu prends la canne à pêche,\\!\\ prends le même hameçon que la dernière fois,\\!\\ vérifies l'hameçon,\\!\\ le lances,\\!\\ et t'assois et attends.)",
         "\\m[clear](Alright.)": "\\m[clear](Bien.)",
-        "(...You didn't catch anything.)": "",
+        "(...You didn't catch anything.)": "(...Tu n'as rien attrapé.)",
         "(That's too bad.)": "",
         "(How did you manage to mess it up a second time?!)": "",
         "(Really?!?)": "",
