@@ -17641,7 +17641,7 @@
         "\"It was alright.\" <<v[1] < 2>>": "",
         "\"Oh, you know.\" <<v[2] < 3>>": "\"Oh, tu sais.\" <<v[2] < 3>>",
         "\"How dare you wake me from my slumber.\"": "\"Comment oses-tu me tirer ainsi de mon somme.\"",
-        "\"Punishment for one hundred years.\"": "",
+        "\"Punishment for one hundred years.\"": "\"J'exige une punition de cent ans.\"",
         "\"Average is good!": "",
         "\"Average is bad.\"": "",
         "\"Average is average?\"": "",
