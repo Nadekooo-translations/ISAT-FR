@@ -2979,7 +2979,7 @@
         "(A very dangerous fruit which, if approached, will spell your doom...)": "(Un fruit très dangereux qui, s'il est approché, conduira à ta chute...)",
         "(...\\!This is just a banana peel.\\!\\ Do bananas even grow here...?)": "(...\\!C'est juste une peau de banane.\\!\\ Est-ce que les bananes poussent seulement ici...?)",
         "\\m[clear](The banana peel lays here, menacingly.)": "\\m[clear](La peau de banane repose ici, menaçante.)",
-        "\\m[clear](The banana peels lays here.)": "",
+        "\\m[clear](The banana peels lays here.)": "\\m[clear](La peau de banane repose ici.)",
         "\\m[clear](The scent of the banana peel makes you want to throw up.)": "",
         "(...But wait, instead of a banana peel, could it be...)": "",
         "(A plantain peel...?)": "",
