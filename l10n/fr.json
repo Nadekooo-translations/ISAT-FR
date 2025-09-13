@@ -2823,7 +2823,7 @@
         "\\m[clear](You tell Mirabelle about the CARROT method so she can learn that one skill...)": "\\m[clear](Tu parles à Mirabelle de la méthode CAROTTE pour qu'elle puisse apprendre cette compétence...)",
         "\\m[vm]W-Wait, how did you know about--": "\\m[vm]A-Attends, comment as-tu su pour--",
         "\\m[clear](...And wink.)": "\\m[clear](...And tu lui fais un clin d'œil.)",
-        "\\m[vm]O-Okay...": "",
+        "\\m[vm]O-Okay...": "\\m[vm]D-D'accord...",
         "\\m[clear](Mirabelle learned the Craft Skill \"Adorable Moving Shield\" again.)": "",
         "\\m[clear](You wave goodbye.)": "",
         "\\m[clear](You watch her go.)": "",
