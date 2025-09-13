@@ -2864,7 +2864,7 @@
         "\\m[wait](You need to see if Bonnie is okay.)": "\\m[wait](Tu dois voir si Bonnie va bien.)",
         "\\m[clear](The sign says: \"Favor Tree\".)": "\\m[clear](Le panneau indique : \"Arbre des Faveurs\".)",
         "\\m[clear](The sign says: \"Shop\".)": "\\m[clear](Le panneau indique : \"Magasin\".)",
-        "\\m[clear](The sign says: \"Library\".)": "",
+        "\\m[clear](The sign says: \"Library\".)": "\\m[clear](Le panneau indique : \"Bibliothèque\".)",
         "\\m[clear](Isabeau is probably at the tree.)": "",
         "(You shouldn't bother him...)": "",
         "(Better talk to Odile and Bonnie first.)": "",
