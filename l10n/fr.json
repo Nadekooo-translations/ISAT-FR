@@ -2898,7 +2898,7 @@
         "(You feel at peace.)": "(Tu te sens en paix.)",
         "(...Once again, you didn't catch anything,\\!\\ but you're fine with it.)": "(...Encore une fois, tu n'as rien attrapé,\\!\\ mais ça ne te dérange pas.)",
         "(You feel like you got the chance to put your thoughts in order.)": "",
-        "\\m[clear](You got a MEMORY OF FISHING!)": "",
+        "\\m[clear](You got a MEMORY OF FISHING!)": "\\m[clear](Tu as obtenu la MÉMOIRE DE LA PÊCHE !)",
         "\\m[vtuto][When equipped, Memory of Fishing gives you +2 ATTACK for every time you've gone fishing!\\!\\ At the cost of ATTACK SPEED, though.\\!\\ Can't have everything, stardust.]\\m[rb]": "",
         "\\m[clear](You do the usual fishing preparations, and sit down.)": "",
         "(You haven't gone fishing for long, but it already feels like something you've done forever.)": "",
