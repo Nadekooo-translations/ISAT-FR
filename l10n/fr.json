@@ -2929,7 +2929,7 @@
         "\\m[vs](OH STARS)\\!\\": "\\m[vs](PAR LES ASTRES)\\!\\",
         "\\m[vwoman]\\n<\\v[46]>FISH?!?!": "\\m[vwoman]\\n<\\v[46]>UN POISSON ?!?!",
         "\\n<\\v[46]>REEL IT IN, QUICK!!!": "\\n<\\v[46]>RAMÈNE-LE, VITE !!!",
-        "\\m[clear](You both struggle to reel in a fish you had no idea would come,\\!\\ but after a while--)\\!\\m[wait]\\^": "",
+        "\\m[clear](You both struggle to reel in a fish you had no idea would come,\\!\\ but after a while--)\\!\\m[wait]\\^": "\\m[clear](Vous vous efforcez tous les deux de remonter un poisson que tu n'espérais même pas voir venir,\\!\\ mais après un moment--)\\!\\m[wait]\\^",
         "\\m[clear](You got A FISH!!!!!!!!!!)": "",
         "(It's alive, still flapping its gills uselessly.)": "",
         "\\m[vwoman]\\n<\\v[46]>Oh crab...\\!\\ You...\\!\\ You actually caught something...": "",
