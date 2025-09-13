@@ -8612,7 +8612,7 @@
         "Were you taking a nap?\\!\\ That's just like...\\!\\ \\..\\..\\..": "",
         "Siffrin, what's wrong?": "Siffrin, qu'est-ce qui ne va pas ?",
         "\\m[wait](You won, didn't you?\\!\\ Why are you back?\\!\\shake WHY ARE YOU BACK?!)": "\\m[wait](Tu as gagné, n'est-ce pas ?\\!\\ Alors pourquoi t'es là ?\\!\\shake POURQUOI T'ES REVENU ICI ?!)",
-        "\\m[vm]Siffrin, answer me, what's wrong?": "",
+        "\\m[vm]Siffrin, answer me, what's wrong?": "\\m[vm]Siffrin, réponds moi, qu'est-ce qui ne va pas ?",
         "\\m[clear](Your hands are shaking)\\!\\m[wait]\\^": "",
         "\\m[clear](Your stomach is killing you)\\!\\m[wait]\\^": "",
         "\\m[clear](The whole Universe is closing in on you)\\!\\m[wait]\\^": "",
