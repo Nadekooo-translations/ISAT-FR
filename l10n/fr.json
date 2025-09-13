@@ -7346,7 +7346,7 @@
         "Are you done talking with your companions?\\!\\ Yes, wonderful, wonderful!\\!\\m[wait]\\^": "",
         "(Wait, isn't she saying the same things as last time...?)": "",
         "\\m[vh]I'd like to thank you for accompanying young Mirabelle this far.\\!\\ I'm very grateful.": "",
-        "\\m[clear](Oh stars, no.)": "",
+        "\\m[clear](Oh stars, no.)": "\\m[clear](Oh par les Astres, non.)",
         "\\shake(She's saying the exact same thing she did last time...!!!)": "",
         "\\m[clear]\\m[wait]\\m[wait](Oh.)": "",
         "\\m[vh]I know you will go back on your travels soon, but I do hope--": "",
