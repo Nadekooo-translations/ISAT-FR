@@ -17646,7 +17646,7 @@
         "\"Average is bad.\"": "",
         "\"Average is average?\"": "",
         "\"Average average average average.\"": "",
-        "\"We'll do better next time.\"": "",
+        "\"We'll do better next time.\"": "\"On fera mieux la prochaine fois.\"",
         "\"Absolutely! I'll let everyone know!\"": "",
         "\"Talk to you later, Mira!\"": "",
         "\"...Okay?\" <<v[1] > 0>>": "",
