@@ -17656,7 +17656,7 @@
         "\"I always remember things.\"": "\"Je me souviens toujours de ces trucs.\"",
         "\"...Probably not?\" <<v[2] > 2>>": "",
         "\"Odile is at the shop, Bonnie is...\" <<v[1] < 10>>": "",
-        "\"Yes, don't worry about me!\"": "",
+        "\"Yes, don't worry about me!\"": "\"Oui, ne t'en fais pas pour moi !\"",
         "\"I have things to do, I'll talk to you later!\"": "",
         "\"Okay...?\"": "",
         "\"Not really, haha!\"": "",
