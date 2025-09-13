@@ -2845,7 +2845,7 @@
         "\\m[clear](What now.)": "\\m[clear](Quoi encore.)",
         "\\m[vm]...Well, I know you're busy, but...": "\\m[vm]...Eh bien, je sais que tu es occupé, mais...",
         "\\m[clear](\"But help me tell everyone about the sleepover\"?)": "\\m[clear](\"Mais aide-moi à parler à tout le monde pour la soirée pyjama\" ?)",
-        "\\m[vm]...Can you come talk to me later?\\!\\ So we can talk?\\!\\ I'll wait in front of the library...": "",
+        "\\m[vm]...Can you come talk to me later?\\!\\ So we can talk?\\!\\ I'll wait in front of the library...": "\\m[vm]...Pourrais-tu venir me voir plus tard ?\\!\\ Pour qu'on puisse parler ?\\!\\ J'attendrais devant la bibliothèque...",
         "...\\!\\m[wait]Please.": "",
         "\\m[vm]Okay!\\!\\ Go do your thing, and then come back, okay?\\!\\ I'll be waiting!": "",
         "\\m[clear](You nod again.)": "",
