@@ -2932,7 +2932,7 @@
         "\\m[clear](You both struggle to reel in a fish you had no idea would come,\\!\\ but after a while--)\\!\\m[wait]\\^": "\\m[clear](Vous vous efforcez tous les deux de remonter un poisson que tu n'espérais même pas voir venir,\\!\\ mais après un moment--)\\!\\m[wait]\\^",
         "\\m[clear](You got A FISH!!!!!!!!!!)": "\\m[clear](Tu as obtenu UN POISSON !!!!!!!!!!)",
         "(It's alive, still flapping its gills uselessly.)": "(Il est vivant, faisant toujours bouger inutilement ses branchies.)",
-        "\\m[vwoman]\\n<\\v[46]>Oh crab...\\!\\ You...\\!\\ You actually caught something...": "",
+        "\\m[vwoman]\\n<\\v[46]>Oh crab...\\!\\ You...\\!\\ You actually caught something...": "\\m[vwoman]\\n<\\v[46]>Oh crabe...\\!\\Tu...\\!\\ Tu viens vraiment d'attraper quelque chose...",
         "\\n<\\v[46]>In this river...?": "",
         "\\m[clear](You both look at the fish.)": "",
         "(It's pitifully trying to survive,\\!\\ trying to breathe in air.)": "",
