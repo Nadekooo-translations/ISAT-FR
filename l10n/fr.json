@@ -17652,7 +17652,7 @@
         "\"...Okay?\" <<v[1] > 0>>": "\"...D'accord?\" <<v[1] > 0>>",
         "\"That sounds like an AMAZING idea, Mira!\"<<v[1] === 0>>": "",
         "\"N-no, I think it's fun!!! Let's do it!!!\"": "\"N-non, je pense que c'est fun !!! Faisons ça !!!\"",
-        "\"Of course, Mira.\"": "",
+        "\"Of course, Mira.\"": "\"Bien sûr, Mira.\"",
         "\"I always remember things.\"": "",
         "\"...Probably not?\" <<v[2] > 2>>": "",
         "\"Odile is at the shop, Bonnie is...\" <<v[1] < 10>>": "",
