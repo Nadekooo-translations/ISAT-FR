@@ -2809,7 +2809,7 @@
         "[The Menu contains your Pockets, your Equipment, and many other things!]": "[Le Menu comprend tes Poches, ton Équipement, et bien d'autres choses !]",
         "[You can interact with most items in your Pockets by pressing \\v[376]!]\\m[rb]": "[Tu peux interagir avec la plupart des objets dans tes Poches en appuyant sur \\v[376]!]\\m[rb]",
         "\\m[vm]...Well, I'll let you do this then!\\!\\ Sounds like you remember!": "\\m[vm]...Bien, je te laisse t'en charger alors !\\!\\ On dirait que tu t'en souviens !",
-        "\\m[clear](You do!)": "",
+        "\\m[clear](You do!)": "\\m[clear](En effet !)",
         "\\m[clear](You really, really do.)": "",
         "\\m[vm]Okay, see you at the Clocktower later then!\\!\\ I'll be near the library if you need me, come talk to me whenever!": "",
         "Oh, and don't forget to check the Change God's statue too!\\!\\ For good luck!": "",
