@@ -17657,7 +17657,7 @@
         "\"...Probably not?\" <<v[2] > 2>>": "",
         "\"Odile is at the shop, Bonnie is...\" <<v[1] < 10>>": "",
         "\"Yes, don't worry about me!\"": "\"Oui, ne t'en fais pas pour moi !\"",
-        "\"I have things to do, I'll talk to you later!\"": "",
+        "\"I have things to do, I'll talk to you later!\"": "\"J'ai des choses à faire, on se voit plus tard !\"",
         "\"Okay...?\"": "",
         "\"Not really, haha!\"": "",
         "\"Sure.\"": "",
