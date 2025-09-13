@@ -2841,7 +2841,7 @@
         "\\m[vs](Well, this is new...)\\!\\": "\\m[vs](Eh bien, ça c'est nouveau...)\\!\\",
         "\\m[vm]Ah...\\!\\ Okay, but...": "\\m[vm]Ah...\\!\\ D'accord, mais...",
         "\\m[vs](You really have to talk to Loop right now...)\\!\\": "\\m[vs](Tu dois vraiment parler à Loop maintenant...)\\!\\",
-        "\\m[vm]Huh?!\\!\\ Um, Siffrin, please wait!!!": "",
+        "\\m[vm]Huh?!\\!\\ Um, Siffrin, please wait!!!": "\\m[vm]Hein ?!\\!\\ Heu, Siffrin, attends s'il te plaît !!!",
         "\\m[clear](What now.)": "",
         "\\m[vm]...Well, I know you're busy, but...": "",
         "\\m[clear](\"But help me tell everyone about the sleepover\"?)": "",
