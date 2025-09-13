@@ -8643,7 +8643,7 @@
         "...\\!\\m[wait]Okay, well...": "",
         "I'll be waiting in the village, alright?\\!\\ Come talk to me later!!!": "",
         "\\m[clear](With Mirabelle gone, your smile drops.)": "\\m[clear](Maintenant que Mirabelle est partie, ton sourire s'efface.)",
-        "\\m[wait](You're\\!\\m[wait] back.)": "",
+        "\\m[wait](You're\\!\\m[wait] back.)": "\\m[wait](Tu es\\!\\m[wait] de retour.)",
         "(Why are you back...?\\!\\ You beat the King, didn't you?\\!\\ Did something go wrong?)": "",
         "(It was the end of your journey,\\!\\ and yet you...)": "",
         "\\m[wait](The Head Housemaiden...\\!\\ She said something about the world being rotten?)": "",
