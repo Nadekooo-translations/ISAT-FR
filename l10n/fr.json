@@ -2802,7 +2802,7 @@
         "\\m[vm]...\\!Well, unrelated to your memory...": "\\m[vm]...\\!Eh bien, sans aucun rapport avec ta mémoire...",
         "Here's a note with everyone's location!\\!\\ Just in case!\\!\\ You!\\!\\ Forget!!!": "Voici une note avec les emplacements de chacun !\\!\\ Juste au cas où !\\!\\ Tu !\\!\\ Oublie !!!",
         "\\m[clear](Yeah, smart.)": "",
-        "\\m[clear](You got the REMINDER NOTE!)": "",
+        "\\m[clear](You got the REMINDER NOTE!)": "\\m[clear](Tu as obtenu le MÉMO!)",
         "(You put the note in your pocket along with your Souvenirs.)": "",
         "\\m[vtuto][You can check your SOUVENIRS by going into your pockets.]": "",
         "[To access your Pockets, open the Menu by pressing \\v[376].]": "",
