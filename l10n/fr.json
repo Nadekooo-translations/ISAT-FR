@@ -17651,7 +17651,7 @@
         "\"Talk to you later, Mira!\"": "\"On se voit plus tard, Mira !\"",
         "\"...Okay?\" <<v[1] > 0>>": "\"...D'accord?\" <<v[1] > 0>>",
         "\"That sounds like an AMAZING idea, Mira!\"<<v[1] === 0>>": "",
-        "\"N-no, I think it's fun!!! Let's do it!!!\"": "",
+        "\"N-no, I think it's fun!!! Let's do it!!!\"": "\"N-non, je pense que c'est fun !!! Faisons ça !!!\"",
         "\"Of course, Mira.\"": "",
         "\"I always remember things.\"": "",
         "\"...Probably not?\" <<v[2] > 2>>": "",
