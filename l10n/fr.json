@@ -2792,7 +2792,7 @@
         "\\m[clear](You're happy she's happy.)": "",
         "(You smile back.)": "(Tu souris en retour.)",
         "\\m[clear](Her smile still manages to bring your mood back up.)": "\\m[clear](Son sourire parvient toujours à te remonter le moral.)",
-        "\\m[clear](You smile back.)": "",
+        "\\m[clear](You smile back.)": "\\m[clear](Tu souris en retour.)",
         "\\m[wait](It hurts a little bit.)": "",
         "\\m[vm]--so, could you let everyone know?\\!\\ I would really appreciate it!": "",
         "\\m[vm]Okay!\\!\\ Let me think...": "",
