@@ -17668,7 +17668,7 @@
         "\"FISH\"": "\"POISSON\"",
         " (Yep.)": "",
         " (No...)": "",
-        "\"More of a lazy, take it easy type.\"": "",
+        "\"More of a lazy, take it easy type.\"": "\"Je suis plutôt du genre paresseux, tranquille.\"",
         "\"I knew about this, yes!\"<<v[10] === 1>>": "",
         "\"I've been running a lot.\"<<v[1] < 20>>": "",
         "\"I will now figuratively and metaphorically run from this situation.\"<< v[2] > 3>>": "",
