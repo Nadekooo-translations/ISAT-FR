@@ -17633,7 +17633,7 @@
         " \"Let's play Rock Paper Scissors.\"": "",
         "\"Hey Mira.\" <<v[1] === 1>>": "\"Salut Mira.\" <<v[1] === 1>>",
         "\"Hey, uh, hey again, Mira.\"<<v[1] === 0||v[1] > 1>>": "\"Salut, euh, re-salut, Mira.\"<<v[1] === 0||v[1] > 1>>",
-        "\"Hey Mira, have you thought about doing a sleepover tonight?\"<<v[2] < 3>>": "",
+        "\"Hey Mira, have you thought about doing a sleepover tonight?\"<<v[2] < 3>>": "\"Hé Mira, tu as pensé à faire une pyjama partie ce soir ?\"<<v[2] < 3>>",
         "\"1. A certain someone woke me up...\"<<v[1] > 0>>": "",
         "\"5. Completely average.\"<<v[1] > 0>>": "",
         "\"A solid 9.\"<<v[1] > 0>>": "",
