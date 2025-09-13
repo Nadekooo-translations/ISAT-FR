@@ -17637,7 +17637,7 @@
         "\"1. A certain someone woke me up...\"<<v[1] > 0>>": "\"1. Une certaine personne m'a réveillé...\"<<v[1] > 0>>",
         "\"5. Completely average.\"<<v[1] > 0>>": "\"5. Complètement normale.\"<<v[1] > 0>>",
         "\"A solid 9.\"<<v[1] > 0>>": "\"Un solide 9.\"<<v[1] > 0>>",
-        "\"Yes. Correct. I was taking nap time.\"<<v[1] === 0||v[1] > 1>>": "",
+        "\"Yes. Correct. I was taking nap time.\"<<v[1] === 0||v[1] > 1>>": "\"Oui. Exact. J'étais en train de faire la sieste.\"<<v[1] === 0||v[1] > 1>>",
         "\"It was alright.\" <<v[1] < 2>>": "",
         "\"Oh, you know.\" <<v[2] < 3>>": "",
         "\"How dare you wake me from my slumber.\"": "",
