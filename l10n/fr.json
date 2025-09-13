@@ -2838,7 +2838,7 @@
         "\\m[clear](What...?)": "\\m[clear](Quoi...?)",
         "\\m[vm]Siffrin...\\!\\ You're up...": "\\m[vm]Siffrin...\\!\\ Tu es debout...",
         "I'm, uh, I'm sorry I woke you up earlier.\\!\\ I know you joked about it, but are you feeling better now?\\!\\ I'm worried...": "Je suis, euh, je suis désolée de t'avoir réveillé plus tôt.\\!\\ Je sais que tu as plaisanté dessus, mais est-ce que tu te sens mieux ?\\!\\ Je m'inquiète...",
-        "\\m[vs](Well, this is new...)\\!\\": "",
+        "\\m[vs](Well, this is new...)\\!\\": "\\m[vs](Eh bien, ça c'est nouveau...)\\!\\",
         "\\m[vm]Ah...\\!\\ Okay, but...": "",
         "\\m[vs](You really have to talk to Loop right now...)\\!\\": "",
         "\\m[vm]Huh?!\\!\\ Um, Siffrin, please wait!!!": "",
