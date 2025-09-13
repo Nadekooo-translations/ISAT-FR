@@ -2847,7 +2847,7 @@
         "\\m[clear](\"But help me tell everyone about the sleepover\"?)": "\\m[clear](\"Mais aide-moi à parler à tout le monde pour la soirée pyjama\" ?)",
         "\\m[vm]...Can you come talk to me later?\\!\\ So we can talk?\\!\\ I'll wait in front of the library...": "\\m[vm]...Pourrais-tu venir me voir plus tard ?\\!\\ Pour qu'on puisse parler ?\\!\\ J'attendrais devant la bibliothèque...",
         "...\\!\\m[wait]Please.": "...\\!\\m[wait]S'il te plaît.",
-        "\\m[vm]Okay!\\!\\ Go do your thing, and then come back, okay?\\!\\ I'll be waiting!": "",
+        "\\m[vm]Okay!\\!\\ Go do your thing, and then come back, okay?\\!\\ I'll be waiting!": "\\m[vm]D'accord !\\!\\ Va faire ton truc, et reviens après, ok ?\\!\\ Je t'attendrais !",
         "\\m[clear](You nod again.)": "",
         "(Habit takes over, and you tell her about the CARROT method.)": "",
         "(You can't...)": "",
