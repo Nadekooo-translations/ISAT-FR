@@ -2942,7 +2942,7 @@
         "\\n<\\v[46]>Interesting, heheheee...": "\\n<\\v[46]>Intéressant, héhéhééé...",
         "\\n<\\v[46]>\\m[wait]Thank you.": "\\n<\\v[46]>\\m[wait]Merci.",
         "\\m[vwoman]\\n<\\v[46]>\\..\\..\\..\\!\\m[wait]Good luck, tomorrow.": "\\m[vwoman]\\n<\\v[46]>\\..\\..\\..\\!\\m[wait]Bonne chance, pour demain.",
-        "\\m[clear](You nod again, and walk away.)": "",
+        "\\m[clear](You nod again, and walk away.)": "\\m[clear](Tu hoches à nouveau la tête, et t'éloignes.)",
         "(You can't get stronger than this, though.)": "",
         "\\m[vwoman]\\n<\\v[46]>Of course.\\!\\ Come back whenever.": "",
         "\\m[vwoman]\\n<\\v[46]>...Hm?\\!\\ What I asked the Favor Tree?": "",
