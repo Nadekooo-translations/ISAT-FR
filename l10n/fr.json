@@ -2821,7 +2821,7 @@
         "Oh this makes so much sense.": "Oh c 'est tellement logique.",
         "\\m[clear](Mirabelle learned the Craft Skill \"Adorable Moving Shield\".\\!\\m[wait] Again.)": "\\m[clear](Mirabelle apprend la Compétence d'Art \"Adorable Bouclier Mobile\".\\!\\m[wait] Encore.)",
         "\\m[clear](You tell Mirabelle about the CARROT method so she can learn that one skill...)": "\\m[clear](Tu parles à Mirabelle de la méthode CAROTTE pour qu'elle puisse apprendre cette compétence...)",
-        "\\m[vm]W-Wait, how did you know about--": "",
+        "\\m[vm]W-Wait, how did you know about--": "\\m[vm]A-Attends, comment as-tu su pour--",
         "\\m[clear](...And wink.)": "",
         "\\m[vm]O-Okay...": "",
         "\\m[clear](Mirabelle learned the Craft Skill \"Adorable Moving Shield\" again.)": "",
