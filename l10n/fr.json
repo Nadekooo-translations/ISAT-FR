@@ -17639,7 +17639,7 @@
         "\"A solid 9.\"<<v[1] > 0>>": "\"Un solide 9.\"<<v[1] > 0>>",
         "\"Yes. Correct. I was taking nap time.\"<<v[1] === 0||v[1] > 1>>": "\"Oui. Exact. J'étais en train de faire la sieste.\"<<v[1] === 0||v[1] > 1>>",
         "\"It was alright.\" <<v[1] < 2>>": "",
-        "\"Oh, you know.\" <<v[2] < 3>>": "",
+        "\"Oh, you know.\" <<v[2] < 3>>": "\"Oh, tu sais.\" <<v[2] < 3>>",
         "\"How dare you wake me from my slumber.\"": "",
         "\"Punishment for one hundred years.\"": "",
         "\"Average is good!": "",
