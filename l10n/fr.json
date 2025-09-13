@@ -2865,7 +2865,7 @@
         "\\m[clear](The sign says: \"Favor Tree\".)": "\\m[clear](Le panneau indique : \"Arbre des Faveurs\".)",
         "\\m[clear](The sign says: \"Shop\".)": "\\m[clear](Le panneau indique : \"Magasin\".)",
         "\\m[clear](The sign says: \"Library\".)": "\\m[clear](Le panneau indique : \"Bibliothèque\".)",
-        "\\m[clear](Isabeau is probably at the tree.)": "",
+        "\\m[clear](Isabeau is probably at the tree.)": "\\m[clear](Isabeau est probablement à l'arbre.)",
         "(You shouldn't bother him...)": "",
         "(Better talk to Odile and Bonnie first.)": "",
         "(You also need to check the Change God's statue...\\!\\ Just so you can tell Mirabelle you did it.)": "",
