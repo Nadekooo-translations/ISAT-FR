@@ -17647,7 +17647,7 @@
         "\"Average is average?\"": "",
         "\"Average average average average.\"": "",
         "\"We'll do better next time.\"": "\"On fera mieux la prochaine fois.\"",
-        "\"Absolutely! I'll let everyone know!\"": "",
+        "\"Absolutely! I'll let everyone know!\"": "\"C'est génial ! J'en parlerai à tout le monde !\"",
         "\"Talk to you later, Mira!\"": "",
         "\"...Okay?\" <<v[1] > 0>>": "",
         "\"That sounds like an AMAZING idea, Mira!\"<<v[1] === 0>>": "",
