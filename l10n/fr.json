@@ -17671,7 +17671,7 @@
         "\"More of a lazy, take it easy type.\"": "\"Je suis plutôt du genre paresseux, tranquille.\"",
         "\"I knew about this, yes!\"<<v[10] === 1>>": "\"Je le savais, oui !\"<<v[10] === 1>>",
         "\"I've been running a lot.\"<<v[1] < 20>>": "",
-        "\"I will now figuratively and metaphorically run from this situation.\"<< v[2] > 3>>": "",
+        "\"I will now figuratively and metaphorically run from this situation.\"<< v[2] > 3>>": "\"Je vais maintenant effectivement et métaphoriquement fuir cette situation.\"<< v[2] > 3>>",
         "\"Maybe you should shut up.\" << v[2] < 3>>": "",
         "\"I do do all those things!\"": "",
         "\"...Everything okay?\"": "",
