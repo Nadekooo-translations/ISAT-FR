@@ -3153,7 +3153,7 @@
         "\\m[clear](The sign says: \"Dormont's Mignonne Boulangerie\".)": "",
         "\\m[clear](The sign says: \"East Dormont, Clocktower\".)": "",
         "\\m[clear](You had a nice time yesterday,\\!\\ hanging out with Isabeau under the stars.)": "",
-        "\\m[clear](You got a MEMORY OF STARGAZING!)": "",
+        "\\m[clear](You got a MEMORY OF STARGAZING!)": "\\m[clear](Tu as obtenu la MÉMOIRE DU CIEL ÉTOILÉ !)",
         "\\m[vtuto][Hi stardust!\\!\\ I didn't want to interrupt before, but...\\!\\ You got a new memory!]": "",
         "\\m[vtuto][When equipped, Memory of Stargazing boosts all of your Fighter's stats by 30!\\!\\ Wow!]": "",
         "[Your Fighter also learned the skill \"WE WILL WIN\"!!!]": "",
