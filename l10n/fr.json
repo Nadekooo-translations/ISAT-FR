@@ -3025,7 +3025,7 @@
         "\\m[vman]\\n<\\v[46]>Oof, someone woke up cranky from their nap!": "",
         "\\m[vman]\\n<\\v[46]>It's okay!\\!\\ Running is a great way to wake yourself up!": "",
         "\\m[clear](You run away.)": "\\m[clear](Tu fuis en courant.)",
-        "\\m[vman]\\n<\\v[46]>See?\\!\\ Hope you wake up soon!\\!\\ Good luck!!!": "",
+        "\\m[vman]\\n<\\v[46]>See?\\!\\ Hope you wake up soon!\\!\\ Good luck!!!": "\\m[vman]\\n<\\v[46]>Tu vois ?\\!\\J'espère que tu te réveilleras vite !\\!\\ Bonne chance !!!",
         "\\m[clear](They mutter \"run run run run run run run\" repeatedly under their breath.)": "",
         "\\m[clear](Odile is out of breath.)": "",
         "\\m[vo]Urgh...\\!\\ Ha...": "",
