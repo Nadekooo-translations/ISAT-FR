@@ -16100,7 +16100,7 @@
         "\\m[vo]Yes, I think using the same tactic twice would be quite stupid...": "",
         "\\m[clear](But what if one of those columns hides another switch?!?!\\!\\ You just can't take the chance.)": "",
         "(And if not switches...\\!\\ They might have SOMETHING in them.)": "",
-        "\\m[clear](You got a MEMORY OF PILLARS!)": "",
+        "\\m[clear](You got a MEMORY OF PILLARS!)": "\\m[clear](Tu as obtenu la MÉMOIRE DES PILIERS !)",
         "\\m[vtuto][If you have Memory of Pillars equipped, examining pillars might give you some cool items!]": "",
         "[...Which is a little weird, I gotta say.\\!\\ Why would you find stuff in them?\\!\\ I don't get it, but that's how the world works now.\\!\\ Yay?]\\m[rb]": "",
         "\\m[clear](The bird chirps.)": "",
