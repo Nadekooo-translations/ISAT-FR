@@ -2141,7 +2141,7 @@
         "\\m[clear](You feel safe surrounded by all your friends...)": "",
         "\\m[clear](You fall asleep.)": "",
         "\\m[clear](You think about how far you still have to go before beating the King...)": "",
-        "\\m[clear](You close your eyes.)": "",
+        "\\m[clear](You close your eyes.)": "\\m[clear](Tu fermes les yeux.)",
         "(You wonder if you'll be able to sleep tonight.)": "",
         "(You never actually rest, at the Clocktower.)": "",
         "(Isabeau talks to you to say nothing,\\!\\ and you answer,\\!\\ or you don't,\\!\\ and you blink,\\!\\ and it's over.)": "",
