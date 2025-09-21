@@ -19164,5 +19164,2798 @@
         "EPILOGUE": "EPILOGUE",
         "\\i[70]Fast-Forward": "\\i[70]Fast-Forward",
         "<wordwrap>\\}Fast forward through all fast-forwardable conversations, regardless of whether you've seen them once before.": "<wordwrap>\\}Fast forward through all fast-forwardable conversations, regardless of whether you've seen them once before."
+    },
+    "objects": {
+        "Actors": {
+            "1": {
+                "name": "Siffrin"
+            },
+            "2": {
+                "name": "Isabeau"
+            },
+            "3": {
+                "name": "Mirabelle"
+            },
+            "4": {
+                "name": "Odile"
+            },
+            "5": {
+                "name": "Bonnie"
+            },
+            "6": {
+                "name": "Siffrin"
+            },
+            "7": {
+                "name": "Siffrin"
+            },
+            "8": {
+                "name": "Siffrin"
+            },
+            "9": {
+                "name": "Siffrin"
+            },
+            "10": {
+                "name": "[[Skill]]"
+            }
+        },
+        "Armors": {
+            "1": {
+                "name": "Traveler's Hat",
+                "description": "Looks remarkably like a wizard's hat. \n[Boosts ATKSPD & CritChance.]"
+            },
+            "2": {
+                "name": "Rectangular Earrings",
+                "description": "Earrings that fortify the wearer's body and soul. \nIf you touch one it goes \"ding ding\"! [Boosts DEF]"
+            },
+            "3": {
+                "name": "Big Bow",
+                "description": "Cute! Massive! Makes one easy to pick out of a crowd! [Boosts DEF]"
+            },
+            "4": {
+                "name": "Geometric Glasses",
+                "description": "Object that curses the wearer with blindness whenever it's not worn. \n[Boosts DEF & ATKSPD.]"
+            },
+            "5": {
+                "name": "Round Hat",
+                "description": "Hat so heavy it HAS to make you stronger. [Boosts ATK.]"
+            },
+            "6": {
+                "name": "-----[ARMOR]-----",
+                "description": ""
+            },
+            "7": {
+                "name": "-[SIFFRIN]-",
+                "description": ""
+            },
+            "8": {
+                "name": "",
+                "description": ""
+            },
+            "9": {
+                "name": "(No Hat!)",
+                "description": "You can see better, now. \n[Boosts ATKSPD & CritChance]"
+            },
+            "10": {
+                "name": "Starry Hat",
+                "description": "\\}The fabric lining the inside of the hat is filled with stars. \n[Boosts DEF, ATKSPD & CritChance, heals 5% HP every turn.]"
+            },
+            "11": {
+                "name": "-[ISA]-",
+                "description": ""
+            },
+            "12": {
+                "name": "Drop Earring",
+                "description": "A single earring. Looks cooler than wearing two. \n[Boosts ATKSPD.]"
+            },
+            "13": {
+                "name": "",
+                "description": ""
+            },
+            "14": {
+                "name": "",
+                "description": ""
+            },
+            "15": {
+                "name": "-[MIRA]-",
+                "description": ""
+            },
+            "16": {
+                "name": "Stylish Bow",
+                "description": "Made by a fellow classmate, with love. \n[Boosts ATKSPD, recovers 2% HP every turn.]"
+            },
+            "17": {
+                "name": "",
+                "description": ""
+            },
+            "18": {
+                "name": "",
+                "description": ""
+            },
+            "19": {
+                "name": "-[ODILE]-",
+                "description": ""
+            },
+            "20": {
+                "name": "Opaque Glasses",
+                "description": "\\}Makes you look super intimidating. But at what cost... \n[Boosts ATK & CritChance, but lowers DEF.]"
+            },
+            "21": {
+                "name": "",
+                "description": ""
+            },
+            "22": {
+                "name": "",
+                "description": ""
+            },
+            "23": {
+                "name": "-[BONNIE]-",
+                "description": ""
+            },
+            "24": {
+                "name": "Pillow Hat",
+                "description": "Both a pillow AND a hat! [Boosts ATK.]"
+            },
+            "25": {
+                "name": "",
+                "description": ""
+            },
+            "26": {
+                "name": "",
+                "description": ""
+            },
+            "27": {
+                "name": "",
+                "description": ""
+            },
+            "28": {
+                "name": "",
+                "description": ""
+            },
+            "29": {
+                "name": "",
+                "description": ""
+            },
+            "30": {
+                "name": "",
+                "description": ""
+            },
+            "31": {
+                "name": "---[MEMORIES]---",
+                "description": ""
+            },
+            "32": {
+                "name": "Memory of Self",
+                "description": "It's a memory of you! You have, theoretically, \nso many to choose from! [+5 to all stats.]"
+            },
+            "33": {
+                "name": "Memory of Keys",
+                "description": "\\}This castle's full of keys! [When interacting with a locked \ndoor, get directions for where its key is.]"
+            },
+            "34": {
+                "name": "Memory of Sadnesses",
+                "description": "They're scared of you. \n[Sadnesses will flee from you.]"
+            },
+            "35": {
+                "name": "",
+                "description": ""
+            },
+            "36": {
+                "name": "Memory of Ghosts",
+                "description": "House's haunted. [No effect.]"
+            },
+            "37": {
+                "name": "Memory of Touch",
+                "description": "\\}You had eyes bigger than your stomach. Disgusting, disgusting, disgusting. \n[-50 to all stats.]"
+            },
+            "38": {
+                "name": "Memory of Fishing",
+                "description": "\\}Don't have to think about anything. [+2 ATK for\n every time you've gone fishing, but -20 ATKSPD.]"
+            },
+            "39": {
+                "name": "Memory of Barrels",
+                "description": "You like looking inside barrels. [Randomly find items when\n interacting with barrels.]"
+            },
+            "40": {
+                "name": "Memory of Pillars",
+                "description": "Paranoia also starts with a P. [Randomly find items when\n interacting with pillars.]"
+            },
+            "41": {
+                "name": "---[MIRABELLE]---",
+                "description": ""
+            },
+            "42": {
+                "name": "Memory of Mirabelle",
+                "description": "Mirabelle, shy and kind. This is how you remember her. \n[+5 to all stats.]"
+            },
+            "43": {
+                "name": "Memory of Butt Kicking",
+                "description": "\\}Mirabelle will kick some butt. By healing. \n[Will revive a K.O. \\v[283] once per battle.]"
+            },
+            "44": {
+                "name": "Memory of Change God",
+                "description": "\\}Mirabelle doesn't remember them, but she still feels them. \n[Auto \\i[19]Adorable Moving Shield at the start of battle.]"
+            },
+            "45": {
+                "name": "Memory of Learning",
+                "description": "\\}Mirabelle, always ready to learn more. \n[Cooldown for all her Craft skills lowered by 1.]"
+            },
+            "46": {
+                "name": "",
+                "description": ""
+            },
+            "47": {
+                "name": "Memory of Lovely Moving Cure",
+                "description": "\\}Mirabelle can learn this skill. \n[When equipped, learns the skill \"Lovely Moving Cure\".]"
+            },
+            "48": {
+                "name": "Memory of Shining Life",
+                "description": "Mirabelle can learn this skill. [When equipped, learns the skill \"Shining Life\"]"
+            },
+            "49": {
+                "name": "Memory of Mega Sparkle Heal",
+                "description": "\\}Mirabelle can learn this skill. [When equipped, learns the skill \"Mega Sparkle Heal\".]"
+            },
+            "50": {
+                "name": "Memory of Faith",
+                "description": "You and Mirabelle talked about your faith together. [+30 to all stats.]"
+            },
+            "51": {
+                "name": "---[ISABEAU]---",
+                "description": ""
+            },
+            "52": {
+                "name": "Memory of Isabeau",
+                "description": "Isabeau, loud and brave. This is how you remember him.\n [+5 to all stats.]"
+            },
+            "53": {
+                "name": "Memory of Reflection",
+                "description": "Isabeau sees it all. Ready for anything.<br>\n[Auto \\i[35]DEF UP at the start of battle.]"
+            },
+            "54": {
+                "name": "Memory of Confession",
+                "description": "Isabeau. Like trying to get blood from a stone. \n[Isabeau is immune to Rock attacks.]"
+            },
+            "55": {
+                "name": "Memory of Puns",
+                "description": "Isabeau makes you laugh.<br>\n[Boosts CritChance by 15%.]"
+            },
+            "56": {
+                "name": "",
+                "description": ""
+            },
+            "57": {
+                "name": "Memory of SO WEAK!!!",
+                "description": "Isabeau can learn this skill. [When equipped, learns the skill \"SO WEAK!!!\"]"
+            },
+            "58": {
+                "name": "Memory of BREAK, BREAK!!!",
+                "description": "\\}Isabeau can learn this skill. \n[When equipped, learns the skill \"BREAK, BREAK!!!\"]"
+            },
+            "59": {
+                "name": "Memory of NOT OVER YET!!!",
+                "description": "Isabeau can learn this skill. [When equipped, learns the skill \"NOT OVER YET!!!\"]"
+            },
+            "60": {
+                "name": "Memory of Stargazing",
+                "description": "You and Isabeau looked at the stars together. \n[+30 to all stats.]"
+            },
+            "61": {
+                "name": "---[ODILE]---",
+                "description": ""
+            },
+            "62": {
+                "name": "Memory of Odile",
+                "description": "Odile, curious and perceptive. This is how you remember her. \n[+5 to all stats.]"
+            },
+            "63": {
+                "name": "Memory of Tonics",
+                "description": "Odile knows her tonics. [Health items used by Odile \nduring battle restore more HP.]"
+            },
+            "64": {
+                "name": "",
+                "description": ""
+            },
+            "65": {
+                "name": "Memory of First Strike",
+                "description": "Odile is merciless. [Auto \\i[10]ATKSPD UP at the start of battle.]"
+            },
+            "66": {
+                "name": "Memory of A Secret",
+                "description": "Too perceptive.<br>\n[+50 ATK]"
+            },
+            "67": {
+                "name": "Memory of Paper α V",
+                "description": "Odile can learn this skill.<br>\n[When equipped, learns the skill \"Paper α V\".]"
+            },
+            "68": {
+                "name": "Memory of Craft Buff",
+                "description": "\\}Odile can learn this skill.<br>\n[When equipped, learns the skill \"Craft Buff\".]"
+            },
+            "69": {
+                "name": "Memory of Craft Break",
+                "description": "\\}Odile can learn this skill. \n[When equipped, learns the skill \"Craft Break\".]"
+            },
+            "70": {
+                "name": "Memory of Secret Quest",
+                "description": "You and Odile went on a secret quest together.<br>\n[+30 to all stats.]"
+            },
+            "71": {
+                "name": "---[BONNIE]---",
+                "description": ""
+            },
+            "72": {
+                "name": "Memory of Bonnie",
+                "description": "\\}Bonnie, young and angry. This is how you remember them. \n[Bonnie is more likely to attack.]"
+            },
+            "73": {
+                "name": "Memory of Snacks",
+                "description": "Bonnie likes to feed everyone.<br>\n[Bonnie is more likely to heal everyone.]"
+            },
+            "74": {
+                "name": "Memory of Promise",
+                "description": "Bonnie won't let anything happen to you.<br>\n[Bonnie is more likely to buff everyone.]"
+            },
+            "75": {
+                "name": "Memory of Safe Rooms",
+                "description": "Bonnie is always taking care of you. \n[Recover all HP after the end of a battle.]"
+            },
+            "76": {
+                "name": "",
+                "description": ""
+            },
+            "77": {
+                "name": "",
+                "description": ""
+            },
+            "78": {
+                "name": "",
+                "description": ""
+            },
+            "79": {
+                "name": "",
+                "description": ""
+            },
+            "80": {
+                "name": "Memory of Training",
+                "description": "You and Bonnie trained together.<br>\n[Bonnie will never miss.]"
+            },
+            "81": {
+                "name": "---[SPECIAL]---",
+                "description": ""
+            },
+            "82": {
+                "name": "Memory of Looping",
+                "description": "Round and round it goes.<br>\n[+5 MaxHP per loop.]"
+            },
+            "83": {
+                "name": "Memory of Defeat",
+                "description": "Still a long way to go. \n[Get x3 \\i[70]Memories when defeating normal Sadnesses.]"
+            },
+            "84": {
+                "name": "Memory of Victory",
+                "description": "\\v[358]\n[Auto \\i[34]ATK UP at the start of battles.]"
+            },
+            "85": {
+                "name": "",
+                "description": ""
+            },
+            "86": {
+                "name": "Memory of Family",
+                "description": "You don't want to leave them behind.<br>\n[EXP x2 for everyone except Siffrin.]"
+            },
+            "87": {
+                "name": "Memory of Memories",
+                "description": "You remember this, at least.<br>\n[Can read books you couldn't read before.]"
+            },
+            "88": {
+                "name": "Memory of Emptiness",
+                "description": "Nothing comes to mind, hahahahaha! \n[Can loop back immediately when dead.]"
+            },
+            "89": {
+                "name": "Memory of A Journey",
+                "description": "The curtains will close, but the story will go on for a bit longer!\n[Heals 6% HP every turn.]"
+            },
+            "90": {
+                "name": "Memory of Bomb",
+                "description": "KABOOM!!! [If looping to the King, will have Bomb in Pockets.]"
+            },
+            "91": {
+                "name": "Memory of KnifeKey",
+                "description": "Slice, slice, slice. [If looping to the King, will have KnifeKey equipped.]"
+            },
+            "92": {
+                "name": "",
+                "description": ""
+            },
+            "93": {
+                "name": "",
+                "description": ""
+            },
+            "94": {
+                "name": "",
+                "description": ""
+            },
+            "95": {
+                "name": "",
+                "description": ""
+            },
+            "96": {
+                "name": "",
+                "description": ""
+            },
+            "97": {
+                "name": "",
+                "description": ""
+            },
+            "98": {
+                "name": "",
+                "description": ""
+            },
+            "99": {
+                "name": "",
+                "description": ""
+            },
+            "100": {
+                "name": "",
+                "description": ""
+            }
+        },
+        "Classes": {
+            "1": {
+                "name": "The Traveler"
+            },
+            "2": {
+                "name": "The Fighter"
+            },
+            "3": {
+                "name": "The Housemaiden"
+            },
+            "4": {
+                "name": "The Researcher"
+            },
+            "5": {
+                "name": "The Kid"
+            },
+            "6": {
+                "name": "The Lost One"
+            },
+            "7": {
+                "name": "The Playing One"
+            },
+            "8": {
+                "name": "The Kid (Fight!!!)"
+            },
+            "9": {
+                "name": "Mal Du Pays"
+            }
+        },
+        "Enemies": {
+            "1": {
+                "name": "TRISTESSE"
+            },
+            "2": {
+                "name": "DÉPIT"
+            },
+            "3": {
+                "name": "CHAGRIN"
+            },
+            "4": {
+                "name": "PEINE"
+            },
+            "5": {
+                "name": "ANGOISSE"
+            },
+            "6": {
+                "name": "DEUIL"
+            },
+            "7": {
+                "name": "MISÈRE"
+            },
+            "8": {
+                "name": "ANXIÉTÉ"
+            },
+            "9": {
+                "name": ""
+            },
+            "10": {
+                "name": ""
+            },
+            "11": {
+                "name": "TOURMENT"
+            },
+            "12": {
+                "name": "TOURMENT"
+            },
+            "13": {
+                "name": "TOURMENT"
+            },
+            "14": {
+                "name": "DÉSESPOIR"
+            },
+            "15": {
+                "name": "RANCOEUR"
+            },
+            "16": {
+                "name": "AMERTUME"
+            },
+            "17": {
+                "name": "NOSTALGIE"
+            },
+            "18": {
+                "name": "NOSTALGIE"
+            },
+            "19": {
+                "name": "NOSTALGIE"
+            },
+            "20": {
+                "name": "TUTORIAL KID"
+            },
+            "21": {
+                "name": "CALAMITÉ"
+            },
+            "22": {
+                "name": "ACCABLEMENT"
+            },
+            "23": {
+                "name": "ABATTEMENT"
+            },
+            "24": {
+                "name": "BOURDON"
+            },
+            "25": {
+                "name": "-[BOSSES]-"
+            },
+            "26": {
+                "name": "THE KING"
+            },
+            "27": {
+                "name": "THE KING'S TEARS"
+            },
+            "28": {
+                "name": "FRIENDSVISUAL"
+            },
+            "29": {
+                "name": "THE KING"
+            },
+            "30": {
+                "name": "MAL DU PAYS"
+            },
+            "31": {
+                "name": "ALL ALLIES"
+            },
+            "32": {
+                "name": ""
+            },
+            "33": {
+                "name": ""
+            },
+            "34": {
+                "name": "LOOP"
+            },
+            "35": {
+                "name": "LOOP"
+            },
+            "36": {
+                "name": "-[TUTORIALS]"
+            },
+            "37": {
+                "name": "TRISTESSE"
+            },
+            "38": {
+                "name": "TRISTESSE"
+            },
+            "39": {
+                "name": "TRISTESSE"
+            },
+            "40": {
+                "name": "[test baby]"
+            },
+            "41": {
+                "name": "-[BONNIEQUEST]"
+            },
+            "42": {
+                "name": "TRISTESSE"
+            },
+            "43": {
+                "name": "TRISTESSE"
+            },
+            "44": {
+                "name": "TRISTESSE"
+            },
+            "45": {
+                "name": "-[MORE]"
+            },
+            "46": {
+                "name": "TRISTESSE"
+            },
+            "47": {
+                "name": "TRISTESSE"
+            },
+            "48": {
+                "name": ""
+            },
+            "49": {
+                "name": ""
+            },
+            "50": {
+                "name": "DÉTRESSE"
+            },
+            "51": {
+                "name": "DÉTRESSE"
+            },
+            "52": {
+                "name": "DÉTRESSE"
+            },
+            "53": {
+                "name": ""
+            },
+            "54": {
+                "name": "MISÈRE"
+            },
+            "55": {
+                "name": "MISÈRE"
+            },
+            "56": {
+                "name": "ROCK HAND"
+            },
+            "57": {
+                "name": "ROCK HAND"
+            },
+            "58": {
+                "name": "PAPER HAND"
+            },
+            "59": {
+                "name": "PAPER HAND"
+            },
+            "60": {
+                "name": "SCISSORS HAND"
+            },
+            "61": {
+                "name": "SCISSORS HAND"
+            },
+            "62": {
+                "name": ""
+            },
+            "63": {
+                "name": "MAL DU PAYS"
+            },
+            "64": {
+                "name": "THE KING"
+            },
+            "65": {
+                "name": ""
+            },
+            "66": {
+                "name": ""
+            },
+            "67": {
+                "name": ""
+            },
+            "68": {
+                "name": ""
+            },
+            "69": {
+                "name": ""
+            },
+            "70": {
+                "name": ""
+            },
+            "71": {
+                "name": ""
+            },
+            "72": {
+                "name": ""
+            },
+            "73": {
+                "name": ""
+            },
+            "74": {
+                "name": ""
+            },
+            "75": {
+                "name": ""
+            },
+            "76": {
+                "name": ""
+            },
+            "77": {
+                "name": ""
+            },
+            "78": {
+                "name": ""
+            },
+            "79": {
+                "name": ""
+            },
+            "80": {
+                "name": "[test]"
+            }
+        },
+        "Items": {
+            "1": {
+                "name": "-[BATTLE ITEMS]-",
+                "description": ""
+            },
+            "2": {
+                "name": "Sour Tonic",
+                "description": "Drink that heals 50% of \\v[285]'s HP.<br>Tastes sour..."
+            },
+            "3": {
+                "name": "Super Sour Tonic",
+                "description": "Drink that heals 40% of everyone's HP. \n<br>Makes you do a kissy face when you drink it!"
+            },
+            "4": {
+                "name": "Crafted Water",
+                "description": "Drink that revives a \\i[1]KO'd \\v[283], restoring 60% of their HP. Tastes fruity!"
+            },
+            "5": {
+                "name": "Pepper Juice",
+                "description": "Boosts everyone's ATTACK. The spice will make you strong!"
+            },
+            "6": {
+                "name": "Ginger Juice",
+                "description": "Boosts everyone's DEFENSE. <br>\nDid you know ginger helps you not be sick?"
+            },
+            "7": {
+                "name": "Thyme Juice",
+                "description": "Makes everyone FASTER. Apparently this is a fun wordplay in some languages..."
+            },
+            "8": {
+                "name": "",
+                "description": ""
+            },
+            "9": {
+                "name": "Sweet Tonic",
+                "description": "Drink that completely recovers one \\v[283]'s HP. Tastes sweet! So sweet!"
+            },
+            "10": {
+                "name": "Super Sweet Tonic",
+                "description": "Drink that completely heals everyone's HP. \n<br>Makes you smile when you drink it!"
+            },
+            "11": {
+                "name": "Salty Broth",
+                "description": "Drink that lowers all of \\v[285]'s Craft Skill \\i[6]COOLDOWNS by 6. So salty?!?"
+            },
+            "12": {
+                "name": "Your Dagger",
+                "description": "To use on yourself."
+            },
+            "13": {
+                "name": "Bomb",
+                "description": "It's a bomb!!! Use it once to do some big damage."
+            },
+            "14": {
+                "name": "",
+                "description": ""
+            },
+            "15": {
+                "name": "",
+                "description": ""
+            },
+            "16": {
+                "name": "",
+                "description": ""
+            },
+            "17": {
+                "name": "",
+                "description": ""
+            },
+            "18": {
+                "name": "",
+                "description": ""
+            },
+            "19": {
+                "name": "",
+                "description": ""
+            },
+            "20": {
+                "name": "",
+                "description": ""
+            },
+            "21": {
+                "name": "-[CASTLE ITEMS]-",
+                "description": "like keys and advancing thru story"
+            },
+            "22": {
+                "name": "Circle Key",
+                "description": "A key adorned with a keychain shaped like concentric circles."
+            },
+            "23": {
+                "name": "Egg Key",
+                "description": "A key adorned with an egg-shaped keychain."
+            },
+            "24": {
+                "name": "Broken Egg Key",
+                "description": "A key adorned with a broken egg-shaped keychain."
+            },
+            "25": {
+                "name": "Rock Key",
+                "description": "A key adorned with a Rock hand-shaped keychain."
+            },
+            "26": {
+                "name": "Paper Key",
+                "description": "A key adorned with a Paper hand-shaped keychain."
+            },
+            "27": {
+                "name": "Scissors Key",
+                "description": "A key adorned with a Scissors hand-shaped keychain."
+            },
+            "28": {
+                "name": "Smiling Key",
+                "description": "A key adorned with a keychain shaped like a smiling mask."
+            },
+            "29": {
+                "name": "Angry Key",
+                "description": "A key adorned with a keychain shaped like an angry mask."
+            },
+            "30": {
+                "name": "Crying Key",
+                "description": "A key adorned with a keychain shaped like a crying mask.\n Found on the 2nd floor."
+            },
+            "31": {
+                "name": "Empty Key",
+                "description": "\\v[288]"
+            },
+            "32": {
+                "name": "Star Crest",
+                "description": "A crest shaped like a star.<br>\nThere's a teardrop engraved onto it."
+            },
+            "33": {
+                "name": "Star Crest",
+                "description": "A crest shaped like a star.<br>\nThere's a clock engraved onto it."
+            },
+            "34": {
+                "name": "Star Crest",
+                "description": "A crest shaped like a star.<br>\nThere's another star engraved onto it."
+            },
+            "35": {
+                "name": "KeyKnife",
+                "description": "\\v[359]"
+            },
+            "36": {
+                "name": "",
+                "description": ""
+            },
+            "37": {
+                "name": "",
+                "description": ""
+            },
+            "38": {
+                "name": "",
+                "description": ""
+            },
+            "39": {
+                "name": "",
+                "description": ""
+            },
+            "40": {
+                "name": "",
+                "description": ""
+            },
+            "41": {
+                "name": "-[KNICKKNACKS]-",
+                "description": "template"
+            },
+            "42": {
+                "name": "Silver Coin",
+                "description": "\\v[282]"
+            },
+            "43": {
+                "name": "Bright Flower",
+                "description": "A four-petal flower full of hidden meaning.<br>\nYou can gift it to your \\v[284]."
+            },
+            "44": {
+                "name": "Shiny Piece of Glass",
+                "description": "Shiny. Sharp. Use carefully."
+            },
+            "45": {
+                "name": "Crumpled Poem",
+                "description": "\"You were there all along,<br>but still, you return home.\""
+            },
+            "46": {
+                "name": "Reminder Note",
+                "description": "\\v[287]"
+            },
+            "47": {
+                "name": "Four-Pointed Leaf",
+                "description": "Crinkle, crinkle, it's close to Fall.<br>\nIts shape looks familiar somehow."
+            },
+            "48": {
+                "name": "Lumpy Clay",
+                "description": "Is nothing, but can become anything."
+            },
+            "49": {
+                "name": "Mirror Picture",
+                "description": "A picture of you and your \\v[284]."
+            },
+            "50": {
+                "name": "Sharpening Stone",
+                "description": "To make things sharper! Use it on the KeyKnife!"
+            },
+            "51": {
+                "name": "Bell Pendant",
+                "description": "A pendant, without it's chain. It's shaped like a bell."
+            },
+            "52": {
+                "name": "Massive Chain",
+                "description": "A chain, without its pendant. Its beads are massive..."
+            },
+            "53": {
+                "name": "Drawn Card",
+                "description": "A crumpled, hand-drawn card.<br>\nThe bottom says \"\\v[289]\"."
+            },
+            "54": {
+                "name": "Friendship Doodle",
+                "description": "A static drawing of you and your friends."
+            },
+            "55": {
+                "name": "Loving Fanmail",
+                "description": "\\v[292]"
+            },
+            "56": {
+                "name": "Broken Doll",
+                "description": "A doll missing half its face. It's cute\\v[286]"
+            },
+            "57": {
+                "name": "Long Thingy-Thing",
+                "description": "It's a long thingy-thing. Doesn't get more descriptive than that."
+            },
+            "58": {
+                "name": "Short Gizmo-Gadget",
+                "description": "It's a short gizmo-gadget. Doesn't get more descriptive than that."
+            },
+            "59": {
+                "name": "Secret Ingredient",
+                "description": "A small vial labelled \"Secret Ingredient\". What is it for?"
+            },
+            "60": {
+                "name": "Bonding Earring",
+                "description": "A beautiful dark dangling earring, proof of someone's love."
+            },
+            "61": {
+                "name": "Eternal Snacks",
+                "description": "\\v[290]"
+            },
+            "62": {
+                "name": "Silver Coin",
+                "description": "A silver coin you found under the Favor Tree."
+            },
+            "63": {
+                "name": "",
+                "description": ""
+            },
+            "64": {
+                "name": "",
+                "description": ""
+            },
+            "65": {
+                "name": "-[MEMORIES]-",
+                "description": ""
+            },
+            "66": {
+                "name": "Memory of Skirmish",
+                "description": "\\v[291] [Use to know how many \\i[70] you have.]"
+            },
+            "67": {
+                "name": "Memory of Battle",
+                "description": "It'll keep getting easier. Or is it harder?<br>\n[Worth 5 Memories of Skirmish.]"
+            },
+            "68": {
+                "name": "Memory of Conflict",
+                "description": "Defeating a King. What does that make you?<br>\n[Worth 10 Memories of Skirmish.]"
+            },
+            "69": {
+                "name": "",
+                "description": ""
+            },
+            "70": {
+                "name": "",
+                "description": ""
+            },
+            "71": {
+                "name": "",
+                "description": ""
+            },
+            "72": {
+                "name": "",
+                "description": ""
+            },
+            "73": {
+                "name": "",
+                "description": ""
+            },
+            "74": {
+                "name": "",
+                "description": ""
+            },
+            "75": {
+                "name": "",
+                "description": ""
+            },
+            "76": {
+                "name": "",
+                "description": ""
+            },
+            "77": {
+                "name": "",
+                "description": ""
+            },
+            "78": {
+                "name": "",
+                "description": ""
+            },
+            "79": {
+                "name": "",
+                "description": ""
+            },
+            "80": {
+                "name": "",
+                "description": ""
+            },
+            "81": {
+                "name": "",
+                "description": ""
+            },
+            "82": {
+                "name": "",
+                "description": ""
+            },
+            "83": {
+                "name": "",
+                "description": ""
+            },
+            "84": {
+                "name": "",
+                "description": ""
+            },
+            "85": {
+                "name": "",
+                "description": ""
+            },
+            "86": {
+                "name": "",
+                "description": ""
+            },
+            "87": {
+                "name": "",
+                "description": ""
+            },
+            "88": {
+                "name": "",
+                "description": ""
+            },
+            "89": {
+                "name": "",
+                "description": ""
+            },
+            "90": {
+                "name": "",
+                "description": ""
+            },
+            "91": {
+                "name": "",
+                "description": ""
+            },
+            "92": {
+                "name": "",
+                "description": ""
+            },
+            "93": {
+                "name": "",
+                "description": ""
+            },
+            "94": {
+                "name": "",
+                "description": ""
+            },
+            "95": {
+                "name": "",
+                "description": ""
+            },
+            "96": {
+                "name": "",
+                "description": ""
+            },
+            "97": {
+                "name": "",
+                "description": ""
+            },
+            "98": {
+                "name": "",
+                "description": ""
+            },
+            "99": {
+                "name": "",
+                "description": ""
+            },
+            "100": {
+                "name": "",
+                "description": ""
+            }
+        },
+        "Skills": {
+            "1": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "\\#\\i[85]\\#\\v[317]",
+                "description": ""
+            },
+            "2": {
+                "message1": " guards.",
+                "message2": "",
+                "name": "\\#\\v[318]",
+                "description": ""
+            },
+            "3": {
+                "message1": " flees.",
+                "message2": "",
+                "name": "Escape",
+                "description": ""
+            },
+            "4": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "\\#\\i[163]\\#\\v[317]",
+                "description": ""
+            },
+            "5": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "\\#\\i[164]\\#\\v[317]",
+                "description": ""
+            },
+            "6": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "\\#\\i[165]\\#\\v[317]",
+                "description": ""
+            },
+            "7": {
+                "message1": "",
+                "message2": "You attack\\v[286]",
+                "name": "\\#\\i[165]\\#\\v[317]",
+                "description": ""
+            },
+            "8": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "9": {
+                "message1": "",
+                "message2": "",
+                "name": " ---[SIFFRIN]---",
+                "description": ""
+            },
+            "10": {
+                "message1": "",
+                "message2": "",
+                "name": "(Ask...)",
+                "description": "You have so many questions.<br>\nDoesn't use a turn."
+            },
+            "11": {
+                "message1": "",
+                "message2": "You say a cool one liner\\v[286]",
+                "name": "Knife To Meet You",
+                "description": "Deals \\i[117]SCISSORS damage to one enemy.<br>\nMight lower enemy's \\i[51]DEFENSE. 1 turn\\i[6]."
+            },
+            "12": {
+                "message1": "",
+                "message2": "You say a funny catchphrase\\v[286]",
+                "name": "Too Cleaver by Half",
+                "description": "Deals \\i[117]SCISSORS damage to all enemies.<br>\nMight lower enemies' \\i[50]ATTACK. 3 turn\\i[6]."
+            },
+            "13": {
+                "message1": "",
+                "message2": "You strike.",
+                "name": "(Just attack.)",
+                "description": "\\}Deals massive \\i[117]SCISSORS damage to all enemies. \nDoesn't give a JACKPOT POINT. 3 turn\\i[6]."
+            },
+            "14": {
+                "message1": "",
+                "message2": "You snap your fingers\\v[286]",
+                "name": "Make Up The Time",
+                "description": "Makes all \\v[284] \\i[10]FASTER for a few turns. 3 turn\\i[6]."
+            },
+            "15": {
+                "message1": "",
+                "message2": "You give away your turn\\v[286]",
+                "name": "Turn It Up",
+                "description": "Give your turn to \\v[285], \\i[67]BOOSTING\n their \\i[34]ATK and \\i[36]CRIT CHANCE. 1 turn\\i[6]."
+            },
+            "16": {
+                "message1": "",
+                "message2": "You close your eyes...",
+                "name": "Done Heal",
+                "description": "Heal 30% of \\v[285]'s HP and boosts their \\i[34]ATTACK.\n 2 turn\\i[6]."
+            },
+            "17": {
+                "message1": "",
+                "message2": "You wave goodbye\\v[286]",
+                "name": "In A While, Rockodile",
+                "description": "Deals weak \\i[115]ROCK damage to one enemy. \nGives two JACKPOT points instead of one. 2 turn\\i[6]."
+            },
+            "18": {
+                "message1": "",
+                "message2": "You wink\\v[286]",
+                "name": "Rose Printed Glasses",
+                "description": "Deals weak \\i[116]PAPER damage to one enemy. \nGives two JACKPOT points instead of one. 2 turn\\i[6]."
+            },
+            "19": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "20": {
+                "message1": "",
+                "message2": "You wink and attack\\v[286]",
+                "name": "Buy One Get One Three",
+                "description": "Deals three \\i[117]SCISSORS hits to one enemy.<br>\nHigh chance of doing a Critical hit. 2 turn\\i[6]."
+            },
+            "21": {
+                "message1": "",
+                "message2": "",
+                "name": "  ---[ISABEAU]---",
+                "description": ""
+            },
+            "22": {
+                "message1": " yells \"%1\"!",
+                "message2": "",
+                "name": "SMASH!!!",
+                "description": "Deals \\i[115]ROCK damage to one enemy. 1 turn\\i[6]."
+            },
+            "23": {
+                "message1": " yells \"%1\"!",
+                "message2": "",
+                "name": "KABOOM!!!",
+                "description": "Deals \\i[115]ROCK damage to all enemies. 2 turn\\i[6]."
+            },
+            "24": {
+                "message1": " yells encouragments to everyone!",
+                "message2": "",
+                "name": "COME ON!!!",
+                "description": "Boosts all \\v[284]' \\i[35]DEFENSE. 3 turn\\i[6]."
+            },
+            "25": {
+                "message1": " looks cute and fragile!",
+                "message2": "",
+                "name": "SO WEAK!!!",
+                "description": "Lowers one enemy's \\i[50]ATTACK. 3 turn\\i[6]."
+            },
+            "26": {
+                "message1": " looks big and strong!",
+                "message2": "",
+                "name": "BREAK, BREAK!!!",
+                "description": "Lowers one enemy's \\i[51]DEFENSE. 3 turn\\i[6]."
+            },
+            "27": {
+                "message1": " gives away his turn!",
+                "message2": "",
+                "name": "YOUR TURN!!!",
+                "description": "Give your turn to \\v[285], \\i[67]BOOSTING\n their \\i[34]ATK and \\i[36]CRIT CHANCE. 1 turn\\i[6]."
+            },
+            "28": {
+                "message1": " bumps his fists together!",
+                "message2": "",
+                "name": "NOT OVER YET!!!",
+                "description": "Lowers all of \\v[285]'s Craft Skill \\i[6]COOLDOWNS by 4.\nHas a 4 turn\\i[6]."
+            },
+            "29": {
+                "message1": " tells everyone they're really cool!!!",
+                "message2": "",
+                "name": "WE WILL WIN!!!",
+                "description": "Boosts all \\v[284]' \\i[34]ATTACK, \\i[35]DEFENSE and \\i[10]ATTACK SPEED.\n5 turn\\i[6]."
+            },
+            "30": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "31": {
+                "message1": "",
+                "message2": "",
+                "name": " ---[MIRABELLE]---",
+                "description": ""
+            },
+            "32": {
+                "message1": " twirls!",
+                "message2": "",
+                "name": "Jolly Round Rondo",
+                "description": "Deals \\i[117]SCISSORS damage to one enemy. 2 turn\\i[6]."
+            },
+            "33": {
+                "message1": " crafts her spell!",
+                "message2": "",
+                "name": "Artsy Silent Burst",
+                "description": "Deals \\i[116]PAPER damage to all enemies. 3 turn\\i[6]."
+            },
+            "34": {
+                "message1": " strikes a pose!",
+                "message2": "",
+                "name": "Pretty Buffy Friend",
+                "description": "Boost all \\v[284]' \\i[34]ATTACK. 3 turn\\i[6]."
+            },
+            "35": {
+                "message1": " brings her palms forward!",
+                "message2": "",
+                "name": "Super Sparkle Heal",
+                "description": "Heals one \\v[283] for 80% of their HP. 2 turn\\i[6]."
+            },
+            "36": {
+                "message1": " claps her hands three times firmly!",
+                "message2": "",
+                "name": "Lovely Moving Cure",
+                "description": "Cures \\i[8]FROZEN for one \\v[283]. 3 turn\\i[6]."
+            },
+            "37": {
+                "message1": " claps her hands once firmly!",
+                "message2": "",
+                "name": "Shining Life",
+                "description": "Revives a \\i[1]K.O. \\v[283]. 3 turn\\i[6]."
+            },
+            "38": {
+                "message1": " claps her hands once firmly!",
+                "message2": "",
+                "name": "Adorable Moving Shield",
+                "description": "\\}Creates a \\i[3]SHIELD that protects \\v[284] from \n\\i[8]TIMESTOP and \\i[11]SLOW, boosts \\i[35]DEF. 5 turn\\i[6]."
+            },
+            "39": {
+                "message1": " brings her palms to the sky!",
+                "message2": "",
+                "name": "Mega Sparkle Heal",
+                "description": "Heals all \\v[284] for 80% of their HP. 4 turn\\i[6]."
+            },
+            "40": {
+                "message1": " claps her hands once firmly!",
+                "message2": "",
+                "name": "Holy Care Shield",
+                "description": "\\}Creates a \\i[3]SHIELD that makes all \\v[284] invulnerable\n to attacks for one turn. 5 turn\\i[6]."
+            },
+            "41": {
+                "message1": "",
+                "message2": "",
+                "name": " ---[ODILE]---",
+                "description": ""
+            },
+            "42": {
+                "message1": " analyzes the enemy!",
+                "message2": "",
+                "name": "Examine",
+                "description": "Analyzes an enemy. This skill doesn't use a turn."
+            },
+            "43": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Scissors III",
+                "description": "Deals \\i[117]SCISSORS damage to one enemy. 2 turn\\i[6]."
+            },
+            "44": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Rock III",
+                "description": "Deals \\i[115]ROCK damage to one enemy. 2 turn\\i[6]."
+            },
+            "45": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Paper III",
+                "description": "Deals \\i[116]PAPER damage to one enemy. 2 turn\\i[6]."
+            },
+            "46": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Paper α V",
+                "description": "Deals big \\i[116]PAPER damage to one enemy. 4 turn\\i[6]."
+            },
+            "47": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Slow IV",
+                "description": "Makes enemies tired and \\i[11]SLOWER for a few turns. 3 turn\\i[6]."
+            },
+            "48": {
+                "message1": "",
+                "message2": "",
+                "name": "Craft Buff",
+                "description": "Strengthens one \\v[283]'s resistance to a CRAFT type \nfor a few turns."
+            },
+            "49": {
+                "message1": "",
+                "message2": "",
+                "name": "Craft Break",
+                "description": "Make an enemy weaker to a CRAFT type's attacks \nfor a few turns."
+            },
+            "50": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Craft Break α",
+                "description": "Make an enemy weaker to all CRAFT types \nfor a few turns. 5 turn\\i[6]."
+            },
+            "51": {
+                "message1": "",
+                "message2": "Bonnie jumps in!!!",
+                "name": " ---[BONNIE]---",
+                "description": "template"
+            },
+            "52": {
+                "message1": " whacks the enemy!",
+                "message2": "",
+                "name": "Thousand Blows Technique",
+                "description": "Bonnie whacks one enemy with their cooking pan, hurting them a little bit."
+            },
+            "53": {
+                "message1": " puffs their cheeks!",
+                "message2": "",
+                "name": "Aggression Boost Technique",
+                "description": "Boosts all \\v[284]' \\i[34]ATTACK."
+            },
+            "54": {
+                "message1": " yells encouragement everyone's way!",
+                "message2": "",
+                "name": "Fortress Building Technique",
+                "description": "Boosts all \\v[284]' \\i[35]DEFENSE."
+            },
+            "55": {
+                "message1": " runs in a circle!",
+                "message2": "",
+                "name": "Wolf Speed Technique",
+                "description": "Boosts all \\v[284]' \\i[10]ATTACK SPEED."
+            },
+            "56": {
+                "message1": " runs in with snacks!",
+                "message2": "",
+                "name": "Life Replenishing Technique",
+                "description": "Heals all \\v[284] for 20% of their HP."
+            },
+            "57": {
+                "message1": " missed...",
+                "message2": "",
+                "name": "(Bonnie misses.)",
+                "description": "Bonnie tries to attack, but misses.<br>\nHey, it happens."
+            },
+            "58": {
+                "message1": " deals the final blow!!!",
+                "message2": "",
+                "name": "[Bonnie's final blow]",
+                "description": ""
+            },
+            "59": {
+                "message1": " whacks the enemy really hard!",
+                "message2": "",
+                "name": "Billion Blows Technique",
+                "description": "Bonnie whacks one enemy with their cooking pan, hurting them more than a little bit."
+            },
+            "60": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "61": {
+                "message1": "",
+                "message2": "Bonnie jumps in!!!",
+                "name": " ---[Enemies]---",
+                "description": "template"
+            },
+            "62": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[Scissors]",
+                "description": ""
+            },
+            "63": {
+                "message1": " strikes wildly!",
+                "message2": "",
+                "name": "[Scissors (All)]",
+                "description": ""
+            },
+            "64": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[Rock]",
+                "description": ""
+            },
+            "65": {
+                "message1": " strikes wildly!",
+                "message2": "",
+                "name": "[Rock (All)]",
+                "description": ""
+            },
+            "66": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[Paper]",
+                "description": ""
+            },
+            "67": {
+                "message1": " strikes wildly!",
+                "message2": "",
+                "name": "[Paper (All)]",
+                "description": ""
+            },
+            "68": {
+                "message1": " protects an ally with its body!",
+                "message2": "",
+                "name": "[Protect Ally]",
+                "description": ""
+            },
+            "69": {
+                "message1": " curls into a ball!",
+                "message2": "",
+                "name": "[Self Heal (10%)]",
+                "description": ""
+            },
+            "70": {
+                "message1": " helps its ally!",
+                "message2": "",
+                "name": "[Heal Ally (30%)]",
+                "description": ""
+            },
+            "71": {
+                "message1": " slows someone down...",
+                "message2": "",
+                "name": "[Slow (1 Random)]",
+                "description": ""
+            },
+            "72": {
+                "message1": " sobs and startles everyone!",
+                "message2": "",
+                "name": "[Stop ATB (All)]",
+                "description": ""
+            },
+            "73": {
+                "message1": " slows everyone down...",
+                "message2": "",
+                "name": "[Slow (All)]",
+                "description": ""
+            },
+            "74": {
+                "message1": " \\v[345]",
+                "message2": "",
+                "name": "[(Does Something)]",
+                "description": ""
+            },
+            "75": {
+                "message1": " strikes wildly!",
+                "message2": "",
+                "name": "[Basic Attack (All)]",
+                "description": ""
+            },
+            "76": {
+                "message1": " cries out!",
+                "message2": "",
+                "name": "[Time Freeze (1 Random 100%)]",
+                "description": ""
+            },
+            "77": {
+                "message1": " ticks...",
+                "message2": "",
+                "name": "[Tick...]",
+                "description": ""
+            },
+            "78": {
+                "message1": " explodes!!!",
+                "message2": "",
+                "name": "[BOOM]",
+                "description": ""
+            },
+            "79": {
+                "message1": " raises its hands!",
+                "message2": "",
+                "name": "[Haste (Ally)]",
+                "description": ""
+            },
+            "80": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "81": {
+                "message1": "",
+                "message2": "",
+                "name": " ---[KING]---",
+                "description": ""
+            },
+            "82": {
+                "message1": " cries...",
+                "message2": "",
+                "name": "[Attack (1 Random, x2.5)]",
+                "description": ""
+            },
+            "83": {
+                "message1": " sobs...",
+                "message2": "",
+                "name": "[Attack (All, x2)]",
+                "description": ""
+            },
+            "84": {
+                "message1": " whimpers...",
+                "message2": "",
+                "name": "[Attack (All, 2.5, Slow40%)]",
+                "description": ""
+            },
+            "85": {
+                "message1": " waits...",
+                "message2": "",
+                "name": "[CUTSCENE (Waits...)]",
+                "description": ""
+            },
+            "86": {
+                "message1": "",
+                "message2": "You see a vision of the future...",
+                "name": "[CUTSCENE StartAttack]",
+                "description": ""
+            },
+            "87": {
+                "message1": "",
+                "message2": "You feel tired...",
+                "name": "[Slow (All)]",
+                "description": ""
+            },
+            "88": {
+                "message1": " makes it all stop.",
+                "message2": "",
+                "name": "[Time Freeze (1Random, 100%)]",
+                "description": ""
+            },
+            "89": {
+                "message1": " shakes SLOW off and attacks!",
+                "message2": "",
+                "name": "[Shake off Slow]",
+                "description": ""
+            },
+            "90": {
+                "message1": " makes it all stop.",
+                "message2": "",
+                "name": "[Timefreeze (2Random 100%)]",
+                "description": ""
+            },
+            "91": {
+                "message1": "",
+                "message2": "You see a vision of the future...",
+                "name": "[CUTSCENE StartAttackwithoutcutin]",
+                "description": ""
+            },
+            "92": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "93": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "94": {
+                "message1": " are absorbed by the King...",
+                "message2": "",
+                "name": "[Heal Ally (10%)]",
+                "description": ""
+            },
+            "95": {
+                "message1": "",
+                "message2": "",
+                "name": " ---[TEARS]---",
+                "description": ""
+            },
+            "96": {
+                "message1": " give the King strength!",
+                "message2": "",
+                "name": "[Atk Buff (Ally)]",
+                "description": ""
+            },
+            "97": {
+                "message1": " get in front of the King!",
+                "message2": "",
+                "name": "[Def Buff (Ally)]",
+                "description": ""
+            },
+            "98": {
+                "message1": "",
+                "message2": "You don't want to fight anymore...",
+                "name": "[Atk Debuff (All)]",
+                "description": ""
+            },
+            "99": {
+                "message1": "",
+                "message2": "You don't want to protect yourself anymore...",
+                "name": "[Def Debuff (All)]",
+                "description": ""
+            },
+            "100": {
+                "message1": " wobbles toward you...",
+                "message2": "",
+                "name": "[Time Freeze (1Random 60%)]",
+                "description": ""
+            },
+            "101": {
+                "message1": "",
+                "message2": "",
+                "name": " ---[CUTSCENES]---",
+                "description": ""
+            },
+            "102": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "103": {
+                "message1": "",
+                "message2": "",
+                "name": "[PowerUp (All)]",
+                "description": ""
+            },
+            "104": {
+                "message1": "",
+                "message2": "",
+                "name": "[ATB Reset0]",
+                "description": ""
+            },
+            "105": {
+                "message1": "",
+                "message2": "",
+                "name": "[PLAYTEST_9999]",
+                "description": "don't use this against the king it'll break the game ok!!!!"
+            },
+            "106": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[TutoPaper]",
+                "description": ""
+            },
+            "107": {
+                "message1": "",
+                "message2": "You throw Rock\\v[286]",
+                "name": "Rock",
+                "description": "You make a fist and present it for perusal."
+            },
+            "108": {
+                "message1": "",
+                "message2": "You throw Paper\\v[286]",
+                "name": "Paper",
+                "description": "You make a flat hand and present it for perusal."
+            },
+            "109": {
+                "message1": "",
+                "message2": "You throw Scissors\\v[286]",
+                "name": "Scissors",
+                "description": "You make a victory sign and present it for perusal."
+            },
+            "110": {
+                "message1": " throws Rock!",
+                "message2": "",
+                "name": "[RockReversed]",
+                "description": ""
+            },
+            "111": {
+                "message1": " throws Paper!",
+                "message2": "",
+                "name": "[PaperReversed]",
+                "description": ""
+            },
+            "112": {
+                "message1": " throws Scissors!",
+                "message2": "",
+                "name": "[ScissorsReversed]",
+                "description": ""
+            },
+            "113": {
+                "message1": "",
+                "message2": "(AH...!!!)",
+                "name": "[CountryKingAttack]",
+                "description": ""
+            },
+            "114": {
+                "message1": "",
+                "message2": "You're scared to fight.",
+                "name": "[DebuffAll]",
+                "description": ""
+            },
+            "115": {
+                "message1": "",
+                "message2": "Everyone is protected!",
+                "name": "[MEMORY_timestopshield]",
+                "description": ""
+            },
+            "116": {
+                "message1": "",
+                "message2": "",
+                "name": "[ATB ResetAllEnemies]",
+                "description": ""
+            },
+            "117": {
+                "message1": "",
+                "message2": "",
+                "name": "[ATB ResetAllAllies]",
+                "description": ""
+            },
+            "118": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "119": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "120": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "121": {
+                "message1": "",
+                "message2": "",
+                "name": " --[TEMPLATES FRIENDS]--",
+                "description": ""
+            },
+            "122": {
+                "message1": "",
+                "message2": "<action copy: skill:122>",
+                "name": "[template_buff all]",
+                "description": ""
+            },
+            "123": {
+                "message1": "",
+                "message2": "<action copy: skill:123>",
+                "name": "[template_heal/buff one]",
+                "description": "(ALSO if used on all allies, does the anim one at\na time. could be used for important moments)"
+            },
+            "124": {
+                "message1": "",
+                "message2": "<action copy: skill:124>",
+                "name": "[template_heal all]",
+                "description": ""
+            },
+            "125": {
+                "message1": "",
+                "message2": "<action copy: skill:125>",
+                "name": "[template_attack 1]",
+                "description": ""
+            },
+            "126": {
+                "message1": "",
+                "message2": "<action copy: skill:126>",
+                "name": "[template_attack all]",
+                "description": ""
+            },
+            "127": {
+                "message1": "",
+                "message2": "<action copy: skill:127>",
+                "name": "[template_attack allatonce]",
+                "description": ""
+            },
+            "128": {
+                "message1": "",
+                "message2": "",
+                "name": " --[TEMPLATES ENEMIES]--",
+                "description": ""
+            },
+            "129": {
+                "message1": "",
+                "message2": "<action copy: skill:122>",
+                "name": "[template_buff all]",
+                "description": ""
+            },
+            "130": {
+                "message1": "",
+                "message2": "<action copy: skill:123>",
+                "name": "[template_heal/buff one]",
+                "description": "(ALSO if used on all allies, does the anim one at\na time. could be used for important moments)"
+            },
+            "131": {
+                "message1": "",
+                "message2": "<action copy: skill:124>",
+                "name": "[template_heal all]",
+                "description": ""
+            },
+            "132": {
+                "message1": "",
+                "message2": "<action copy: skill:125>",
+                "name": "[template_attack 1]",
+                "description": ""
+            },
+            "133": {
+                "message1": "",
+                "message2": "<action copy: skill:126>",
+                "name": "[template_attack all]",
+                "description": ""
+            },
+            "134": {
+                "message1": "",
+                "message2": "<action copy: skill:127>",
+                "name": "[template_attack allatonce]",
+                "description": ""
+            },
+            "135": {
+                "message1": "",
+                "message2": "",
+                "name": "-[FINAL SKILLS WEAK]-",
+                "description": ""
+            },
+            "136": {
+                "message1": " encourages everyone!",
+                "message2": "",
+                "name": "WE WILL WIN!!!",
+                "description": "Boosts all \\v[284]' \\i[34]ATTACK, \\i[35]DEFENSE and \\i[10]ATTACK SPEED.\n 5 turn\\i[6]."
+            },
+            "137": {
+                "message1": " claps her hands once firmly!",
+                "message2": "",
+                "name": "Holy Care Shield",
+                "description": "Creates a \\i[3]SHIELD that makes all \\v[284] invulnerable\n to attacks for one turn. 5 turn\\i[6]."
+            },
+            "138": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Craft Break α",
+                "description": "Make an enemy weaker to all CRAFT types \nfor a few turns. 7 turn\\i[6]."
+            },
+            "139": {
+                "message1": " whacks the enemy really hard!",
+                "message2": "",
+                "name": "Billion Blows Technique",
+                "description": "Bonnie whacks one enemy with their cooking pan, hurting them more than a little bit."
+            },
+            "140": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "141": {
+                "message1": "",
+                "message2": "",
+                "name": " -[MORE for friends]-",
+                "description": ""
+            },
+            "142": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Rock Break",
+                "description": "Make an enemy weaker to \\i[115]ROCK attacks \nfor a few turns. 4 turn\\i[6]."
+            },
+            "143": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Paper Break",
+                "description": "Make an enemy weaker to \\i[116]PAPER attacks \nfor a few turns. 4 turn\\i[6]."
+            },
+            "144": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Scissors Break",
+                "description": "Make an enemy weaker to \\i[117]SCISSORS attacks \nfor a few turns. 4 turn\\i[6]."
+            },
+            "145": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Rock Buff",
+                "description": "Strengthens one ally's resistance to ROCK \nfor a few turns. 4 turn\\i[6]."
+            },
+            "146": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Paper Buff",
+                "description": "Strengthens one ally's resistance to PAPER \nfor a few turns. 4 turn\\i[6]."
+            },
+            "147": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Scissors Buff",
+                "description": "Strengthens one ally's resistance to SCISSORS \nfor a few turns. 4 turn\\i[6]."
+            },
+            "148": {
+                "message1": "",
+                "message2": "You throw the bomb!",
+                "name": "[BOMB]",
+                "description": ""
+            },
+            "149": {
+                "message1": "",
+                "message2": "Everyone unleashed a ROCK attack!",
+                "name": "[JACKPOT rock]",
+                "description": ""
+            },
+            "150": {
+                "message1": "",
+                "message2": "Everyone unleashed a PAPER attack!",
+                "name": "[JACKPOT paper]",
+                "description": ""
+            },
+            "151": {
+                "message1": "",
+                "message2": "Everyone unleashed a SCISSORS attack!",
+                "name": "[JACKPOT scissors]",
+                "description": ""
+            },
+            "152": {
+                "message1": "",
+                "message2": "Everyone feels more powerful!",
+                "name": "[MEMORY_Start_Atk Up]",
+                "description": ""
+            },
+            "153": {
+                "message1": "",
+                "message2": "Everyone feels stronger!",
+                "name": "[MEMORY_Start_Def Up]",
+                "description": ""
+            },
+            "154": {
+                "message1": "",
+                "message2": "Everyone feels faster!",
+                "name": "[MEMORY_Start_Agi Up]",
+                "description": ""
+            },
+            "155": {
+                "message1": "",
+                "message2": "You give a toast\\v[286]",
+                "name": "Regener-ade",
+                "description": "For three turns, \\v[285] \\i[67]REGENERATES 10% of HP every turn.\n 5 turn\\i[6]."
+            },
+            "156": {
+                "message1": "",
+                "message2": "You hit it\\v[286]",
+                "name": "Rock Bottom",
+                "description": "Deals big \\i[115]ROCK damage to one enemy. Gives two JACKPOT points instead of one.\n2 turn\\i[6]."
+            },
+            "157": {
+                "message1": "",
+                "message2": "You slice\\v[286]",
+                "name": "Tear You Apart",
+                "description": "Deals big \\i[116]PAPER damage to one enemy. Gives two JACKPOT points instead of one.\n 2 turn\\i[6]."
+            },
+            "158": {
+                "message1": "",
+                "message2": "Mirabelle brings her hands to the sky!",
+                "name": "[MEMORY_Revive]",
+                "description": ""
+            },
+            "159": {
+                "message1": "",
+                "message2": "You feel more powerful!",
+                "name": "[KeyKnife_Atk Up]",
+                "description": ""
+            },
+            "160": {
+                "message1": "",
+                "message2": "",
+                "name": "(Call Loop.)",
+                "description": "Call Loop for advice."
+            },
+            "161": {
+                "message1": "",
+                "message2": "",
+                "name": " -[MORE for enemies]-",
+                "description": ""
+            },
+            "162": {
+                "message1": " powers up the enemy!",
+                "message2": "",
+                "name": "[Atk Buff (All)]",
+                "description": ""
+            },
+            "163": {
+                "message1": " strengthens the enemy!",
+                "message2": "",
+                "name": "[Def Buff (All)]",
+                "description": ""
+            },
+            "164": {
+                "message1": " makes the enemy faster!",
+                "message2": "",
+                "name": "[Agi Buff (All)]",
+                "description": ""
+            },
+            "165": {
+                "message1": "",
+                "message2": "You feel weaker...",
+                "name": "[Atk Debuff (All)]",
+                "description": ""
+            },
+            "166": {
+                "message1": "",
+                "message2": "You feel weaker...",
+                "name": "[Def Debuff (All)]",
+                "description": ""
+            },
+            "167": {
+                "message1": "",
+                "message2": "You feel slower...",
+                "name": "[Agi Debuff (All)]",
+                "description": ""
+            },
+            "168": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[Normal Attack]",
+                "description": ""
+            },
+            "169": {
+                "message1": " strikes wildly!",
+                "message2": "",
+                "name": "[Normal Attack (All)]",
+                "description": ""
+            },
+            "170": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Rock Break",
+                "description": "Make an enemy weaker to \\i[115]ROCK attacks \nfor a few turns."
+            },
+            "171": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Paper Break",
+                "description": "Make an enemy weaker to \\i[116]PAPER attacks \nfor a few turns."
+            },
+            "172": {
+                "message1": " casts %1!",
+                "message2": "",
+                "name": "Scissors Break",
+                "description": "Make an enemy weaker to \\i[117]SCISSORS attacks \nfor a few turns."
+            },
+            "173": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[Kill Ally]",
+                "description": ""
+            },
+            "174": {
+                "message1": " helps its ally!",
+                "message2": "",
+                "name": "[Heal Ally (10%)]",
+                "description": ""
+            },
+            "175": {
+                "message1": " powers up the enemy!",
+                "message2": "",
+                "name": "[Big Buff Ally]",
+                "description": ""
+            },
+            "176": {
+                "message1": " is healed!",
+                "message2": "",
+                "name": "[Self Heal (50%)]",
+                "description": ""
+            },
+            "177": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[Bonniequest_enemy]",
+                "description": ""
+            },
+            "178": {
+                "message1": "",
+                "message2": "You strike.",
+                "name": "[Bonniequest_siffrin]",
+                "description": ""
+            },
+            "179": {
+                "message1": " attacks wildly!",
+                "message2": "",
+                "name": "[Bonniequest_bonnie]",
+                "description": ""
+            },
+            "180": {
+                "message1": " attacks wildly!",
+                "message2": "",
+                "name": "[Bonniequest_bonniefinal]",
+                "description": ""
+            },
+            "181": {
+                "message1": "",
+                "message2": "",
+                "name": "[SIFFRIN ENDGAME]",
+                "description": ""
+            },
+            "182": {
+                "message1": "",
+                "message2": "You strike.",
+                "name": "(Scissors.)",
+                "description": "Deals massive \\i[117]SCISSORS damage to all enemies. \nNo \\i[6]."
+            },
+            "183": {
+                "message1": "",
+                "message2": "You strike.",
+                "name": "(Rock.)",
+                "description": "Deals big \\i[115]ROCK damage to one enemy. \nNo \\i[6]."
+            },
+            "184": {
+                "message1": "",
+                "message2": "You strike.",
+                "name": "(Paper.)",
+                "description": "Deals big \\i[116]PAPER damage to one enemy. \nNo \\i[6]."
+            },
+            "185": {
+                "message1": "",
+                "message2": "You breathe in, and out.",
+                "name": "(Breathe.)",
+                "description": "Boosts \\v[284]' \\i[34]ATTACK, \\i[35]DEFENSE and \\i[10]ATTACK SPEED.\n 4 turn\\i[6]."
+            },
+            "186": {
+                "message1": " ",
+                "message2": "You wish for more time.",
+                "name": "(Heal.)",
+                "description": "Heal self. 3 turn\\i[6]."
+            },
+            "187": {
+                "message1": "",
+                "message2": "You looped back.",
+                "name": "[Heal with timeloop]",
+                "description": ""
+            },
+            "188": {
+                "message1": "",
+                "message2": "The King is ready for anything.",
+                "name": "[Kingselfbuff]",
+                "description": ""
+            },
+            "189": {
+                "message1": "",
+                "message2": "You see a vision of the future...",
+                "name": "[KING powerfulattack]",
+                "description": ""
+            },
+            "190": {
+                "message1": " looks at you.",
+                "message2": "",
+                "name": "[KingSlow]",
+                "description": ""
+            },
+            "191": {
+                "message1": "",
+                "message2": "",
+                "name": "[KingFinalAttack]",
+                "description": ""
+            },
+            "192": {
+                "message1": "",
+                "message2": "Odile strikes!",
+                "name": "[OdileAttack]",
+                "description": ""
+            },
+            "193": {
+                "message1": "",
+                "message2": "Your friends \\v[345]",
+                "name": "[FriendWhatToDo]",
+                "description": ""
+            },
+            "194": {
+                "message1": "",
+                "message2": "Mirabelle brings her palms to the sky!",
+                "name": "[miraheal]",
+                "description": "Heals all \\v[284] for 80% of their HP. 4 turn\\i[6]."
+            },
+            "195": {
+                "message1": "",
+                "message2": "Isabeau yells encouragments to everyone!",
+                "name": "[isadef]",
+                "description": "Boosts all \\v[284]' \\i[35]DEFENSE. 3 turn\\i[6]."
+            },
+            "196": {
+                "message1": "",
+                "message2": "Bonnie yells at you to stop.",
+                "name": "[Bonnie]",
+                "description": ""
+            },
+            "197": {
+                "message1": "",
+                "message2": "You strike.",
+                "name": "(Don't attack.)",
+                "description": "Can't hurt them. Attack the only person left."
+            },
+            "198": {
+                "message1": "",
+                "message2": "Mirabelle brings her palms to the sky!",
+                "name": "[mirahealyou]",
+                "description": ""
+            },
+            "199": {
+                "message1": "",
+                "message2": "Loop looped back.",
+                "name": "[LoopHeal with timeloop]",
+                "description": ""
+            },
+            "200": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[loop attack]",
+                "description": ""
+            },
+            "201": {
+                "message1": " strikes.",
+                "message2": "",
+                "name": "[loop big attack]",
+                "description": ""
+            },
+            "202": {
+                "message1": " breathes in, and out.",
+                "message2": "",
+                "name": "[loop buff]",
+                "description": ""
+            },
+            "203": {
+                "message1": " doesn't wink, and attacks.",
+                "message2": "",
+                "name": "[loop buy one get one three]",
+                "description": ""
+            },
+            "204": {
+                "message1": " attacks!",
+                "message2": "",
+                "name": "[loop attack]",
+                "description": ""
+            },
+            "205": {
+                "message1": " strikes.",
+                "message2": "",
+                "name": "[loop just attack]",
+                "description": ""
+            },
+            "206": {
+                "message1": " gives a sarcastic toast.",
+                "message2": "",
+                "name": "[loop regen]",
+                "description": ""
+            },
+            "207": {
+                "message1": "",
+                "message2": "",
+                "name": "[autokill]",
+                "description": "does nothing. makes the enemy realize it should be dead"
+            },
+            "208": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "209": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "210": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "211": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "212": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "213": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "214": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "215": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "216": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "217": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "218": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "219": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "220": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "221": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "222": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "223": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "224": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "225": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "226": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "227": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "228": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "229": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "230": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "231": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "232": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "233": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "234": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "235": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "236": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "237": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "238": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "239": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            },
+            "240": {
+                "message1": "",
+                "message2": "",
+                "name": "",
+                "description": ""
+            }
+        },
+        "Weapons": {
+            "1": {
+                "name": "Siffrin's Knife",
+                "description": "Your trusty dagger. Does the job."
+            },
+            "2": {
+                "name": "Crystal Knuckle",
+                "description": "Gloves that hit really hard and are also the height of fashion."
+            },
+            "3": {
+                "name": "Shiny Rapier",
+                "description": "A graceful weapon made stronger with a Housemaiden's will."
+            },
+            "4": {
+                "name": "Dense Book",
+                "description": "An incredibly dense book of spells. Or maybe it's a fairytale book..."
+            },
+            "5": {
+                "name": "Frying Pan",
+                "description": "Good for cooking. Better for smacking."
+            },
+            "6": {
+                "name": "-[MORE]-",
+                "description": ""
+            },
+            "7": {
+                "name": "-[SIFFRIN]-",
+                "description": ""
+            },
+            "8": {
+                "name": "TutoKnife",
+                "description": ""
+            },
+            "9": {
+                "name": "Garden Scissors",
+                "description": "Not that easy to wield. Cuts everything. \n[Boosts ATK, lowers ATKSPD.]"
+            },
+            "10": {
+                "name": "",
+                "description": ""
+            },
+            "11": {
+                "name": "",
+                "description": ""
+            },
+            "12": {
+                "name": "KnifeKey",
+                "description": "\\}A blade gifted by the Change God, and sharpened by you. \n[Boosts ATK when fighting the King.]"
+            },
+            "13": {
+                "name": "-[ISA]-",
+                "description": ""
+            },
+            "14": {
+                "name": "",
+                "description": ""
+            },
+            "15": {
+                "name": "",
+                "description": ""
+            },
+            "16": {
+                "name": "Papier-mâché Hands",
+                "description": "Hits surprisingly hard for paper. \n[Normal attacks become PAPER attacks.]"
+            },
+            "17": {
+                "name": "",
+                "description": ""
+            },
+            "18": {
+                "name": "",
+                "description": ""
+            },
+            "19": {
+                "name": "-[MIRA]-",
+                "description": ""
+            },
+            "20": {
+                "name": "Needle Sword",
+                "description": "A rapier made for battle-- and big stitches. Protected by sharpness."
+            },
+            "21": {
+                "name": "",
+                "description": ""
+            },
+            "22": {
+                "name": "",
+                "description": ""
+            },
+            "23": {
+                "name": "",
+                "description": ""
+            },
+            "24": {
+                "name": "",
+                "description": ""
+            },
+            "25": {
+                "name": "-[ODILE]-",
+                "description": ""
+            },
+            "26": {
+                "name": "Heavy Book",
+                "description": "\\}If you can knock someone out with it, it’s a weapon. [Boosts ATK,\nbut +1 COOLDOWN to all Craft Skills.]"
+            },
+            "27": {
+                "name": "First Issue",
+                "description": "The beginning of an adventure. \n[Boosts CRITCHANCE.]"
+            },
+            "28": {
+                "name": "",
+                "description": ""
+            },
+            "29": {
+                "name": "",
+                "description": ""
+            },
+            "30": {
+                "name": "",
+                "description": ""
+            },
+            "31": {
+                "name": "-[BONNIE]-",
+                "description": ""
+            },
+            "32": {
+                "name": "Griddle Pan",
+                "description": "Hm... Pancakes... \n[Bonnie's buffs will always boost \\i[34]ATTACK.]"
+            },
+            "33": {
+                "name": "Wok",
+                "description": "Make veggies that will make you strong! \n[Bonnie's buffs will always boost \\i[35]DEFENSE.]"
+            },
+            "34": {
+                "name": "*Saucepan",
+                "description": "Boil things. Hot! Hot hot hot!<br>\n[Bonnie's buffs will always boost \\i[10]ATKSPD.]"
+            },
+            "35": {
+                "name": "*Cast Iron Pan",
+                "description": "Treat it gently, it'll serve you well."
+            },
+            "36": {
+                "name": "",
+                "description": ""
+            },
+            "37": {
+                "name": "",
+                "description": ""
+            },
+            "38": {
+                "name": "",
+                "description": ""
+            },
+            "39": {
+                "name": "",
+                "description": ""
+            },
+            "40": {
+                "name": "",
+                "description": ""
+            },
+            "41": {
+                "name": "",
+                "description": ""
+            },
+            "42": {
+                "name": "",
+                "description": ""
+            },
+            "43": {
+                "name": "",
+                "description": ""
+            },
+            "44": {
+                "name": "",
+                "description": ""
+            },
+            "45": {
+                "name": "",
+                "description": ""
+            },
+            "46": {
+                "name": "",
+                "description": ""
+            },
+            "47": {
+                "name": "",
+                "description": ""
+            },
+            "48": {
+                "name": "",
+                "description": ""
+            },
+            "49": {
+                "name": "",
+                "description": ""
+            },
+            "50": {
+                "name": "",
+                "description": ""
+            },
+            "51": {
+                "name": "",
+                "description": ""
+            },
+            "52": {
+                "name": "",
+                "description": ""
+            },
+            "53": {
+                "name": "",
+                "description": ""
+            },
+            "54": {
+                "name": "",
+                "description": ""
+            },
+            "55": {
+                "name": "",
+                "description": ""
+            },
+            "56": {
+                "name": "",
+                "description": ""
+            },
+            "57": {
+                "name": "",
+                "description": ""
+            },
+            "58": {
+                "name": "",
+                "description": ""
+            },
+            "59": {
+                "name": "",
+                "description": ""
+            },
+            "60": {
+                "name": "",
+                "description": ""
+            }
+        }
     }
 }

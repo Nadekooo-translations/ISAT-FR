@@ -10,37 +10,6 @@ const sourceLanguageName = argv[2];
 const targetLanguageCode = argv[3];
 const placeholder = argv[4];
 
-const objects = [
-    {
-        file: "Actors",
-        fields: ["name"]
-    },
-    {
-        file: "Armors",
-        fields: ["name", "description"],
-    },
-    {
-        file: "Classes",
-        fields: ["name"],
-    },
-    {
-        file: "Enemies",
-        fields: ["name"],
-    },
-    {
-        file: "Items",
-        fields: ["name", "description"],
-    },
-    {
-        file: "Skills",
-        fields: ["message1", "message2", "name", "description"],
-    },
-    {
-        file: "Weapons",
-        fields: ["name", "description"],
-    },
-];
-
 const translations = JSON.parse(String(readFileSync("isat-orig/data/Translations.json")));
 const flat = {
     msg: {},
@@ -79,19 +48,6 @@ for (const msg in translations.custom[sourceLanguageName]) {
         flat.custom[msg] = msg;
     } else {
         flat.custom[msg] = "";
-    }
-}
-
-for (const objectInfo of objects) {
-    const objs = JSON.parse(String(readFileSync(`isat-orig/data/${objectInfo.file}.json`)));
-    flat.objects[objectInfo.file] = {};
-
-    for (const obj of objs) {
-        if (!obj) continue;
-
-        for (const field of objectInfo.fields) {
-            flat.objects[objectInfo.file][field] = obj[field];
-        }
     }
 }
 
