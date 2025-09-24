@@ -1,0 +1,62 @@
+495,503c495,503
+< 	'$dataActors',
+< 	'$dataClasses',
+< 	'$dataSkills',
+< 	'$dataItems',
+< 	'$dataWeapons', 
+< 	'$dataArmors',
+< 	'$dataEnemies',
+< 	'$dataStates',
+< 	'$dataTilesets'
+---
+> 	['$dataActors', 'Actors'],
+> 	['$dataClasses', 'Classes'],
+> 	['$dataSkills', 'Skills'],
+> 	['$dataItems', 'Items'],
+> 	['$dataWeapons', 'Weapons'], 
+> 	['$dataArmors', 'Armors'],
+> 	['$dataEnemies', 'Enemies'],
+> 	['$dataStates', 'States'],
+> 	['$dataTilesets', 'Tilesets'],
+507,509c507,515
+< 	for(var i = 0; i < $.translatableDatas.length; i++) {
+< 		var dataObj = window[$.translatableDatas[i]];
+< 		for(var j = 1; j < dataObj.length; j++) {
+---
+> 	if(ConfigManager.isDefaultLanguage()) return text;
+> 	var lang = ConfigManager.getLanguage();
+> 
+> 	for (var i = 0; i < $.translatableDatas.length; i++) {
+> 		var [database, key] = $.translatableDatas[i];
+> 
+> 		var dataObj = window[database];
+> 
+> 		for (var j = 1; j < dataObj.length; j++) {
+511,514c517,522
+< 			if(!data) continue;
+< 			var updateFields = $.parseNoteData(data);
+< 			if(updateFields) {
+< 				$.applyUpdateFields(data, updateFields);
+---
+> 			if (!data) continue;
+> 
+> 			var translations = $dataTranslations.objects?.[lang]?.[key]?.[j];
+> 			
+> 			for (let field in translations) {
+> 				data[field] = translations[field];
+596c604
+< 	$.loadNoteData();
+---
+> 	// $.loadNoteData();
+749a758,768
+> 
+> 	$.Scene_Boot_isReady = Scene_Boot.prototype.isReady;
+> 	Scene_Boot.prototype.isReady = function() {
+> 		var ret = $.Scene_Boot_isReady.apply(this, arguments);
+> 
+> 		if (ret) {
+> 			$.loadNoteData();
+> 		}
+> 
+> 		return ret;
+> 	};
