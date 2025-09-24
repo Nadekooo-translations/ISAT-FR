@@ -1,0 +1,52 @@
+544,565c544,571
+< Scene_Menu.prototype.createLayout = function() {
+< if (ConfigManager.getLanguage() === "Japanese") {
+<     if ($gameSwitches.value(22)) {
+<         this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withoutBonnie"));
+<      }
+<      else if ($gameVariables.value(2) === 6) {
+<         this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnieAct6_JPN"));
+<      } else {
+<         this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnie_JPN"));
+<     }
+< }
+<  else {
+<     if ($gameSwitches.value(22)) {
+<         this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withoutBonnie"));
+<      }
+<      else if ($gameVariables.value(2) === 6) {
+<         this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnieAct6_ENG"));
+<      } else {
+<         this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnie_ENG"));
+<     }
+< }
+< 	 this._field.addChild(this._layout);
+---
+> Scene_Menu.prototype.createLayout = function () {
+> 	if (ConfigManager.getLanguage() === "French") {
+> 		if ($gameSwitches.value(22)) {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withoutBonnie"));
+> 		} else if ($gameVariables.value(2) === 6) {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnieAct6_FRA"));
+> 		} else {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnie_FRA"));
+> 		}
+> 	} else if (ConfigManager.getLanguage() === "Japanese") {
+> 		if ($gameSwitches.value(22)) {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withoutBonnie"));
+> 		} else if ($gameVariables.value(2) === 6) {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnieAct6_JPN"));
+> 		} else {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnie_JPN"));
+> 		}
+> 	} else if (ConfigManager.getLanguage() === "English") {
+> 		if ($gameSwitches.value(22)) {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withoutBonnie"));
+> 		} else if ($gameVariables.value(2) === 6) {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnieAct6_ENG"));
+> 		} else {
+> 			this._layout = new Sprite(ImageManager.loadMenusMain("Layout_withBonnie_ENG"));
+> 		}
+> 	}
+> 
+> 	this._field.addChild(this._layout);

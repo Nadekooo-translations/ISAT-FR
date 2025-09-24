@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
 patch isat/js/plugins/SRD_TranslationEngine.js SRD_TranslationEngine.js.patch
+patch isat/js/plugins/MOG_SceneMenu.js MOG_SceneMenu.js.patch
 
 DIFF=$(diff -qr isat isat-orig | perl -n -e '/Files isat\/([a-zA-Z0-9\/.-_ \[\]]+) and / && print $1."\n"')
 
