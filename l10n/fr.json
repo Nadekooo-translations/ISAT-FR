@@ -17627,7 +17627,7 @@
         " (...Escaping battles.)": "",
         " (...Nothing.)": "",
         " \"Why Rock Paper Scissors?\"": "",
-        " \"I accept your challenge...\"<<s[50]>>": "",
+        " \"I accept your challenge...\"<<s[50]>>": " \"J'accepte ton défi...\"<<s[50]>>",
         " \"Talk later, Tutorial Kid.\"": "",
         " \"Tutorial Kid.\"": "",
         " \"Let's play Rock Paper Scissors.\"": "",
