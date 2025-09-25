@@ -17625,7 +17625,7 @@
         " (...Guarding.)": " (...La garde.)",
         " (...Buffs and debuffs.)": " (...Les buffs and débuffs.)",
         " (...Escaping battles.)": " (...Fuir les combats.)",
-        " (...Nothing.)": "",
+        " (...Nothing.)": " (...Rien.)",
         " \"Why Rock Paper Scissors?\"": " \"Pourquoi Pierre Feuille Ciseaux ?\"",
         " \"I accept your challenge...\"<<s[50]>>": " \"J'accepte ton défi...\"<<s[50]>>",
         " \"Talk later, Tutorial Kid.\"": "",
