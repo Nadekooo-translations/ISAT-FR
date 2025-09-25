@@ -2728,7 +2728,7 @@
         "\\n<\\v[46]>My name......\\!\\m[wait] is--\\|\\^": "",
         "\\n<\\v[46]>\\m[vkid]Oho?!?\\!\\ My name has spread far and wide, it seems...": "",
         "\\n<\\v[46]>Hey, do you wanna--": "\\n<\\v[46]>Hé, tu veux--",
-        "\\m[clear](You walk away.)": "",
+        "\\m[clear](You walk away.)": "\\m[clear](Tu t'éloignes.)",
         "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ Okay...": "",
         "\\n<\\v[46]>\\m[vkid]Oho?!?\\!\\ You read my mind!!!\\!\\ Let's--": "",
         "\\m[clear](You play Paper, Rock, and Scissors, in order.)": "",
