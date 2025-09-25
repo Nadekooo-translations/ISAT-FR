@@ -17623,7 +17623,7 @@
         " \"Why fight?\"<<s[282]>>": " \"Pourquoi se battre ?\"<<s[282]>>",
         " (...Normal attacks.)": " (...Les attaques normales.)",
         " (...Guarding.)": " (...La garde.)",
-        " (...Buffs and debuffs.)": "",
+        " (...Buffs and debuffs.)": " (...Les buffs and débuffs.)",
         " (...Escaping battles.)": "",
         " (...Nothing.)": "",
         " \"Why Rock Paper Scissors?\"": " \"Pourquoi Pierre Feuille Ciseaux ?\"",
