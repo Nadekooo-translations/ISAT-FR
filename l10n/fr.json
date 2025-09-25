@@ -2667,7 +2667,7 @@
         "\\m[clear](So the Tutorial Kid knows all about battles, huh...?)": "",
         "(You already know a lot, but it won't hurt to get a refresher...)": "(Tu en sais déjà beaucoup, mais un petit rappel ne te fera pas de mal...)",
         "(And maybe this kid knows things you don't.)": "",
-        "\\m[vkid]\\n<\\v[46]>Hm...\\!\\ I may have advice for you...\\!\\ What do you need?": "",
+        "\\m[vkid]\\n<\\v[46]>Hm...\\!\\ I may have advice for you...\\!\\ What do you need?": "\\m[vkid]\\n<\\v[46]>Hum...\\!\\ J'ai peut-être des conseils pour toi...\\!\\ Qu'est-ce que tu veux ?",
         "\\m[choicespace](You'd like advice about...)\\!\\": "",
         "\\m[vkid]\\n<\\v[46]>Normal attacks, huh...": "",
         "\\n<\\v[46]>Well...\\!\\ Any fighter worth their salt knows that normal attacks are weaker than Craft Skills.": "",
