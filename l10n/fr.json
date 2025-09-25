@@ -17620,7 +17620,7 @@
         "\"I've been to Poteria once.\"<<v[16] === 1>>": "",
         "\"Very good plays!\"": "",
         " \"Any advice?\"<<v[1] === 0>>": " \"Des conseils ?\"<<v[1] === 0>>",
-        " \"Why fight?\"<<s[282]>>": "",
+        " \"Why fight?\"<<s[282]>>": " \"Pourquoi se battre ?\"<<s[282]>>",
         " (...Normal attacks.)": "",
         " (...Guarding.)": "",
         " (...Buffs and debuffs.)": "",
