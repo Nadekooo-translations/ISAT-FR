@@ -17622,7 +17622,7 @@
         " \"Any advice?\"<<v[1] === 0>>": " \"Des conseils ?\"<<v[1] === 0>>",
         " \"Why fight?\"<<s[282]>>": " \"Pourquoi se battre ?\"<<s[282]>>",
         " (...Normal attacks.)": " (...Les attaques normales.)",
-        " (...Guarding.)": "",
+        " (...Guarding.)": " (...La garde.)",
         " (...Buffs and debuffs.)": "",
         " (...Escaping battles.)": "",
         " (...Nothing.)": "",
