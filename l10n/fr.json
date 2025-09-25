@@ -17630,7 +17630,7 @@
         " \"I accept your challenge...\"<<s[50]>>": " \"J'accepte ton défi...\"<<s[50]>>",
         " \"Talk later, Tutorial Kid.\"": "",
         " \"Tutorial Kid.\"": "",
-        " \"Let's play Rock Paper Scissors.\"": "",
+        " \"Let's play Rock Paper Scissors.\"": " \"Jouons à Pierre Feuille Ciseaux.\"",
         "\"Hey Mira.\" <<v[1] === 1>>": "« Salut, Mira. » <<v[1] === 1>>",
         "\"Hey, uh, hey again, Mira.\"<<v[1] === 0||v[1] > 1>>": "« Salut, enfin, re-salut, Mira. »<<v[1] === 0||v[1] > 1>>",
         "\"Hey Mira, have you thought about doing a sleepover tonight?\"<<v[2] < 3>>": "« Hé Mira, ça te dirait une soirée pyjama ? »<<v[2] < 3>>",
