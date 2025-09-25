@@ -2657,17 +2657,17 @@
         "\\m[vman]\\n<\\v[46]>Hell-": "",
         "\\m[vo]Hello, no time to talk, have a good day.": "",
         "\\m[vman]\\n<\\v[46]>Um, bye then?": "",
-        "\\n<\\v[46]>\\m[vkid]Hey!!!!\\!\\ You!!!\\!\\ The strange adult with a hat!!!": "\\n<\\v[46]>\\m[vkid]Hé !!!!\\!\\ Toi !!!\\!\\ L'étrange adulte avec un chapeau !!!",
-        "\\n<\\v[46]>My name......\\!\\m[wait] is Tutorial Kid.": "",
-        "\\m[clear](Tutorial Kid has the name \"Agathe\" sewn into her clothes.)": "",
-        "\\n<\\v[46]>\\m[vkid]My mom says you're very strong and you're gonna help save us all.\\!\\ \nBut I need to challenge you to know your strength.\\!\\ So......": "",
+        "\\n<\\v[46]>\\m[vkid]Hey!!!!\\!\\ You!!!\\!\\ The strange adult with a hat!!!": "\\n<\\v[46]>\\m[vkid]Hé !!!!\\!\\ Toi, là !!!\\!\\ L'adulte bizarre au chapeau !!!",
+        "\\n<\\v[46]>My name......\\!\\m[wait] is Tutorial Kid.": "\\n<\\v[46]>Je me nomme......\\!\\m[wait] Tuto Fillette.",
+        "\\m[clear](Tutorial Kid has the name \"Agathe\" sewn into her clothes.)": "\\m[clear](Le nom « Agathe » est cousu dans les vêtements de Tuto Fillette.)",
+        "\\n<\\v[46]>\\m[vkid]My mom says you're very strong and you're gonna help save us all.\\!\\ \nBut I need to challenge you to know your strength.\\!\\ So......": "\\n<\\v[46]>\\m[vkid]Ma maman a dit que tu étais très fort et que tu vas tous nous sauver.\\!\\ \nMais je dois te défier pour connaître ta force.\\!\\ C'est pourquoi......",
         "\\n<\\v[46]>Let's play Rock Paper Scissors!!!": "\\n<\\v[46]>Jouons à Pierre Feuille Ciseaux !!!",
         "\\n<\\v[46]>\\m[vkid]Good luck, old one...": "\\n<\\v[46]>\\m[vkid]Bonne chance, le vieux...",
-        "\\m[vkid]\\n<\\v[46]>Ohoho...\\!\\ Are you finally ready to face me...?": "\\m[vkid]\\n<\\v[46]>Ohoho...\\!\\ T'es enfin prêt à m'affronter...?",
-        "\\m[clear](So the Tutorial Kid knows all about battles, huh...?)": "",
-        "(You already know a lot, but it won't hurt to get a refresher...)": "(Tu en sais déjà beaucoup, mais un petit rappel ne te fera pas de mal...)",
-        "(And maybe this kid knows things you don't.)": "",
-        "\\m[vkid]\\n<\\v[46]>Hm...\\!\\ I may have advice for you...\\!\\ What do you need?": "\\m[vkid]\\n<\\v[46]>Hum...\\!\\ J'ai peut-être des conseils pour toi...\\!\\ Qu'est-ce que tu veux ?",
+        "\\m[vkid]\\n<\\v[46]>Ohoho...\\!\\ Are you finally ready to face me...?": "\\m[vkid]\\n<\\v[46]>Hohoho...\\!\\ Serais-tu enfin prêt à m'affronter...?",
+        "\\m[clear](So the Tutorial Kid knows all about battles, huh...?)": "\\m[clear](Alors comme ça, la Tuto Fillette s'y connaît en combat, hm...?)",
+        "(You already know a lot, but it won't hurt to get a refresher...)": "(Tu t'y connais déjà beaucoup, mais un petit rappel te ferait pas de mal...)",
+        "(And maybe this kid knows things you don't.)": "(Et peut-être qu'elle sait des choses que t'ignores.)",
+        "\\m[vkid]\\n<\\v[46]>Hm...\\!\\ I may have advice for you...\\!\\ What do you need?": "\\m[vkid]\\n<\\v[46]>Hum...\\!\\ J'ai peut-être des conseils pour toi...\\!\\ Qu'est-ce que tu veux savoir ?",
         "\\m[choicespace](You'd like advice about...)\\!\\": "",
         "\\m[vkid]\\n<\\v[46]>Normal attacks, huh...": "",
         "\\n<\\v[46]>Well...\\!\\ Any fighter worth their salt knows that normal attacks are weaker than Craft Skills.": "",
@@ -8551,7 +8551,7 @@
         "\\m[vmnp]\"...Siffrin?\"": "\\m[vmnp]\"... Siffrin ?\"",
         "\\m[vm]Good morning!": "\\m[vm]Bonjour !",
         "Well, more like, good afternoon, I guess...": "Ou plutôt, devrais-je dire...<br>\nBon après-midi...",
-        "Were you taking a nap?\\!\\ That's just like you...\\!\\ Only you could sleep peacefully at a time like this, hehe!": "Tu faisais une sieste ?\\!\\ <br>\nÇa te ressemble bien...\\!\\ <br>\nIl n'y a que toi pour dormir si paisiblement dans une telle situation, hihi !",
+        "Were you taking a nap?\\!\\ That's just like you...\\!\\ Only you could sleep peacefully at a time like this, hehe!": "Tu faisais une sieste ?\\!\\ <br>\nÇa te ressemble bien...\\!\\ Il n'y a que toi pour dormir si paisiblement dans une telle situation, hihi !",
         "I guess that's smart...\\!\\ We better get some rest while we can!\\!\\ We have to be ready for tomorrow...": "Ce n'est peut-être pas une si mauvaise idée...\\!\\ Nous ferions mieux de nous reposer tant que nous le pouvons encore !\\!\\ Nous devons être prêts demain...",
         "So we can finally face against the King!": "Pour quand nous allons enfin faire face au Roi !",
         "\\m[clear](You're too sleepy to talk.)": "\\m[clear](T'as trop sommeil pour aligner des mots.)",
@@ -13901,32 +13901,32 @@
         "\\>[DON'T HAVE ENOUGH \\i[70].]": "",
         "\\m[clear]\\>[LOOP BACK TO \\v[141]?]": "",
         "\\m[clear]\\>[USE \\i[70]5 TO LOOP FORWARDS TO \\v[141] WITH ALL DOORS OPENED?]": "",
-        "\\m[clear](You close your single eye.)": "",
-        "\\m[clear](You close your eye tightly.)": "",
-        "\\m[clear](The Tutorial Kid threw Paper.)": "",
-        "\\n<\\v[46]>\\m[vkid]YEAH!!!!\\!\\ I threw Paper!!!!": "",
-        "\\n<\\v[46]>Paper wins against Rock...\\!\\ Which means...": "",
-        "\\n<\\v[46]>Fufufu...\\!\\ I win this round.": "",
-        "\\n<\\v[46]>Ok, let's do it again!!!\\!\\ Rock,\\!\\ Paper....": "",
-        "\\m[clear](Next, Tutorial Kid throws Rock...)": "",
-        "\\m[clear](The Tutorial Kid threw Rock.)": "",
-        "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ We both threw Rock!!!\\!\\ When we throw the same thing that's a draw!!!": "",
-        "\\n<\\v[46]>Ho ho ho...\\!\\ You're a truly powerful opponent.": "",
-        "\\n<\\v[46]>Ok, last round!!!\\!\\ Rock,\\!\\ Paper....": "",
-        "\\m[clear](And finally, Tutorial Kid throws Scissors.)": "",
-        "\\m[clear](The Tutorial Kid threw Scissors.)": "",
-        "\\n<\\v[46]>\\m[vkid]...You threw Rock?": "",
-        "\\n<\\v[46]>No...\\!\\ I threw Scissors...\\!\\ Why this...": "",
-        "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ We both threw the same thing!\\!\\ That's a draw!": "",
-        "\\n<\\v[46]>Ngh...!\\!\\ Looks like I shouldn't underestimate you...": "",
-        "\\n<\\v[46]>\\m[vkid]NO!!!!\\!\\ I threw Rock...!!!\\!\\ I've lost this round...": "",
-        "\\n<\\v[46]>But...\\!\\m[wait]It's not over yet!!!": "",
-        "\\n<\\v[46]>\\m[vkid]HOHA!!!!\\!\\ I HAVE THROWN SCISSORS!!!\\!\\ Victory is mine...": "",
-        "\\n<\\v[46]>\\m[vkid]NGH!!!\\!\\ I threw Paper!!!\\!\\ How could I...\\!\\ lose to someone like you...": "",
-        "\\n<\\v[46]>Ok let's do it again!!!\\!\\ Rock,\\!\\ Paper....": "",
-        "\\n<\\v[46]>\\m[vkid]YEAH!!!\\!\\ My hands have thrown a Rock Shape...\\!\\ Victory is mine this round.": "",
-        "\\n<\\v[46]>Ok last round!!!\\!\\ Rock,\\!\\ Paper....": "",
-        "\\n<\\v[46]>\\m[vkid]THIS CAN'T BE...!!!\\!\\ A draw, on the last round...": "",
+        "\\m[clear](You close your single eye.)": "\\m[clear](Tu fermes ton œil.)",
+        "\\m[clear](You close your eye tightly.)": "\\m[clear](Tu fermes fort ton œil.)",
+        "\\m[clear](The Tutorial Kid threw Paper.)": "\\m[clear](La Tuto Fillette a fait Feuille.)",
+        "\\n<\\v[46]>\\m[vkid]YEAH!!!!\\!\\ I threw Paper!!!!": "\\n<\\v[46]>\\m[vkid]OUAIS !!!!\\!\\ J'ai fait Feuille !!!!",
+        "\\n<\\v[46]>Paper wins against Rock...\\!\\ Which means...": "\\n<\\v[46]>La Feuille bat la Pierre...\\!\\ Ce qui veut dire...",
+        "\\n<\\v[46]>Fufufu...\\!\\ I win this round.": "\\n<\\v[46]>Huhuhu...\\!\\ Je remporte ce round.",
+        "\\n<\\v[46]>Ok, let's do it again!!!\\!\\ Rock,\\!\\ Paper....": "\\n<\\v[46]>Allez, on recommence !!!\\!\\ Pierre,\\!\\ Feuille....",
+        "\\m[clear](Next, Tutorial Kid throws Rock...)": "\\m[clear](Après, Tuto Fillette lance Pierre...)",
+        "\\m[clear](The Tutorial Kid threw Rock.)": "\\m[clear](La Tuto Fillette a fait Pierre.)",
+        "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ We both threw Rock!!!\\!\\ When we throw the same thing that's a draw!!!": "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ On a tous les deux fait Pierre !!!\\!\\ Si on fait la même chose, il y a égalité !!!",
+        "\\n<\\v[46]>Ho ho ho...\\!\\ You're a truly powerful opponent.": "\\n<\\v[46]>Ho ho ho...\\!\\ Quel adversaire véritablement redoutable.",
+        "\\n<\\v[46]>Ok, last round!!!\\!\\ Rock,\\!\\ Paper....": "\\n<\\v[46]>Allez, dernier round !!!\\!\\ Pierre,\\!\\ Feuille....",
+        "\\m[clear](And finally, Tutorial Kid throws Scissors.)": "\\m[clear](Et enfin, Tuto Fillette fait Ciseaux.)",
+        "\\m[clear](The Tutorial Kid threw Scissors.)": "\\m[clear](La Tuto Fillette fait Ciseaux.)",
+        "\\n<\\v[46]>\\m[vkid]...You threw Rock?": "\\n<\\v[46]>\\m[vkid]... Tu as fait Pierre ?",
+        "\\n<\\v[46]>No...\\!\\ I threw Scissors...\\!\\ Why this...": "\\n<\\v[46]>Non...\\!\\ J'ai fait Ciseaux...\\!\\ Comment est-ce possible...",
+        "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ We both threw the same thing!\\!\\ That's a draw!": "\\n<\\v[46]>\\m[vkid]Oh...\\!\\ On a tous les deux fait la même chose !\\!\\ Égalité !",
+        "\\n<\\v[46]>Ngh...!\\!\\ Looks like I shouldn't underestimate you...": "\\n<\\v[46]>Ngh...!\\!\\ Je ferais mieux de ne pas te sous-estimer, on dirait...",
+        "\\n<\\v[46]>\\m[vkid]NO!!!!\\!\\ I threw Rock...!!!\\!\\ I've lost this round...": "\\n<\\v[46]>\\m[vkid]NON !!!!\\!\\ J'ai fait Pierre...!!!\\!\\ J'ai perdu ce round...",
+        "\\n<\\v[46]>But...\\!\\m[wait]It's not over yet!!!": "\\n<\\v[46]>Mais...\\!\\m[wait] On n'en a pas encore fini !!!",
+        "\\n<\\v[46]>\\m[vkid]HOHA!!!!\\!\\ I HAVE THROWN SCISSORS!!!\\!\\ Victory is mine...": "\\n<\\v[46]>\\m[vkid]HOUHA !!!!\\!\\ J'AI FAIT CISEAUX !!!\\!\\ La victoire est mienne...",
+        "\\n<\\v[46]>\\m[vkid]NGH!!!\\!\\ I threw Paper!!!\\!\\ How could I...\\!\\ lose to someone like you...": "\\n<\\v[46]>\\m[vkid]RGH !!!\\!\\ J'ai fait Feuille !!!\\!\\ Comment ai-je pu perdre...\\!\\ contre quelqu'un comme toi...",
+        "\\n<\\v[46]>Ok let's do it again!!!\\!\\ Rock,\\!\\ Paper....": "\\n<\\v[46]>Allez c'est reparti !!!\\!\\ Pierre,\\!\\ Feuille....",
+        "\\n<\\v[46]>\\m[vkid]YEAH!!!\\!\\ My hands have thrown a Rock Shape...\\!\\ Victory is mine this round.": "\\n<\\v[46]>\\m[vkid]OUAIS !!!\\!\\ Mes mains ont fait un signe de Pierre...\\!\\ Je remporte ce round.",
+        "\\n<\\v[46]>Ok last round!!!\\!\\ Rock,\\!\\ Paper....": "\\n<\\v[46]>Allez dernier round !!!\\!\\ Pierre,\\!\\ Feuille....",
+        "\\n<\\v[46]>\\m[vkid]THIS CAN'T BE...!!!\\!\\ A draw, on the last round...": "\\n<\\v[46]>\\m[vkid]IMPOSSIBLE...!!!\\!\\ Une égalité, au dernier round...",
         "\\m[clear](You just give it all to them.)": "",
         "\\m[vb]Heh, you learn fast, Frin.": "",
         "\\m[vb]YAHOO!!!": "",
@@ -19164,5 +19164,220 @@
         "EPILOGUE": "ÉPILOGUE",
         "\\i[70]Fast-Forward": "\\i[70]Avance rapide",
         "<wordwrap>\\}Fast forward through all fast-forwardable conversations, regardless of whether you've seen them once before.": "<wordwrap>\\}Saute tous les dialogues quand possible, que vous les ayez vus auparavant ou non."
+    },
+    "objects": {
+        "Skills": {
+            "107": {
+                "message2": "Tu fais Pierre\\v[286]",
+                "name": "Pierre",
+                "description": "Tu fermes le poing et le présente clairement."
+            },
+            "108": {
+                "message2": "Tu fais Feuille\\v[286]",
+                "name": "Feuille",
+                "description": "Tu ouvres la main et le montre présente clairement."
+            },
+            "109": {
+                "message2": "Tu fais Ciseaux\\v[286]",
+                "name": "Ciseaux",
+                "description": "Tu fais un V de la main et le présente clairement."
+            },
+            "110": {
+                "message1": " fait Pierre !"
+            },
+            "111": {
+                "message1": " fait Feuille !"
+            },
+            "112": {
+                "message1": " fait Ciseaux !"
+            },
+            "113": {
+                "message2": "(AH...!!!)"
+            }
+        },
+        "Enemies": {
+            "20": {
+                "name": "TUTO FILLETTE"
+            },
+            "30": {
+                "name": "MAL DU PAYS"
+            },
+            "63": {
+                "name": "MAL DU PAYS"
+            },
+            "26": {
+                "name": "LE ROI"
+            },
+            "29": {
+                "name": "LE ROI"
+            },
+            "64": {
+                "name": "LE ROI"
+            },
+            "27": {
+                "name": "LARMES DU ROI"
+            },
+            "37": {
+                "name": "TRISTESSE"
+            },
+            "38": {
+                "name": "TRISTESSE"
+            },
+            "39": {
+                "name": "TRISTESSE"
+            },
+            "42": {
+                "name": "TRISTESSE"
+            },
+            "43": {
+                "name": "TRISTESSE"
+            },
+            "44": {
+                "name": "TRISTESSE"
+            },
+            "46": {
+                "name": "TRISTESSE"
+            },
+            "47": {
+                "name": "TRISTESSE"
+            },
+            "1": {
+                "name": "TRISTESSE"
+            },
+            "2": {
+                "name": "DÉPIT"
+            },
+            "3": {
+                "name": "CHAGRIN"
+            },
+            "4": {
+                "name": "PEINE"
+            },
+            "5": {
+                "name": "ANGOISSE"
+            },
+            "6": {
+                "name": "DEUIL"
+            },
+            "7": {
+                "name": "MISÈRE"
+            },
+            "54": {
+                "name": "MISÈRE"
+            },
+            "55": {
+                "name": "MISÈRE"
+            },
+            "8": {
+                "name": "ANXIÉTÉ"
+            },
+            "11": {
+                "name": "TOURMENT"
+            },
+            "12": {
+                "name": "TOURMENT"
+            },
+            "13": {
+                "name": "TOURMENT"
+            },
+            "14": {
+                "name": "DÉSESPOIR"
+            },
+            "15": {
+                "name": "RANCŒUR"
+            },
+            "16": {
+                "name": "AMERTUME"
+            },
+            "17": {
+                "name": "NOSTALGIE"
+            },
+            "18": {
+                "name": "NOSTALGIE"
+            },
+            "19": {
+                "name": "NOSTALGIE"
+            },
+            "21": {
+                "name": "CALAMITÉ"
+            },
+            "22": {
+                "name": "ACCABLEMENT"
+            },
+            "23": {
+                "name": "ABATTEMENT"
+            },
+            "24": {
+                "name": "BOURDON"
+            },
+            "25": {
+                "name": "-[BOSS]-"
+            },
+            "28": {
+                "name": "ILLUSTRATIONAMIS"
+            },
+            "31": {
+                "name": "TOUS LES ALLIÉS"
+            },
+            "34": {
+                "name": "LOOP"
+            },
+            "35": {
+                "name": "LOOP"
+            },
+            "36": {
+                "name": "-[TUTORIELS]"
+            },
+            "41": {
+                "name": "-[QUÊTEBONNIE]"
+            },
+            "45": {
+                "name": "-[AUTRES]"
+            },
+            "50": {
+                "name": "DÉTRESSE"
+            },
+            "51": {
+                "name": "DÉTRESSE"
+            },
+            "52": {
+                "name": "DÉTRESSE"
+            },
+            "56": {
+                "name": "MAIN DE PIERRE"
+            },
+            "57": {
+                "name": "MAIN DE PIERRE"
+            },
+            "58": {
+                "name": "MAIN DE FEUILLE"
+            },
+            "59": {
+                "name": "MAIN DE FEUILLE"
+            },
+            "60": {
+                "name": "MAIN DE CISEAUX"
+            },
+            "61": {
+                "name": "MAIN DE CISEAUX"
+            }
+        },
+        "Classes": {
+            "9": {
+                "name": "Mal Du Pays"
+            },
+            "1": {
+                "name": "Le Voyageur"
+            },
+            "2": {
+                "name": "Le Combattant"
+            },
+            "3": {
+                "name": "La Domestique"
+            },
+            "4": {
+                "name": "La Chercheuse"
+            }
+        }
     }
 }
