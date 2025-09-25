@@ -2657,7 +2657,7 @@
         "\\m[vman]\\n<\\v[46]>Hell-": "",
         "\\m[vo]Hello, no time to talk, have a good day.": "",
         "\\m[vman]\\n<\\v[46]>Um, bye then?": "",
-        "\\n<\\v[46]>\\m[vkid]Hey!!!!\\!\\ You!!!\\!\\ The strange adult with a hat!!!": "",
+        "\\n<\\v[46]>\\m[vkid]Hey!!!!\\!\\ You!!!\\!\\ The strange adult with a hat!!!": "\\n<\\v[46]>\\m[vkid]Hé !!!!\\!\\ Toi !!!\\!\\ L'étrange adulte avec un chapeau !!!",
         "\\n<\\v[46]>My name......\\!\\m[wait] is Tutorial Kid.": "",
         "\\m[clear](Tutorial Kid has the name \"Agathe\" sewn into her clothes.)": "",
         "\\n<\\v[46]>\\m[vkid]My mom says you're very strong and you're gonna help save us all.\\!\\ \nBut I need to challenge you to know your strength.\\!\\ So......": "",
