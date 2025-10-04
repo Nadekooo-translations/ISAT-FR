@@ -18528,7 +18528,7 @@
         "(Go and listen.)": "",
         "\"Clocktower, sleepover?\"": "",
         "\"What's up with the big tree?\"": "",
-        "\"What's up with the hand thing?\"<<v[44] === 0 || v[44] > 1>>": "",
+        "\"What's up with the hand thing?\"<<v[44] === 0 || v[44] > 1>>": "\"C'est quoi le délire avec les mains ?\"<<v[44] === 0 || v[44] > 1>>",
         "\"I'm actually sharing with Mira.\"": "",
         "\"Did you ask a mythical tree to help you pass your exams?\"": "",
         "\"Will you take your job back?\"": "",
