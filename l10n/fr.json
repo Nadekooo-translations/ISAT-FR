@@ -18510,7 +18510,7 @@
         "(Yes, looping time!) <<v[2] > 2>>": "",
         "(No, living time.) <<v[2] > 2>>": "",
         "\"Run away...\"": "",
-        "\"Bonnie, run.\"": "",
+        "\"Bonnie, run.\"": "\"Bonnie, cours.\"",
         "\"King...\"": "",
         "\"What am I... Supposed to remember...?\"": "",
         "\"The ceiling.\"": "",
