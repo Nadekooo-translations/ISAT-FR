@@ -18914,7 +18914,7 @@
         "\"Any familytales?\"<<v[36] < 1|| s[337]>>": "",
         "\"We won't tell anyone that you broke  the law.\"": "",
         "\"Just, just because, your clothes are  so cool, haha.\"": "",
-        "\"Did you ask a mythical tree to help  you pass your exams?\"": "",
+        "\"Did you ask a mythical tree to help  you pass your exams?\"": "\"Tu as demandé à un arbre mythique de t'aider  à réussir tes exams?\"",
         "\"'Do it like Sif does!'\"": "",
         "\"You found out about everything, once.\"<<!s[220]||s[16]>>": "",
         "\"'Why shouldn't you take up time travel?'\"": "",
