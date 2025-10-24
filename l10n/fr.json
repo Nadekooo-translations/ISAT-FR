@@ -6212,7 +6212,7 @@
         "\\m[clear](You know how it ends, though.)": "\\m[clear](Mais tu sais comment ça se termine.)",
         "(You can tell him in the next loop.)": "(Tu pourras lui dire dans la prochaine boucle.)",
         "\\m[vman]\\n<\\v[46]>What?\\!\\ No, that's a lie.\\!\\ I think you're lying to me right now.": "\\m[vman]\\n<\\v[46]>Quoi ?\\!\\ Non, c'est un mensonge.\\!\\ Clairement vous me mentez actuellement.",
-        "\\m[clear](You explain the contents of issue #87, as best you can...)": "",
+        "\\m[clear](You explain the contents of issue #87, as best you can...)": "\\m[clear](Tu expliques le contenu du numéro 87 du mieux que tu peux...)",
         "\\m[vman]\\n<\\v[46]>What?\\!\\ Lord Joséphandre is just a guy?": "",
         "\\n<\\v[46]>That's...": "",
         "\\n<\\v[46]>\\{\\shakeTHAT'S AN ENDING BETTER THAN MY WILDEST DREAMS!!!": "",
