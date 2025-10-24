@@ -18208,7 +18208,7 @@
         "(Yeah.)": "",
         "\"Yes, I like going into strangers' homes.\"": "\"Oui, j'aime entrer chez des inconnus.\"",
         "\"The round one, I think.\"": "\"Celui avec les perles rondes, je dirais.\"",
-        "\"I like the teardrop one better.\"": "",
+        "\"I like the teardrop one better.\"": "\"Je préfère celui avec les perles en forme de goutte.\"",
         "\"Yeah.\"<<v[1] > 0>>": "",
         "\"Yeah!\"<<v[1] === 0||v[2] > 2>>": "",
         "\"Is the final issue... Issue #\\v[62]?\"": "",
