@@ -6173,7 +6173,7 @@
         "\\m[clear](That's a barrel.)": "\\m[clear](C'est un baril.)",
         "\\m[clear](A book on crafting jewelry.)": "\\m[clear](Un livre sur l'artisanat de bijoux.)",
         "\\m[clear](A closet filled with...)": "\\m[clear](Un placard rempli avec...)",
-        "\\m[vwoman]\\n<\\v[46]>Hey.": "",
+        "\\m[vwoman]\\n<\\v[46]>Hey.": "\\m[vwoman]\\n<\\v[46]>Hé !",
         "(You leave the closet alone.)": "",
         "\\m[clear](A small desk with some flowers on it.)": "",
         "\\m[vwoman]\\n<\\v[46]>Oh, don't look in that drawer, stranger.": "",
