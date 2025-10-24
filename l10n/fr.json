@@ -6124,7 +6124,7 @@
         "\\m[clear](You got the BRIGHT FLOWER!)": "\\m[clear](Tu as obtenu la FLEUR ÉCLATANTE !)",
         "(You put the flower in your pocket along with your Souvenirs.)": "(Tu mets la fleur dans ta poche avec tes Souvenirs.)",
         "\\m[vtuto][You can give the Flower to one of your party members by talking to them!]\\m[rb]": "\\m[vtuto][Tu peux donner la Fleur à l'un de tes équipiers en leur parlant !]\\m[rb]",
-        "\\m[clear](You got the flower again!)": "",
+        "\\m[clear](You got the flower again!)": "\\m[clear](Tu as obtenu la fleur de nouveau !)",
         "\\m[clear](You could give it to someone else this time...)": "",
         "\\m[vman]\\n<\\v[46]>Heh, have you looked around my house?\\!\\ I cannot get rid of those fast enough!": "",
         "\\m[vman]\\n<\\v[46]>That's why everyone in Dormont has some, too.": "",
