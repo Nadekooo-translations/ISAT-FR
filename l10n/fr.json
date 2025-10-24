@@ -18222,7 +18222,7 @@
         "\"We've heard you got a cool book!\"": "",
         "\"Know anything about a book?\"": "",
         "\"Shall we go elsewhere, now?\"": "",
-        "\"Why are you giving flowers away?\"": "",
+        "\"Why are you giving flowers away?\"": "\"Pourquoi tu donnes des fleurs gratuitement ?\"",
         "(It's fine.)": "",
         " \"We'll get that book, Odile.\"": "",
         "\"Good for you???\"<<v[2] > 2>>": "",
