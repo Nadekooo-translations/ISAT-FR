@@ -18223,7 +18223,7 @@
         "\"Know anything about a book?\"": "« Vous avez pas entendu parler d'un livre ? »",
         "\"Shall we go elsewhere, now?\"": "« On va chercher ailleurs, du coup ? »",
         "\"Why are you giving flowers away?\"": "« Pourquoi tu donnes des fleurs gratuitement ? »",
-        "(It's fine.)": "",
+        "(It's fine.)": "(Pas grave.)",
         " \"We'll get that book, Odile.\"": " « On finira bien par mettre la main sur ce livre, Odile. »",
         "\"Good for you???\"<<v[2] > 2>>": "",
         "\"Good for you.\"<<v[2] < 3>>": "",
