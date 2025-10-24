@@ -18206,7 +18206,7 @@
         " \"Yeah, I'll try.\"": "",
         "(Nah...)": "",
         "(Yeah.)": "",
-        "\"Yes, I like going into strangers' homes.\"": "",
+        "\"Yes, I like going into strangers' homes.\"": "\"Oui, j'aime entrer chez des inconnus.\"",
         "\"The round one, I think.\"": "",
         "\"I like the teardrop one better.\"": "",
         "\"Yeah.\"<<v[1] > 0>>": "",
