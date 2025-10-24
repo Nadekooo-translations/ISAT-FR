@@ -18212,7 +18212,7 @@
         "\"Yeah.\"<<v[1] > 0>>": "",
         "\"Yeah!\"<<v[1] === 0||v[2] > 2>>": "",
         "\"Is the final issue... Issue #\\v[62]?\"": "\"Est-ce que le dernier numéro c'est... Le numéro \\v[62] ?\"",
-        "\"I know how it ends.\"<<v[47] < 3>>": "",
+        "\"I know how it ends.\"<<v[47] < 3>>": "\"Je connais la fin.\"<<v[47] < 3>>",
         "\"She really liked it!\"": "",
         "\"Do you have any pains au chocolat?\"": "",
         "\"Do you have it still?\"": "",
