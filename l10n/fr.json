@@ -4143,7 +4143,7 @@
         "\\m[clear](Nope!)": "",
         "\\m[clear](Barrel.)": "",
         "\\m[clear](A barrel.)": "",
-        "\\m[clear](It's a barrel.)": "",
+        "\\m[clear](It's a barrel.)": "\\m[clear](C'est un baril.)",
         "\\m[clear](It says on the side: \"DO NOT SHAKE!!!\")": "",
         "\\m[clear](It's full of various nuts.)": "",
         "\\m[clear](It's full of water.)": "",
