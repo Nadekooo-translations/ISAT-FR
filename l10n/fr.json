@@ -6236,7 +6236,7 @@
         "\\m[vman]\\n<\\v[46]>Lord Joséphandre...": "",
         "\\m[vman]\\n<\\v[46]>No...\\!\\ Just...\\!\\ \"Joséphandre.\"": "",
         "\\m[vman]\\n<\\v[46]>Oh, Lord Joséphandre...\\!\\ I hope you're okay...": "",
-        "\\m[clear](A torch.)": "",
+        "\\m[clear](A torch.)": "\\m[clear](Une torche.)",
         "(It burns brightly.)": "",
         "\\m[clear](The bookcase is filled with a series of novels called \"The Cursing of Château Castle\".)": "",
         "(You've seen Mirabelle read one issue, so you assume the series is about romance\\!\\ and also about terrible things happening to good people.)": "",
