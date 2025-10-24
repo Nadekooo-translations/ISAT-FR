@@ -6187,7 +6187,7 @@
         "(Weird.)": "(Bizarre.)",
         "\\m[clear](You didn't really care about their problem before, but...)": "\\m[clear](Tu te fichais un peu de son problème avant mais...)",
         "\\m[clear](\"The Cursing of Château Castle\", is it?\\!\\ Interesting...)": "\\m[clear](\"La Condamnation de la Citadelle de Château\", c'est ça ?\\!\\ Intéressant...)",
-        "(Maybe you could find the last issue for them?)": "",
+        "(Maybe you could find the last issue for them?)": "(Peut-être que tu pourrais trouver le dernier numéro pour lui ?)",
         "\\m[choicespace](The last one you've seen is...)\\!\\": "",
         "\\m[vman]\\n<\\v[46]>No...\\!\\ Of course not.\\!\\ Why would I be into a series with only three issues?!?": "",
         "\\m[vman]\\n<\\v[46]>No...\\!\\ That's the issue where Pierre-Jacques-Erneste made his big appearance, though.\\!\\ What a great issue...": "",
