@@ -132,7 +132,7 @@
         "\\m[vs]\\shake(YOU'VE HAD THIS CLOAK FOREVER)\\!\\": "",
         "\\m[vm]Really?": "",
         "\\m[vi]...\\!Sif, can I look at your cloak for a sec?": "",
-        "\\m[clear](You nod.)": "",
+        "\\m[clear](You nod.)": "\\m[clear](Tu hoches la tête.)",
         "(Taking care to not touch you because you're too disgusting to touch, Isabeau kneels and takes a hold of your cloak...)": "",
         "\\m[vi]Ah!": "\\m[vi]Ah !",
         "Your cloak's been sewn with some kind of temperature regulation spell crafted into the stitching, that's kind of cool.": "",
