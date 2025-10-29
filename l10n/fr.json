@@ -2329,7 +2329,7 @@
         "\\m[choicespace](...)\\!\\": "\\m[choicespace](...)\\!\\",
         "\\m[vwoman]\\n<\\v[46]>Mirabelle!!!\\!\\ I know her, she's from here!!!": "\\m[vwoman]\\n<\\v[46]>Mirabelle !!!\\!\\ Je la connais, elle est originaire d'ici !!!",
         "\\n<\\v[46]>What a wonderful young woman.\\!\\ I never talked to her much, though!": "\\n<\\v[46]>Quelle merveilleuse jeune femme.\\!\\ Je ne lui ai jamais vraiment parlé cependant !",
-        "\\n<\\v[46]>Hm, I wonder though...\\!\\ Is she the younger or older sister of your group?\\!\\ She'd fit both, wouldn't she?": "",
+        "\\n<\\v[46]>Hm, I wonder though...\\!\\ Is she the younger or older sister of your group?\\!\\ She'd fit both, wouldn't she?": "\\n<\\v[46]>Hum, je me demande si...\\!\\ Est-elle la petite ou la grande sœur du groupe ?\\!\\ Elle conviendrait au deux, vous ne pensez pas ?",
         "\\m[clear](You laugh awkwardly.)": "",
         "\\m[clear](You smile awkwardly.)": "",
         "\\m[vwoman]\\n<\\v[46]>Isabeau!!!": "",
