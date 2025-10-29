@@ -2490,7 +2490,7 @@
         "\\m[clear](She seems happy.)": "\\m[clear](Elle semble heureuse.)",
         "\\m[vm]I...\\!I do?": "\\m[vm]Ah...\\! Ah bon ?",
         "\\m[clear](You nod and point at the stylish woman's house.)": "\\m[clear](Tu hoches la tête et pointes la maison de la dame élégante.)",
-        "\\m[vm]I...\\!don't know whose house it is.\\!\\ A stylish lady?": "",
+        "\\m[vm]I...\\!don't know whose house it is.\\!\\ A stylish lady?": "\\m[vm]Je...\\!ne sais pas à qui appartient cette maison.\\!\\ Une dame élégante ?",
         "\\m[clear](You describe the stylish lady as best you can.)": "",
         "\\m[vm]Um...\\!\\ I'm sorry to tell you this, but stylish ladies aren't very rare in Vaugarde, haha.": "",
         "And I see a lot of people during classes...\\!\\ I'm not smart enough to remember everyone I see...": "",
