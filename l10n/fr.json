@@ -2356,7 +2356,7 @@
         "(But this loop, she says she has a sister...?)": "",
         "\\m[vwoman]\\n<\\v[46]>What?\\!\\ No, I have a sister!": "\\m[vwoman]\\n<\\v[46]>Quoi ?\\!\\ Non, j'ai une sœur !",
         "\\n<\\v[46]>She's a few years younger than me.\\!\\ A few years ago she decided to travel the world, all on her own!": "\\n<\\v[46]>Elle a quelques années de moins que moi.\\!\\ Il y a quelques années, elle a décidé de parcourir le monde, toute seule !",
-        "\\n<\\v[46]>She lives in another country now.\\!\\ Isn't that so brave?\\!\\ Living in a foreign country, just like that?": "",
+        "\\n<\\v[46]>She lives in another country now.\\!\\ Isn't that so brave?\\!\\ Living in a foreign country, just like that?": "\\n<\\v[46]>Elle vit dans un autre pays maintenant.\\!\\ N'est-ce pas courageux ?\\!\\ Vivre dans un pays étranger, juste comme ça ?",
         "\\m[vwoman]\\n<\\v[46]>Ah, my sister?": "",
         "\\m[vwoman]\\n<\\v[46]>Oh, sorry!\\!\\ My sister now lives in...\\!\\m[wait]\\..\\..\\..": "",
         "\\n<\\v[46]>She lives...\\!\\m[wait] In...": "",
