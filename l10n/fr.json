@@ -2527,7 +2527,7 @@
         "\\m[vs](\\..\\..\\..)\\!\\": "\\m[vs](\\..\\..\\..)\\!\\",
         "\\m[vm]It does!": "\\m[vm]C'est vrai !",
         "\\m[vm]I...\\!\\ I do...?": "\\m[vm]Je...\\!\\ J'en ai un...?",
-        "I do!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "",
+        "I do!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "J'en ai un !\\!\\ Regarde ce ruban !\\!\\ N'est-il pas joli ?",
         "A-Anyway, look!!!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "",
         "\\m[clear](She's crying, but she must not want you to mention it...)": "",
         "(You look at the bow.)": "",
