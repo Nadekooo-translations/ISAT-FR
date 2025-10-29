@@ -2555,7 +2555,7 @@
         "I-If you need help with anything, I'm, I'm here for you!": "S-Si tu as besoin d'aide avec quoi que ce soit, je suis, je suis là pour toi !",
         "(Hm, okay, weird.)": "(Heu, ok, bizarre.)",
         "(Why is she telling you this...?)": "(Pourquoi te dit-elle ça...?)",
-        "\\m[wait](Ah, you know why she's asking you this.)": "",
+        "\\m[wait](Ah, you know why she's asking you this.)": "\\m[wait](Ah, tu sais pourquoi elle te demande ça.)",
         "(Poor Mirabelle can't just say it, so you'll have to do it for her...)": "",
         "\\m[vs](Clearly what's happening is...)\\!\\": "",
         "\\m[vm]Huh? HUH? \\{HUH?!?": "",
