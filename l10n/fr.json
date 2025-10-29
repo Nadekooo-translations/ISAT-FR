@@ -17596,7 +17596,7 @@
         "\"You're choosing someone for something, right?\"<<!s[203]>>": "\"Tu choisis quelqu'un pour quelque chose, pas vrai ?\"<<!s[203]>>",
         "\"It seems important!!!\"<<s[203]>>": "",
         "\"It seems important.\"<<!s[203]>>": "\"Ça a l'air important.\"<<!s[203]>>",
-        "\"Maybe I can help?\"": "",
+        "\"Maybe I can help?\"": "\"Je peux peut-être t'aider ?\"",
         "\"I have time now.\"": "",
         "(The King killed you last time...)<<v[29] === 0||v[29] > 2>>": "",
         "\"You have a fan.\"<<v[53] === 0||v[53] > 2>>": "",
