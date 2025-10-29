@@ -17577,7 +17577,7 @@
         "\"...Isabeau?\"": "",
         "\"...Odile?\"": "",
         "\"...Bonnie?\"": "« ...Bonnie ? »",
-        "\"Don't you have a sister?\"": "",
+        "\"Don't you have a sister?\"": "\"Vous n'avez pas une sœur ?\"",
         "\"Aren't you an only child?\"": "",
         "\"Which country did your sister move to?\"<<v[20] < 2>>": "",
         "\"But which country?\"": "",
