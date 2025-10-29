@@ -2389,7 +2389,7 @@
         "(You almost envy her.)": "",
         "(You walk away.)": "",
         "\\m[vo]Please don't make us talk to everyone in Dormont, Siffrin, PLEASE.": "",
-        "\\m[vm]Oh, Siffrin...?\\!\\ Is everything okay?": "",
+        "\\m[vm]Oh, Siffrin...?\\!\\ Is everything okay?": "\\m[vm]Oh, Siffrin...?\\!\\ Est-ce que tout va bien ?",
         "\\m[vm]\\..\\..\\..?": "",
         "\\m[clear](Mirabelle is here, sitting on a bench and looking at papers.)": "\\m[clear](Mirabelle est ici, assise sur un banc et regardant des papiers.)",
         "\\m[vm]Hi Siffrin!\\!\\ Do you need anything?": "",
