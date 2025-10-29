@@ -17579,7 +17579,7 @@
         "\"...Bonnie?\"": "« ...Bonnie ? »",
         "\"Don't you have a sister?\"": "\"Vous n'avez pas une sœur ?\"",
         "\"Aren't you an only child?\"": "\"N'êtes-vous pas fille unique ?\"",
-        "\"Which country did your sister move to?\"<<v[20] < 2>>": "",
+        "\"Which country did your sister move to?\"<<v[20] < 2>>": "\"Dans quel pays votre sœur a-t-elle déménagé ?\"<<v[20] < 2>>",
         "\"But which country?\"": "",
         "\"Having people you consider family is nice.\"": "",
         "\"We're not actually a family, you know.\"": "",
