@@ -17616,7 +17616,7 @@
         "\"I'll be right back.\"": "\"Je reviens tout de suite.\"",
         "\"They're bonding papers, aren't they?\"": "\"Ce sont des papiers d'union, pas vrai ?\"",
         "\"Maybe I can help.\"": "\"Je peux peut-être t'aider.\"",
-        "\"How are you liking Vaugarde?\"": "",
+        "\"How are you liking Vaugarde?\"": "\"Que pensez-vous de Vaugarde ?\"",
         "\"I've been to Poteria once.\"<<v[16] === 1>>": "",
         "\"Very good plays!\"": "",
         " \"Any advice?\"<<v[1] === 0>>": " « Des conseils ? »<<v[1] === 0>>",
