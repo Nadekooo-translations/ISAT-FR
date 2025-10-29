@@ -2569,7 +2569,7 @@
         "(You poke the papers to make your point.)": "(Tu tapotes les papiers pour appuyer tes mots.)",
         "\\m[vm]HUH?!?\\!\\ NO!\\!\\ NOT AT ALL!!!": "\\m[vm]HEIN ?!?\\!\\ NON !\\!\\ PAS DU TOUT !!!",
         "Do not look at the papers, the papers are irrelevant, do NOT LOOK AT THEM SIFFRIN I SEE YOU LOOKING AT THEM": "Ne regarde pas les papiers, les papiers sont sans importance, ne LES REGARDE PAS SIFFRIN JE VOIS QUE TU LES REGARDES",
-        "\\m[clear](You arch an eyebrow, smiling.)": "",
+        "\\m[clear](You arch an eyebrow, smiling.)": "\\m[clear](Tu arques un sourcil, souriant.)",
         "\\m[vm]Urgh!": "",
         "Alright, YES the papers are giving me a lot of trouble and I hate them.": "",
         "But I'm only looking at them now to get worried at something other than, um, tomorrow?\\!\\ They aren't that big of a deal.": "",
