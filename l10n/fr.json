@@ -9942,7 +9942,7 @@
         "\\n<\\v[46]>Ah, I remember!\\!\\ The openphrase to open it is \"stostorage roomoom\",\\!\\ because there's a storage room inside,\\!\\ but I didn't want it to unlock if you just said \"storage room\".": "\\n<\\v[46]>Ah, je me souviens !\\!\\ La phrase de passe pour l'ouvrir c'est \"dédébarrarras\",\\!\\ parce qu'il y a un débarras à l'intérieur,\\!\\ mais je ne voulais pas qu'elle s'ouvre en disant simplement \"débarras\".",
         "\\n<\\v[46]>\\m[vman]D-Don't look at me like that...": "\\n<\\v[46]>\\m[vman]N-Ne me regardez pas comme ça...",
         "\\n<\\v[46]>Well, either way, there's not much in there.\\!\\ Nonetheless, I hope it helps you on your journey tomorrow!": "\\n<\\v[46]>Enfin, il n'y a pas grand chose à l'intérieur de toute façon.\\!\\ J'espère quand même que ça vous aidera pour votre voyage demain !",
-        "(Didn't this shopkeeper know about that one locked room?)": "",
+        "(Didn't this shopkeeper know about that one locked room?)": "(Ce marchand n'était-il pas au courant pour la pièce verrouillée ?)",
         "(Maybe they'd know about other, secret, hidden rooms around the House.)": "",
         "(Nothing else to do but explore, you suppose.)": "",
         "\\m[vman]\\n<\\v[46]>Hm...\\!\\ Hidden rooms, hidden rooms...": "",
