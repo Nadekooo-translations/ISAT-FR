@@ -2455,7 +2455,7 @@
         "\\m[clear](Sounds like you need to figure out what those papers are.)": "\\m[clear](On dirait que tu vas devoir comprendre ce que sont ces papiers.)",
         "(She said she had more in her dorm room in the House, didnt she?)": "(N'a-t-elle pas dit qu'elle en avait encore plus dans son dortoir au Foyer ?)",
         "\\m[vm]Hm?\\!\\ Sorry?": "\\m[vm]Hein ?\\!\\ Pardon ?",
-        "\\m[clear](You point at her pile of papers.)": "",
+        "\\m[clear](You point at her pile of papers.)": "\\m[clear](Tu pointes sa pile de papiers.)",
         "\\m[vm]Wha--": "",
         "\\shake\\{!!!!!!!!!!!!!!!!!!!!!!": "",
         "\\{WHAT": "",
