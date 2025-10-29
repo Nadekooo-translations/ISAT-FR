@@ -2529,7 +2529,7 @@
         "\\m[vm]I...\\!\\ I do...?": "\\m[vm]Je...\\!\\ J'en ai un...?",
         "I do!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "J'en ai un !\\!\\ Regarde ce ruban !\\!\\ N'est-il pas joli ?",
         "A-Anyway, look!!!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "E-Enfin, regarde !!!\\!\\ Regarde ce ruban !\\!\\ N'est-il pas joli ?",
-        "\\m[clear](She's crying, but she must not want you to mention it...)": "",
+        "\\m[clear](She's crying, but she must not want you to mention it...)": "\\m[clear](Elle pleure, mais elle ne veut sans doute pas que tu le mentionnes...)",
         "(You look at the bow.)": "",
         "(It's a very bright shade, and seems to sparkle in the light.)": "",
         "(It would probably fit Mirabelle very well...)": "",
