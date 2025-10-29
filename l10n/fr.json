@@ -2521,7 +2521,7 @@
         "\\m[clear](Oh, no.)": "\\m[clear](Oh, non.)",
         "\\m[vs](You have to do something!!!)\\!\\": "\\m[vs](Tu dois faire quelque chose !!!)\\!\\",
         "\\m[clear](You point at the bow Mirabelle is wearing.)": "\\m[clear](Tu pointes le ruban que Mirabelle porte.)",
-        "\\m[clear](You point at Mirabelle's pockets.)": "",
+        "\\m[clear](You point at Mirabelle's pockets.)": "\\m[clear](Tu pointes les poches de Mirabelle.)",
         "\\m[vm]\\shakeRight the--right there...\\!\\ It's right there...": "",
         "It's right there!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "",
         "\\m[vs](\\..\\..\\..)\\!\\": "",
