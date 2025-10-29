@@ -2523,7 +2523,7 @@
         "\\m[clear](You point at the bow Mirabelle is wearing.)": "\\m[clear](Tu pointes le ruban que Mirabelle porte.)",
         "\\m[clear](You point at Mirabelle's pockets.)": "\\m[clear](Tu pointes les poches de Mirabelle.)",
         "\\m[vm]\\shakeRight the--right there...\\!\\ It's right there...": "\\m[vm]\\shakeJuste l--juste là...\\!\\ Il est juste là...",
-        "It's right there!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "",
+        "It's right there!\\!\\ Look at this bow!\\!\\ Isn't it pretty?": "Il est juste là !\\!\\ Regarde ce ruban !\\!\\ N'est-il pas joli ?",
         "\\m[vs](\\..\\..\\..)\\!\\": "",
         "\\m[vm]It does!": "",
         "\\m[vm]I...\\!\\ I do...?": "",
