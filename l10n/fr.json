@@ -2641,7 +2641,7 @@
         "(Rewarding kindness with death.)": "(Récompenser la gentillesse par la mort.)",
         "\\m[vman]\\n<\\v[46]>Ah, is that so?\\!\\ How did you like it?": "\\m[vman]\\n<\\v[46]>Ah, vraiment ?\\!\\ Qu'en avez-vous pensé ?",
         "\\m[vman]\\n<\\v[46]>A fellow theater fan...": "\\m[vman]\\n<\\v[46]>Un camarade fan de théâtre...",
-        "\\n<\\v[46]>Nice.": "",
+        "\\n<\\v[46]>Nice.": "\\n<\\v[46]>C'est sympa.",
         "\\m[clear](You give each other a nod, as fellow theater fans do.)": "",
         "\\m[clear](You give each other a nod, as fellow actors.)": "",
         "(Does it matter if one of you isn't aware of it?)": "",
