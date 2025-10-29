@@ -17604,7 +17604,7 @@
         "(Stay silent.)<<v[2] < 4||s[274]>>": "",
         "\"Mirabelle?\"": "\"Mirabelle ?\"",
         "\"I-It's right here, see???\"": "\"I-Il est juste là, tu vois ???\"",
-        "\"I-It looks wonderful!\"": "",
+        "\"I-It looks wonderful!\"": "\"I-Il est magnifique !\"",
         "\"You have a stylish bow!\"": "",
         "\"It looks wonderful.\"": "",
         "\"Nope, I'm fine!\"": "",
