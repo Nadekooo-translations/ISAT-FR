@@ -17614,7 +17614,7 @@
         "\"Nah, I'm good.\"": "\"Nan, ça ira.\"",
         "\"Would you like some help with those papers?\"": "",
         "\"I'll be right back.\"": "\"Je reviens tout de suite.\"",
-        "\"They're bonding papers, aren't they?\"": "",
+        "\"They're bonding papers, aren't they?\"": "\"Ce sont des papiers d'union, pas vrai ?\"",
         "\"Maybe I can help.\"": "",
         "\"How are you liking Vaugarde?\"": "",
         "\"I've been to Poteria once.\"<<v[16] === 1>>": "",
