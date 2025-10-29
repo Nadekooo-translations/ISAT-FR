@@ -17578,7 +17578,7 @@
         "\"...Odile?\"": "",
         "\"...Bonnie?\"": "« ...Bonnie ? »",
         "\"Don't you have a sister?\"": "\"Vous n'avez pas une sœur ?\"",
-        "\"Aren't you an only child?\"": "",
+        "\"Aren't you an only child?\"": "\"N'êtes-vous pas fille unique ?\"",
         "\"Which country did your sister move to?\"<<v[20] < 2>>": "",
         "\"But which country?\"": "",
         "\"Having people you consider family is nice.\"": "",
