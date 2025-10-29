@@ -2338,7 +2338,7 @@
         "\\m[clear](...Huh?)": "\\m[clear](...Hein ?)",
         "(Something feels weird.)": "(Il y a quelque chose d'étrange.)",
         "(When you asked her about Odile, didn't she tell you she had a sister?)": "(Quand tu l'as questionné sur Odile, ne t'a-t-elle pas dit qu'elle avait une sœur ?)",
-        "(But this loop, she says she's an only child...?)": "",
+        "(But this loop, she says she's an only child...?)": "(Mais dans cette boucle, elle dit être fille unique...?)",
         "\\m[vwoman]\\n<\\v[46]>I...\\!\\m[wait] I don't?\\!\\ I just said I'm an only child, silly!": "",
         "(You want to ask her more, but she's already back to her daydream.)": "",
         "\\m[vwoman]\\n<\\v[46]>Yes, Odile!": "",
