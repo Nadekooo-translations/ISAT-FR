@@ -17603,7 +17603,7 @@
         "\"Fanmail delivery!\" <<s[56] || v[53] < 4 || v[53] > 4>>": "",
         "(Stay silent.)<<v[2] < 4||s[274]>>": "",
         "\"Mirabelle?\"": "\"Mirabelle ?\"",
-        "\"I-It's right here, see???\"": "",
+        "\"I-It's right here, see???\"": "\"I-Il est juste là, tu vois ???\"",
         "\"I-It looks wonderful!\"": "",
         "\"You have a stylish bow!\"": "",
         "\"It looks wonderful.\"": "",
