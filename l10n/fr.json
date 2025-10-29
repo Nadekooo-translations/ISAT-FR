@@ -17582,7 +17582,7 @@
         "\"Which country did your sister move to?\"<<v[20] < 2>>": "\"Dans quel pays votre sœur a-t-elle déménagé ?\"<<v[20] < 2>>",
         "\"But which country?\"": "\"Mais quel pays ?\"",
         "\"Having people you consider family is nice.\"": "\"C'est bien d'avoir des gens que l'on considère comme sa famille.\"",
-        "\"We're not actually a family, you know.\"": "",
+        "\"We're not actually a family, you know.\"": "\"Vous savez, nous ne sommes pas vraiment une famille.\"",
         "\"Where is everyone again?\"": "",
         "\"How are you feeling?\"": "",
         "\"What's the thing you drew?\"<<v[42] === 0 ||v[42] >1>>": "",
