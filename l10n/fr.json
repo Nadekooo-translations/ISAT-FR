@@ -2509,7 +2509,7 @@
         "\\m[vm]S-She's such a nice person...\\!\\ I'm so glad that...": "\\m[vm]E-Elle est tellement gentille...\\!\\ Je suis si heureuse que...",
         "So glad that...": "Si heureuse que...",
         "A-Anyway, look!!!\\!\\ Look at this bow!\\!\\ Isn't it--": "E-Enfin, regarde !!!\\!\\ Regarde ce ruban !\\!\\ N'est-il pas--",
-        "\\m[clear](You already have the Stylish Bow.)": "",
+        "\\m[clear](You already have the Stylish Bow.)": "\\m[clear](Tu as déjà obtenu le Ruban Élégant.)",
         "(The bow disappeared from Mirabelle's hands.)": "",
         "\\m[vm]\\..\\..\\..\\!\\m[wait]Huh...?": "",
         "What...\\!\\ What happened?": "",
