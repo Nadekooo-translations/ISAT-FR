@@ -2395,7 +2395,7 @@
         "\\m[vm]Hi Siffrin!\\!\\ Do you need anything?": "\\m[vm]Salut Siffrin !\\!\\ Tu as besoin de quelque chose ?",
         "\\m[vtuto][You don't need to talk to your allies about things you've already talked about, but the option is still here just in case you need a refresher!]\\m[rb]": "\\m[vtuto][Tu n'as pas besoin de répéter ce que tu as déjà dit à tes alliés, mais tu en as toujours l'option au cas où il te faut un rappel !]\\m[rb]",
         "\\m[clear](...?)": "\\m[clear](...?)",
-        "\\m[clear](You don't actually say that.\\!\\ You know where everyone is.)": "",
+        "\\m[clear](You don't actually say that.\\!\\ You know where everyone is.)": "\\m[clear](Tu ne dis pas vraiment ça.\\!\\ Tu sais où tout le monde se trouve.)",
         "\\m[vm]Siffrin...\\!\\ Did you forget already?\\!\\ I wrote a note for you...": "",
         "You need to go into your pockets to find it...\\!\\ You can, um, just put your hand right in there?": "",
         "Ah!\\!\\ Not that I think you've even forgotten how to put your hand in your pocket!": "",
