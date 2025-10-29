@@ -2628,7 +2628,7 @@
         "\\m[clear](You've talked to them before.)": "\\m[clear](Tu lui as déjà parlé.)",
         "(Hm...)": "(Hum...)",
         "(Well, you've been to Poteria once, so...)": "(Et bien, tu es déjà allé à Poteria une fois, donc...)",
-        "\\m[vman]\\n<\\v[46]>It's nice, right?\\!\\ Lots of scholars, good food, welcoming people.": "",
+        "\\m[vman]\\n<\\v[46]>It's nice, right?\\!\\ Lots of scholars, good food, welcoming people.": "\\m[vman]\\n<\\v[46]>C'est sympa, non ?\\!\\ Beaucoup d'érudits, de la bonne nourriture, des gens accueillants.",
         "\\n<\\v[46]>Especially their Houses of Change.\\!\\ They let everyone in, and aren't shy about sharing their knowledge, even if you don't follow their belief.": "",
         "\\n<\\v[46]>It's strange, right?\\!\\ I've traveled a lot, but I've never been to a country with such welcoming people.\\!\\ I could move here, to be honest.": "",
         "\\n<\\v[46]>...\\!\\m[wait]Well, it's a little awkward right now, with the King.\\!\\ I might actually be forced to move here.\\!\\ Permanently.": "",
