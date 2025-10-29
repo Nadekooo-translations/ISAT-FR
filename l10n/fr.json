@@ -2325,7 +2325,7 @@
         "(Some loops, she mentions her sister, and others, she says she's an only child...)": "(Dans certaines boucles, elle mentionne sa sœur, et dans d'autres, elle dit être fille unique...)",
         "(You should ask her about Isabeau or Odile...)": "(Tu devrais la questionner sur Isabeau ou Odile...)",
         "\\m[vwoman]\\n<\\v[46]>Oh, hi!\\!\\ You're one of the saviors, aren't you!\\!\\ I recognize you!": "\\m[vwoman]\\n<\\v[46]>Oh, salut !\\!\\ Vous êtes l'un des sauveurs, n'est-ce pas !\\!\\ Je vous reconnais !",
-        "\\n<\\v[46]>And you traveled with a few people, right!\\!\\ You traveled with, um...": "",
+        "\\n<\\v[46]>And you traveled with a few people, right!\\!\\ You traveled with, um...": "\\n<\\v[46]>Et vous voyagez avec quelques personnes !\\!\\ Vous voyagez avec, hum...",
         "\\m[choicespace](...)\\!\\": "",
         "\\m[vwoman]\\n<\\v[46]>Mirabelle!!!\\!\\ I know her, she's from here!!!": "",
         "\\n<\\v[46]>What a wonderful young woman.\\!\\ I never talked to her much, though!": "",
