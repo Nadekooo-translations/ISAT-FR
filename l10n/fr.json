@@ -2309,7 +2309,7 @@
         "(You can say from experience that a rock like this falling on you would kill you near instantly.)": "",
         "\\m[clear](Oh, wait, that's the room you died in because you didn't check for traps.)": "\\m[clear](Oh, attends, c'est la salle où tu es mort parce que tu n'as pas vérifié s'il y avait des pièges.)",
         "(There MUST be a switch or something somewhere that can stop the trap from activating.)": "(Il DOIT y avoir un interrupteur ou autre chose quelque part qui peut empêcher le piège de s'activer.)",
-        "\\m[wait](You didn't feel it last time, but...)": "",
+        "\\m[wait](You didn't feel it last time, but...)": "\\m[wait](Tu ne l'as pas ressenti la dernière fois, mais...)",
         "(You can feel something...\\!\\ different in this room.)": "",
         "act1": "",
         "act2": "",
