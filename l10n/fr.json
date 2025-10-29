@@ -17587,7 +17587,7 @@
         "\"How are you feeling?\"": "",
         "\"What's the thing you drew?\"<<v[42] === 0 ||v[42] >1>>": "",
         "\"We'll save them all tomorrow.\"": "\"On les sauvera tous demain.\"",
-        "\"Didn't this whole journey count as a pilgrimage?\"": "",
+        "\"Didn't this whole journey count as a pilgrimage?\"": "\"Tout ce voyage ne compte pas comme un pèlerinage ?\"",
         "\"Go on a pilgrimage too, maybe.\"": "",
         "\"Nah, I'm fine staying the same person forever.\"": "",
         "(Tease her a little.)": "",
