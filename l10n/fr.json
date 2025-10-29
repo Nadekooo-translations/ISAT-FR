@@ -2557,7 +2557,7 @@
         "(Why is she telling you this...?)": "(Pourquoi te dit-elle ça...?)",
         "\\m[wait](Ah, you know why she's asking you this.)": "\\m[wait](Ah, tu sais pourquoi elle te demande ça.)",
         "(Poor Mirabelle can't just say it, so you'll have to do it for her...)": "(La pauvre Mirabelle ne peut juste pas le dire, donc tu vas devoir le faire pour elle...)",
-        "\\m[vs](Clearly what's happening is...)\\!\\": "",
+        "\\m[vs](Clearly what's happening is...)\\!\\": "\\m[vs](Clairement, ce qui se passe, c'est...)\\!\\",
         "\\m[vm]Huh? HUH? \\{HUH?!?": "",
         "NO!\\!\\ That's not why I'm--URGH!": "",
         "\\m[clear](Mirabelle urgh'd at you.)": "",
