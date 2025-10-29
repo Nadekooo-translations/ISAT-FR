@@ -2391,7 +2391,7 @@
         "\\m[vo]Please don't make us talk to everyone in Dormont, Siffrin, PLEASE.": "",
         "\\m[vm]Oh, Siffrin...?\\!\\ Is everything okay?": "",
         "\\m[vm]\\..\\..\\..?": "",
-        "\\m[clear](Mirabelle is here, sitting on a bench and looking at papers.)": "",
+        "\\m[clear](Mirabelle is here, sitting on a bench and looking at papers.)": "\\m[clear](Mirabelle est ici, assise sur un banc et regardant des papiers.)",
         "\\m[vm]Hi Siffrin!\\!\\ Do you need anything?": "",
         "\\m[vtuto][You don't need to talk to your allies about things you've already talked about, but the option is still here just in case you need a refresher!]\\m[rb]": "",
         "\\m[clear](...?)": "",
