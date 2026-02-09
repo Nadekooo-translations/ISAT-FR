@@ -87,7 +87,6 @@ JSON.parse(String(readFileSync("isat-orig/data/CommonEvents.json")))
 for (const mapPath of globSync("isat-orig/data/Map*.json")) {
     const map = JSON.parse(String(readFileSync(mapPath)));
     const mapName = basename(mapPath, ".json");
-    console.log(mapName);
 
     for (let eventIdx = 0; map.events && eventIdx < map.events.length; eventIdx++) {
         const event = map.events[eventIdx];
