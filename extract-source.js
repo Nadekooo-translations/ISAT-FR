@@ -84,12 +84,9 @@ JSON.parse(String(readFileSync("isat-orig/data/CommonEvents.json")))
     .filter(Boolean)
     .forEach(e => extractScriptTranslations(["CommonEvents", String(e.id)], e.list));
 
-for (const mapPath of globSync("isat-orig/data/Map*.json")) {
-    const map = JSON.parse(String(readFileSync(mapPath)));
-    const mapName = basename(mapPath, ".json");
-
-    for (let eventIdx = 0; map.events && eventIdx < map.events.length; eventIdx++) {
-        const event = map.events[eventIdx];
+const handleEvents = (prefix, events) => {
+    for (let eventIdx = 0; events && eventIdx < events.length; eventIdx++) {
+        const event = events[eventIdx];
 
         if (!event) continue;
 
@@ -98,9 +95,18 @@ for (const mapPath of globSync("isat-orig/data/Map*.json")) {
 
             if (!page) continue;
 
-            extractScriptTranslations(["Maps", mapName, String(eventIdx), String(pageIdx)], page.list);
+            extractScriptTranslations([...prefix, String(eventIdx), String(pageIdx)], page.list);
         }
     }
+};
+
+for (const mapPath of globSync("isat-orig/data/Map*.json")) {
+    const map = JSON.parse(String(readFileSync(mapPath)));
+    const mapName = basename(mapPath, ".json");
+
+    handleEvents(["Maps", mapName], map.events);
 }
+
+handleEvents(["Troops"], JSON.parse(String(readFileSync("isat-orig/data/Troops.json"))));
 
 writeFileSync(targetLanguageCode + ".json", JSON.stringify(flat, undefined, 4));
