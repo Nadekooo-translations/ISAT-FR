@@ -21957,5 +21957,1367 @@
                 "description": ""
             }
         }
+    },
+        "events": {
+        "CommonEvents": {
+            "50": {
+                "4": "Nothing to ask.",
+                "7": "Nothing to say.",
+                "38": "(Ask the King...)",
+                "50": "(...)",
+                "82": "(But they might!)",
+                "94": "(...)"
+            },
+            "54": {
+                "5": "                ",
+                "6": " time",
+                "7": "MIRABELLE",
+                "8": "ISABEAU",
+                "9": "ODILE",
+                "10": "BONNIE",
+                "11": "THE KING",
+                "12": "THE HEAD HOUSEMAIDEN",
+                "13": "LOOP",
+                "14": "Attack",
+                "15": "Guard",
+                "16": "‎",
+                "19": "\\!\\ EXP doubled for everyone else.)",
+                "22": ")",
+                "27": ")",
+                "32": "Some change you got from buying a croissant.",
+                "36": "A nice silver coin that has followed you even through time.",
+                "40": "A coin.",
+                "44": "Your coin. There’s only one like it in the Universe.",
+                "54": "A note Mirabelle wrote for you and your sieve-like brain.<br>[Press \u000b[376] to interact!]",
+                "57": "A note Mirabelle wrote for you.<br>But you know what to do.",
+                "62": "A key adorned with a keychain shaped like a mask. It doesn't have an expression.",
+                "66": "A useless key. Can't be used on the gate.",
+                "71": "Pew! Bam! Kapow! Easy-peasy!",
+                "75": "Not gonna be done anytime soon.",
+                "79": "Too many to count.",
+                "84": "A gift for Mirabelle. It's lovingly wrapped.",
+                "87": "A gift for Mirabelle. It can't be gifted anymore.",
+                "92": "Wh-- How did those snacks get here?!",
+                "95": "A bunch of snacks given to you by Bonnie.",
+                "100": "You use a",
+                "103": "Bonnie runs in with a",
+                "108": "actor",
+                "109": "actors",
+                "110": "an actor",
+                "114": "friend",
+                "115": "friends",
+                "116": "a friend",
+                "120": "ally",
+                "121": "allies",
+                "122": "an ally",
+                "126": "family member",
+                "127": "family members",
+                "128": "a family member",
+                "135": "!",
+                "138": ".",
+                "143": "Victory feels good!!!",
+                "146": "Victory is meaningless, but it still feels good.",
+                "150": "This KeyKnife currently also moonlights as a KnifeKey. So versatile!",
+                "153": "This knife should let you cut through the King's hair, but probably just once.",
+                "158": "A Housemaiden from the town\nof Dormont, blessed by\nthe Change God.",
+                "161": "A Housemaiden from the town\nof Dormont, thought to be\nblessed by the Change God."
+            },
+            "108": {
+                "615": "FLOOR 1",
+                "634": "FLOOR 2",
+                "653": "FLOOR 3",
+                "672": "THE KING"
+            },
+            "119": {
+                "5": "WITH ALL DOORS OPENED?",
+                "15": "?"
+            },
+            "130": {
+                "32": "Can I help you with anything?",
+                "49": "Hey, I finished helping everyone out.",
+                "64": "Let's hang out now!",
+                "78": "(Questions for Isa...)",
+                "90": "(...)",
+                "201": "(Wasn't Isabeau a Defender...?)",
+                "212": "(Just say the same thing...)",
+                "225": "(...)",
+                "239": "(You know your lines.)"
+            },
+            "139": {
+                "39": "(Quick, say something...)",
+                "51": "(...)",
+                "73": "(Well...)",
+                "85": "(...)"
+            },
+            "168": {
+                "87": "(Questions...)",
+                "100": "(...)",
+                "112": "(...)"
+            },
+            "210": {
+                "6": "  SOMETHING  ",
+                "24": "watches your movements.",
+                "43": "does not blink.",
+                "67": "stares at you.",
+                "89": "breathes in, and out.",
+                "194": "cries silently.",
+                "277": "yells silently.",
+                "784": "look determined."
+            },
+            "222": {
+                "3": "Tutorial Kid",
+                "20": "(Who doesn't know how to play...)",
+                "33": "(...)",
+                "59": "(Uh...)",
+                "72": "(Stars.)"
+            },
+            "226": {
+                "10": "(If you look at its hands...)",
+                "23": "(This one is...)",
+                "35": "(...)",
+                "72": "(Your turn again?!)",
+                "85": "(Hm...)",
+                "97": "(...)"
+            },
+            "229": {
+                "18": "(Your turn again?!?)",
+                "31": "(This one is...)",
+                "43": "(...)",
+                "121": "(Stars, you know this.)",
+                "134": "(Hm...)",
+                "146": "(...)"
+            },
+            "237": {
+                "154": "(Heh...)",
+                "167": "(Your turn.)",
+                "180": "(...)"
+            }
+        },
+        "Maps": {
+            "Map001": {
+                "3": {
+                    "0": {
+                        "33": "(Oh, um...)",
+                        "46": "(...)",
+                        "58": "(...)"
+                    }
+                }
+            },
+            "Map002": {
+                "7": {
+                    "3": {
+                        "239": "."
+                    }
+                }
+            },
+            "Map013": {
+                "1": {
+                    "0": {
+                        "96": "(You're smiling.)",
+                        "109": "(You're happy to see them happy.)",
+                        "122": "(Ha...)"
+                    }
+                }
+            },
+            "Map016": {
+                "7": {
+                    "1": {
+                        "201": "(Something like...)",
+                        "219": "(Hm...)",
+                        "233": "(Alright...)",
+                        "250": "(...)"
+                    }
+                }
+            },
+            "Map018": {
+                "9": {
+                    "0": {
+                        "67": "Sad Diary"
+                    }
+                }
+            },
+            "Map020": {
+                "2": {
+                    "0": {
+                        "64": "(Maybe she'd tell you now...)",
+                        "77": "(Heh.)",
+                        "89": "(She won't tell you, but...)",
+                        "162": "(Yeah, you got this.)",
+                        "174": "(Say the line, Siffrin.)"
+                    },
+                    "2": {
+                        "98": "(Why not say it, in the end?)",
+                        "111": "(...Follow the script.)",
+                        "123": "(WHY DID YOU SAY IT?)"
+                    }
+                },
+                "4": {
+                    "0": {
+                        "266": "(?)",
+                        "278": "(Stars...)"
+                    }
+                },
+                "5": {
+                    "0": {
+                        "470": "(Huh?)",
+                        "482": "(...)"
+                    },
+                    "2": {
+                        "69": "(Huh?)",
+                        "81": "(...)",
+                        "114": "(But...)",
+                        "127": "(It didn't work the first time, but...)",
+                        "139": "(...)"
+                    }
+                }
+            },
+            "Map021": {
+                "2": {
+                    "0": {
+                        "4": "!",
+                        "7": ".",
+                        "1489": "."
+                    }
+                }
+            },
+            "Map022": {
+                "1": {
+                    "0": {
+                        "3": "Blind One",
+                        "121": "(Well...)",
+                        "134": "(Well...)",
+                        "146": "(...)"
+                    },
+                    "1": {
+                        "3": "Blind One"
+                    },
+                    "2": {
+                        "2": "Blind One"
+                    },
+                    "3": {
+                        "2": "Blind One"
+                    }
+                },
+                "2": {
+                    "0": {
+                        "4": "Wizard-loving kid",
+                        "62": "(Heheheh.)",
+                        "74": "(...)"
+                    },
+                    "1": {
+                        "4": "Wizard-loving kid"
+                    },
+                    "2": {
+                        "2": "Wizard-loving kid"
+                    },
+                    "3": {
+                        "2": "Wizard-loving kid"
+                    }
+                },
+                "3": {
+                    "0": {
+                        "3": "Frog-loving kid"
+                    },
+                    "1": {
+                        "3": "Frog-loving kid"
+                    },
+                    "2": {
+                        "2": "Frog-loving kid"
+                    },
+                    "3": {
+                        "2": "Frog-loving kid"
+                    }
+                },
+                "4": {
+                    "0": {
+                        "250": "Let's hang out now!",
+                        "264": "Can I help you with anything?",
+                        "279": "(Questions...)",
+                        "292": "(...)",
+                        "320": "(Hey...)",
+                        "332": "(...)",
+                        "386": "(That's a lie.)",
+                        "398": "(Yeah, keep stepping right in it...)",
+                        "449": "(...Okay.)",
+                        "461": "(...)",
+                        "488": "(Wow.)",
+                        "501": "(...)",
+                        "556": "(Ah, you're still hated, huh...)",
+                        "569": "(...)",
+                        "581": "(...)",
+                        "635": "(Ah.)",
+                        "648": "(Okay...)",
+                        "660": "(...)",
+                        "1186": "(Make something up.)",
+                        "1198": "(Follow the script.)"
+                    }
+                },
+                "5": {
+                    "0": {
+                        "3": "Sky-loving kid",
+                        "24": "(Are you?)",
+                        "36": "(...)"
+                    },
+                    "1": {
+                        "3": "Sky-loving kid"
+                    },
+                    "2": {
+                        "2": "Sky-loving kid"
+                    },
+                    "3": {
+                        "2": "Sky-loving kid"
+                    }
+                },
+                "46": {
+                    "0": {
+                        "3": "Drawing Kid"
+                    },
+                    "1": {
+                        "3": "Drawing Kid"
+                    }
+                },
+                "58": {
+                    "0": {
+                        "17": "Wizard-loving kid",
+                        "42": "(WHY YOU?!?)",
+                        "54": "(You sigh.)",
+                        "98": "Frog-loving kid",
+                        "108": "Wizard-loving kid",
+                        "129": "(What to say...)",
+                        "142": "(You sigh.)",
+                        "154": "(You don't react.)",
+                        "174": "Wizard-loving kid",
+                        "184": "Frog-loving kid",
+                        "194": "Wizard-loving kid",
+                        "231": "Frog-loving kid",
+                        "242": "Wizard-loving kid",
+                        "258": "(Um...)",
+                        "270": "(...)",
+                        "383": "Frog-loving kid",
+                        "397": "Wizard-loving kid",
+                        "425": "Sky-loving kid",
+                        "435": "Wizard-loving kid",
+                        "455": "Sky-loving kid",
+                        "468": "Wizard-loving kid"
+                    }
+                }
+            },
+            "Map023": {
+                "8": {
+                    "2": {
+                        "6": "!",
+                        "17": "."
+                    }
+                },
+                "11": {
+                    "4": {
+                        "70": "(No.)",
+                        "82": "(Not in a million loops.)"
+                    }
+                }
+            },
+            "Map024": {
+                "1": {
+                    "1": {
+                        "283": "...",
+                        "302": "..."
+                    },
+                    "2": {
+                        "738": "..."
+                    }
+                }
+            },
+            "Map025": {
+                "2": {
+                    "0": {
+                        "357": "(Huh?)",
+                        "369": "(...)",
+                        "641": "(Hm?)",
+                        "653": "(...)"
+                    }
+                }
+            },
+            "Map028": {
+                "1": {
+                    "0": {
+                        "27": "(Does it mean something?)",
+                        "40": "(Hm...)",
+                        "53": "(Well...)",
+                        "65": "(...)",
+                        "110": "(...)",
+                        "123": "(You're still curious about this...)",
+                        "136": "(Well...)",
+                        "148": "(...)"
+                    }
+                }
+            },
+            "Map030": {
+                "1": {
+                    "0": {
+                        "2": "Daydreaming One"
+                    },
+                    "1": {
+                        "1": "Daydreaming One"
+                    },
+                    "2": {
+                        "1": "Daydreaming One"
+                    },
+                    "3": {
+                        "1": "Daydreaming One"
+                    }
+                },
+                "3": {
+                    "0": {
+                        "49": "Can I help you with anything?",
+                        "60": "So, which one will you choose?",
+                        "75": "Let's hang out now!",
+                        "93": "(Questions...)",
+                        "105": "(...)",
+                        "174": "(Mira...)",
+                        "187": "(Just say the same thing...?)",
+                        "200": "(...)",
+                        "239": "(...Um.)",
+                        "251": "(...)"
+                    }
+                },
+                "4": {
+                    "0": {
+                        "2": "Smug One"
+                    },
+                    "1": {
+                        "1": "Smug One"
+                    },
+                    "2": {
+                        "1": "Smug One"
+                    },
+                    "3": {
+                        "1": "Smug One"
+                    }
+                },
+                "5": {
+                    "0": {
+                        "9": "Tutorial Kid"
+                    },
+                    "1": {
+                        "4": "Tutorial Kid"
+                    },
+                    "2": {
+                        "6": "Tutorial Kid"
+                    },
+                    "3": {
+                        "2": "Tutorial Kid"
+                    }
+                },
+                "6": {
+                    "1": {
+                        "17": "(You sure are.)",
+                        "35": "(Quick!)",
+                        "47": "(The usual, please.)",
+                        "68": "(Something like...)",
+                        "80": "(Here again.)",
+                        "95": "(Enter Mirabelle.)",
+                        "122": "(Let's see...)",
+                        "138": "(Smart and normal words, GO!)",
+                        "150": "(Hm...)",
+                        "165": "(...)",
+                        "318": "(Well...)",
+                        "340": "(Something like...)",
+                        "355": "(Make her happy.)",
+                        "368": "(The usual.)",
+                        "380": "(Say the line, Siffrin.)",
+                        "511": "(Um...)",
+                        "524": "(You think so, yes.)",
+                        "537": "(You really, really will.)"
+                    }
+                },
+                "16": {
+                    "0": {
+                        "6": "Fishing One",
+                        "35": "(Why not.)",
+                        "47": "(...)"
+                    },
+                    "1": {
+                        "2": "Fishing One"
+                    },
+                    "2": {
+                        "1": "Fishing One"
+                    },
+                    "3": {
+                        "1": "Fishing One"
+                    }
+                },
+                "26": {
+                    "0": {
+                        "27": "Locked One"
+                    }
+                },
+                "31": {
+                    "0": {
+                        "2": "Running One",
+                        "70": "(Okay you need to go.)",
+                        "83": "(...)",
+                        "95": "(...)"
+                    },
+                    "1": {
+                        "2": "Running One"
+                    },
+                    "2": {
+                        "1": "Running One"
+                    },
+                    "3": {
+                        "1": "Running One"
+                    }
+                }
+            },
+            "Map034": {
+                "2": {
+                    "0": {
+                        "230": "(Hm...)",
+                        "243": "(Oh, wait, you remember this!)",
+                        "256": "(Joke time.)",
+                        "270": "(Cue joke.)"
+                    }
+                }
+            },
+            "Map037": {
+                "1": {
+                    "0": {
+                        "643": "(You say very loudly:)",
+                        "656": "(You say very loudly:)",
+                        "669": "(Do not make Bonnie sad!!!)",
+                        "681": "(Do not make Bonnie sad.)"
+                    }
+                },
+                "5": {
+                    "2": {
+                        "95": "(Oh, um...)",
+                        "108": "(Joke time.)",
+                        "121": "(Make her smile!)",
+                        "133": "(Make her smile.)",
+                        "207": "(YOU CAN STILL SAVE THIS...!!!)",
+                        "220": "(Nah, you got it.)",
+                        "232": "(Heh.)"
+                    }
+                },
+                "6": {
+                    "2": {
+                        "37": "(Yes.)",
+                        "50": "(Yes.)",
+                        "63": "(You really would.)",
+                        "75": "(Your stomach screams.)"
+                    }
+                },
+                "7": {
+                    "2": {
+                        "31": "(So then...)",
+                        "43": "(...)"
+                    }
+                }
+            },
+            "Map041": {
+                "6": {
+                    "0": {
+                        "78": "(Say at normal volume:)",
+                        "91": "(Say at normal volume:)",
+                        "103": "(...)",
+                        "391": "(You whisper...)",
+                        "518": "(But...)",
+                        "534": "(But...)",
+                        "552": "(...)",
+                        "571": "(...)",
+                        "655": "(Heheh)",
+                        "667": "(Joke time.)"
+                    }
+                },
+                "7": {
+                    "2": {
+                        "35": "(You do?!?)",
+                        "48": "(Apparently.)",
+                        "61": "(...)",
+                        "73": "(...)"
+                    },
+                    "4": {
+                        "37": "(?)",
+                        "50": "(...)",
+                        "62": "(...)",
+                        "93": "(Ah.)",
+                        "106": "(...)",
+                        "118": "(...)"
+                    }
+                }
+            },
+            "Map061": {
+                "2": {
+                    "0": {
+                        "49": "(Not EXACTLY what you said, but...)",
+                        "61": "(...)",
+                        "184": "(You can't help but yell.)",
+                        "196": "(You don't have to remember to yell.)",
+                        "453": "(WHAT?!?)",
+                        "465": "(...)",
+                        "559": "(Nille?)",
+                        "571": "(Follow the script.)",
+                        "639": "(...)",
+                        "651": "(...)",
+                        "757": "(It's not FINE, but...)",
+                        "769": "(You'll get used to it, right?)",
+                        "926": "(Oops.)",
+                        "938": "(...)",
+                        "977": "(Before?)",
+                        "989": "(Follow the script.)"
+                    }
+                }
+            },
+            "Map062": {
+                "3": {
+                    "0": {
+                        "2": "Story-loving Shopkeeper"
+                    },
+                    "1": {
+                        "2": "Story-loving Shopkeeper"
+                    },
+                    "2": {
+                        "1": "Story-loving Shopkeeper"
+                    }
+                },
+                "5": {
+                    "0": {
+                        "116": "Let's hang out now!",
+                        "130": "Can I help you with anything?",
+                        "145": "(Questions...)",
+                        "158": "(...)",
+                        "184": "(...)",
+                        "196": "(...)",
+                        "322": "(Aw...)",
+                        "333": "(Didn't work so well the first time...)",
+                        "343": "(You're kind of glad it's your job...)",
+                        "359": "(It's your role, after all.)",
+                        "391": "(Ho? Have you found it?!?)",
+                        "404": "(You know that's not it, but...)",
+                        "416": "(...)",
+                        "445": "(Aw...)",
+                        "458": "(Yeah...)",
+                        "470": "(...)",
+                        "504": "(Too perceptive...!)",
+                        "516": "(...)"
+                    }
+                }
+            },
+            "Map064": {
+                "4": {
+                    "0": {
+                        "3": "Old One"
+                    },
+                    "1": {
+                        "3": "Old One"
+                    },
+                    "2": {
+                        "5": "Old One"
+                    },
+                    "4": {
+                        "1": "Old One"
+                    }
+                }
+            },
+            "Map065": {
+                "2": {
+                    "0": {
+                        "512": "(Heh.)",
+                        "522": "(...)"
+                    }
+                }
+            },
+            "Map066": {
+                "1": {
+                    "0": {
+                        "6": "Bored Librarian"
+                    }
+                },
+                "3": {
+                    "0": {
+                        "3": "What is Craft?"
+                    }
+                },
+                "5": {
+                    "0": {
+                        "11": "Take it out?",
+                        "21": "Get the book out again?"
+                    }
+                }
+            },
+            "Map067": {
+                "1": {
+                    "0": {
+                        "7": "Cool Jeweler"
+                    },
+                    "1": {
+                        "7": "Cool Jeweler"
+                    }
+                },
+                "11": {
+                    "0": {
+                        "7": "Cool Jeweler"
+                    }
+                },
+                "12": {
+                    "0": {
+                        "7": "Cool Jeweler"
+                    }
+                }
+            },
+            "Map068": {
+                "1": {
+                    "0": {
+                        "3": "Castle-Loving One"
+                    },
+                    "1": {
+                        "3": "Castle-Loving One"
+                    }
+                }
+            },
+            "Map069": {
+                "4": {
+                    "0": {
+                        "2": "Stylish One"
+                    },
+                    "1": {
+                        "2": "Stylish One"
+                    },
+                    "2": {
+                        "2": "Stylish One"
+                    },
+                    "3": {
+                        "2": "Stylish One"
+                    }
+                },
+                "9": {
+                    "0": {
+                        "6": "Stylish One"
+                    }
+                },
+                "10": {
+                    "0": {
+                        "5": "Stylish One"
+                    }
+                }
+            },
+            "Map070": {
+                "1": {
+                    "0": {
+                        "2": "Big Boulanger"
+                    },
+                    "1": {
+                        "2": "Big Boulanger"
+                    },
+                    "2": {
+                        "1": "Big Boulanger"
+                    },
+                    "3": {
+                        "2": "Big Boulanger",
+                        "68": "(Well, that sucks.)",
+                        "80": "(...)"
+                    },
+                    "4": {
+                        "1": "Big Boulanger"
+                    }
+                },
+                "6": {
+                    "0": {
+                        "17": "Small Boulangère"
+                    }
+                },
+                "9": {
+                    "0": {
+                        "2": "Small Boulangère"
+                    },
+                    "1": {
+                        "2": "Small Boulangère"
+                    },
+                    "2": {
+                        "1": "Small Boulangère",
+                        "55": "Big Boulanger",
+                        "117": "Big Boulanger",
+                        "140": "Small Boulangère",
+                        "181": "Big Boulanger",
+                        "191": "Small Boulangère",
+                        "206": "Big Boulanger"
+                    },
+                    "3": {
+                        "1": "Small Boulangère",
+                        "41": "Big Boulanger"
+                    }
+                }
+            },
+            "Map072": {
+                "1": {
+                    "0": {
+                        "7": "Flower Growing One"
+                    },
+                    "1": {
+                        "7": "Flower Growing One"
+                    },
+                    "2": {
+                        "6": "Flower Growing One"
+                    }
+                }
+            },
+            "Map073": {
+                "3": {
+                    "0": {
+                        "4": "Beautiful One",
+                        "38": "(A party...)",
+                        "51": "(A party.)",
+                        "63": "(...)"
+                    },
+                    "1": {
+                        "3": "Beautiful One"
+                    },
+                    "2": {
+                        "4": "Beautiful One"
+                    }
+                },
+                "9": {
+                    "0": {
+                        "7": "Beautiful One"
+                    }
+                }
+            },
+            "Map079": {
+                "4": {
+                    "0": {
+                        "24": "(...)",
+                        "36": "(You know this already.)"
+                    }
+                }
+            },
+            "Map080": {
+                "4": {
+                    "0": {
+                        "63": "(Well.)",
+                        "76": "(Hehehe...)",
+                        "88": "(...)"
+                    }
+                },
+                "9": {
+                    "0": {
+                        "30": "Six of Swords",
+                        "51": "The Star",
+                        "66": "Ace of Wands",
+                        "85": "Eight of Pentacles",
+                        "106": "Two of Swords",
+                        "127": "Six of Pentacles",
+                        "144": "The Hermit",
+                        "163": "Five of Wands",
+                        "188": "Eight of Swords",
+                        "213": "Ten of Swords",
+                        "230": "Five of Pentacles",
+                        "249": "The Hanged Man"
+                    }
+                },
+                "10": {
+                    "0": {
+                        "46": "(Huh?)",
+                        "58": "(...)"
+                    }
+                }
+            },
+            "Map084": {
+                "6": {
+                    "0": {
+                        "80": "(You probably should, right now.)",
+                        "90": "(...)",
+                        "130": "Diary",
+                        "325": "(You know.)",
+                        "337": "(You know, you know, you know.)"
+                    }
+                },
+                "7": {
+                    "0": {
+                        "59": "(Haha!)",
+                        "72": "(Still funny, actually.)",
+                        "84": "(Is it still funny?)"
+                    }
+                }
+            },
+            "Map085": {
+                "4": {
+                    "0": {
+                        "238": "(Huh?)",
+                        "250": "(Follow the script...)"
+                    }
+                }
+            },
+            "Map089": {
+                "3": {
+                    "0": {
+                        "69": "(Oh! So...)",
+                        "82": "(Well.)",
+                        "94": "(...)",
+                        "169": "(Say something!)",
+                        "182": "(Say it again.)",
+                        "194": "(Follow the script.)"
+                    }
+                }
+            },
+            "Map090": {
+                "2": {
+                    "2": {
+                        "178": "(But you hate being the tie-breaker!!!)",
+                        "206": "(So...)",
+                        "219": "(Hm...)",
+                        "231": "(Go down for the key.)"
+                    }
+                }
+            },
+            "Map096": {
+                "4": {
+                    "0": {
+                        "153": "(You've been spotted...!)",
+                        "166": "(Ah.)",
+                        "179": "(Heh.)"
+                    }
+                }
+            },
+            "Map100": {
+                "8": {
+                    "0": {
+                        "10": "Unfinished Poem",
+                        "77": "('Peel an orange open'...)",
+                        "90": "('Peel an orange open'...)",
+                        "103": "(...)"
+                    }
+                }
+            },
+            "Map104": {
+                "1": {
+                    "0": {
+                        "29": "(Does it mean something?)",
+                        "42": "(Hm...)",
+                        "54": "(...)"
+                    }
+                },
+                "9": {
+                    "0": {
+                        "16": "(You've had this cloak for a while!)",
+                        "28": "(You've had this cloak for a while.)",
+                        "43": "(You've had this cloak for a while.)",
+                        "55": "(...)"
+                    }
+                },
+                "17": {
+                    "0": {
+                        "84": "(Oh!)",
+                        "97": "(Heheh.)",
+                        "110": "(Heh.)",
+                        "122": "(Say the line, Siffrin.)"
+                    }
+                }
+            },
+            "Map110": {
+                "9": {
+                    "0": {
+                        "16": "(Hm...)",
+                        "28": "(Hm...)",
+                        "43": "(...)"
+                    }
+                }
+            },
+            "Map112": {
+                "9": {
+                    "0": {
+                        "23": "(Hey!)",
+                        "36": "(Hey...)",
+                        "48": "(...)"
+                    }
+                }
+            },
+            "Map115": {
+                "1": {
+                    "0": {
+                        "25": "(Does it mean something?)",
+                        "38": "(Hm...)",
+                        "51": "(Hm...)",
+                        "63": "(...)"
+                    }
+                },
+                "11": {
+                    "0": {
+                        "39": "(Let's go.)",
+                        "52": "(Heh.)",
+                        "64": "(...)"
+                    }
+                }
+            },
+            "Map117": {
+                "2": {
+                    "0": {
+                        "23": "(So...)",
+                        "36": "(Hm...)",
+                        "48": "(...)"
+                    }
+                }
+            },
+            "Map124": {
+                "4": {
+                    "1": {
+                        "13": "(What?)",
+                        "25": "(...)",
+                        "56": "(WUH OH.)",
+                        "68": "(It made them laugh, so...)"
+                    }
+                }
+            },
+            "Map137": {
+                "9": {
+                    "0": {
+                        "8": "The Fool"
+                    }
+                }
+            },
+            "Map186": {
+                "1": {
+                    "0": {
+                        "1": "Big Boulanger"
+                    }
+                },
+                "9": {
+                    "0": {
+                        "2": "Small Boulangère",
+                        "20": "Big Boulanger",
+                        "37": "Small Boulangère"
+                    }
+                },
+                "12": {
+                    "0": {
+                        "1": "Running One"
+                    }
+                },
+                "13": {
+                    "0": {
+                        "1": "Smug One"
+                    }
+                }
+            },
+            "Map209": {
+                "9": {
+                    "0": {
+                        "1": "Mirabelle's Roommate",
+                        "12": "Mirabelle's Friend",
+                        "23": "Mirabelle's Roommate",
+                        "35": "Mirabelle's Friend",
+                        "49": "Mirabelle's Roommate",
+                        "59": "Mirabelle's Friend",
+                        "71": "Mirabelle's Roommate",
+                        "83": "Mirabelle's Friend",
+                        "93": "Mirabelle's Roommate"
+                    }
+                },
+                "33": {
+                    "0": {
+                        "1": "Short-Haired Housemaiden",
+                        "11": "Long-Haired Housemaiden",
+                        "21": "Short-Haired Housemaiden",
+                        "31": "Long-Haired Housemaiden",
+                        "43": "Short-Haired Housemaiden",
+                        "54": "Long-Haired Housemaiden",
+                        "66": "Short-Haired Housemaiden"
+                    }
+                },
+                "35": {
+                    "0": {
+                        "1": "Sleepy Person"
+                    }
+                },
+                "36": {
+                    "0": {
+                        "1": "Stressed Housemaiden"
+                    }
+                },
+                "37": {
+                    "0": {
+                        "1": "Light-Haired Housemaiden",
+                        "13": "Housemaiden with Overalls",
+                        "24": "Light-Haired Housemaiden",
+                        "34": "Housemaiden with Overalls"
+                    },
+                    "1": {
+                        "1": "Light-Haired Housemaiden",
+                        "11": "Housemaiden with Overalls"
+                    }
+                },
+                "39": {
+                    "0": {
+                        "1": "Mirabelle's Idol",
+                        "11": "Librarian",
+                        "26": "Mirabelle's Idol",
+                        "38": "Librarian",
+                        "51": "Mirabelle's Idol"
+                    },
+                    "1": {
+                        "1": "Mirabelle's Idol",
+                        "11": "Librarian",
+                        "21": "Mirabelle's Idol"
+                    }
+                },
+                "41": {
+                    "0": {
+                        "1": "Handsome Person"
+                    },
+                    "1": {
+                        "1": "Handsome Person"
+                    }
+                },
+                "42": {
+                    "0": {
+                        "1": "Housemaiden and Dog"
+                    }
+                }
+            },
+            "Map210": {
+                "2": {
+                    "0": {
+                        "1": "Blind One"
+                    }
+                },
+                "6": {
+                    "0": {
+                        "7": "Shy Stranger"
+                    },
+                    "1": {
+                        "1": "Shy Stranger"
+                    }
+                },
+                "16": {
+                    "0": {
+                        "1": "Fishing One"
+                    },
+                    "1": {
+                        "1": "Fishing One"
+                    }
+                },
+                "30": {
+                    "0": {
+                        "2": "Beautiful One",
+                        "14": "Flower Growing One",
+                        "24": "Beautiful One",
+                        "36": "Flower Growing One",
+                        "46": "Beautiful One",
+                        "64": "Flower Growing One",
+                        "76": "Beautiful One",
+                        "88": "Flower Growing One"
+                    }
+                },
+                "69": {
+                    "0": {
+                        "2": "Cool Wife"
+                    }
+                },
+                "70": {
+                    "0": {
+                        "2": "Cool Jeweler"
+                    }
+                },
+                "71": {
+                    "0": {
+                        "1": "Stylish One",
+                        "12": "Castle-Loving One",
+                        "23": "Stylish One",
+                        "36": "Castle-Loving One",
+                        "46": "Stylish One",
+                        "56": "Castle-Loving One",
+                        "67": "Stylish One",
+                        "79": "Castle-Loving One",
+                        "91": "Stylish One"
+                    }
+                },
+                "75": {
+                    "0": {
+                        "3": "Old One",
+                        "13": "Daydreaming One",
+                        "34": "Daydreaming One",
+                        "48": "Old One",
+                        "60": "Daydreaming One",
+                        "72": "Old One",
+                        "84": "Daydreaming One",
+                        "96": "Old One",
+                        "106": "Daydreaming One",
+                        "117": "Old One",
+                        "131": "Daydreaming One"
+                    }
+                },
+                "79": {
+                    "0": {
+                        "2": "Story-loving Shopkeeper",
+                        "14": "Bored Librarian",
+                        "25": "Story-loving Shopkeeper",
+                        "35": "Bored Librarian",
+                        "47": "Story-loving Shopkeeper"
+                    },
+                    "1": {
+                        "1": "Bored Librarian",
+                        "11": "Story-loving Shopkeeper"
+                    }
+                }
+            },
+            "Map211": {
+                "46": {
+                    "0": {
+                        "1": "Drawing Kid"
+                    }
+                },
+                "58": {
+                    "0": {
+                        "1": "Wizard-loving kid",
+                        "13": "Tutorial Kid",
+                        "26": "Wizard-loving kid",
+                        "38": "Sky-loving kid",
+                        "48": "Tutorial Kid",
+                        "59": "Wizard-loving kid",
+                        "69": "Sky-loving kid",
+                        "79": "Frog-loving kid",
+                        "89": "Tutorial Kid",
+                        "101": "Wizard-loving kid",
+                        "112": "Frog-loving kid",
+                        "123": "Sky-loving kid",
+                        "137": "Frog-loving kid",
+                        "147": "Tutorial Kid",
+                        "161": "Wizard-loving kid",
+                        "174": "The-One-Who-Was-Given-A-Tutorial Kid"
+                    }
+                }
+            }
+        },
+        "Troops": {
+            "3": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "4": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "5": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "9": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "10": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "11": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "12": {
+                "0": {
+                    "17": "cries softly."
+                }
+            },
+            "15": {
+                "0": {
+                    "17": "stares at you."
+                }
+            },
+            "16": {
+                "0": {
+                    "17": "stares at you."
+                }
+            },
+            "17": {
+                "0": {
+                    "17": "stares at you."
+                }
+            },
+            "18": {
+                "0": {
+                    "17": "tries to untangle itself."
+                }
+            },
+            "19": {
+                "0": {
+                    "17": "stares at you."
+                }
+            },
+            "25": {
+                "0": {
+                    "24": "gazes at the other Sadness."
+                }
+            },
+            "27": {
+                "0": {
+                    "17": "looks at you."
+                }
+            },
+            "28": {
+                "0": {
+                    "16": "stares at you."
+                }
+            },
+            "29": {
+                "0": {
+                    "16": "glares at you."
+                }
+            },
+            "32": {
+                "5": {
+                    "5": "Stars."
+                }
+            },
+            "36": {
+                "0": {
+                    "19": "(...)"
+                }
+            },
+            "37": {
+                "0": {
+                    "11": "is silent.",
+                    "12": "(...)"
+                }
+            },
+            "38": {
+                "0": {
+                    "24": "END IT!",
+                    "25": "don't know what to do."
+                }
+            },
+            "39": {
+                "0": {
+                    "34": "It's you."
+                },
+                "1": {
+                    "2": "Loop is ready for you."
+                }
+            },
+            "41": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "42": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "43": {
+                "0": {
+                    "17": "is distracted."
+                }
+            },
+            "44": {
+                "0": {
+                    "17": "is distracted."
+                }
+            }
+        }
     }
 }
