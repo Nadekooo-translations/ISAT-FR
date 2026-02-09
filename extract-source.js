@@ -1,5 +1,6 @@
 const { argv, argc, exit } = require("node:process");
-const { readFileSync, writeFileSync } = require("node:fs");
+const { readFileSync, writeFileSync, globSync } = require("node:fs");
+const { basename } = require("node:path");
 
 if (argc <= 4) {
     console.error("Syntax: node extract-source.js Japanese fr");
@@ -65,18 +66,42 @@ const extractScriptTranslations = (prefix, ops) => {
             if (op.code === 122 && op.parameters[2] === 0 && op.parameters[3] === 4) {
                 let obj = flat;
 
-                for (const key of prefix) {
+                for (const key of ["events", ...prefix]) {
                     obj = obj[key] ??= {};
                 }
 
-                obj[i.toString()] = JSON.stringify(op.parameters[4]); // FIXME ignore those that are actual code
+                try {
+                    obj[i.toString()] = eval(op.parameters[4]);
+                } catch (e) {
+                    console.warn("Failed to eval: ", op.parameters[4], e);
+                }
             }
         }
     }
 };
 
 JSON.parse(String(readFileSync("isat-orig/data/CommonEvents.json")))
-        .filter(Boolean)
-        .forEach(e => extractScriptTranslations(['CommonEvents', String(e.id)], e.list))
+    .filter(Boolean)
+    .forEach(e => extractScriptTranslations(["CommonEvents", String(e.id)], e.list));
+
+for (const mapPath of globSync("isat-orig/data/Map*.json")) {
+    const map = JSON.parse(String(readFileSync(mapPath)));
+    const mapName = basename(mapPath, ".json");
+    console.log(mapName);
+
+    for (let eventIdx = 0; map.events && eventIdx < map.events.length; eventIdx++) {
+        const event = map.events[eventIdx];
+
+        if (!event) continue;
+
+        for (let pageIdx = 0; pageIdx < event.pages.length; pageIdx++) {
+            const page = event.pages[pageIdx];
+
+            if (!page) continue;
+
+            extractScriptTranslations(["Maps", mapName, String(eventIdx), String(pageIdx)], page.list);
+        }
+    }
+}
 
 writeFileSync(targetLanguageCode + ".json", JSON.stringify(flat, undefined, 4));
