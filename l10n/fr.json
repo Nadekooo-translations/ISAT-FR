@@ -19389,6 +19389,18 @@
         ".": ".",
         "?": "?",
         "(?)": "(?)",
-        "...": "..."
+        "...": "...",
+        "Tutorial Kid": "TUT'ENFANT",
+        "(...)": "(...)",
+        "THE KING": "LE ROI",
+        "LOOP": "BOUCLE",
+        "Attack": "Attaquer",
+        "Guard": "Se Défendre",
+        "(Hm...)": "(Hum...)",
+        "(Heh...)": "(Héh...)",
+        "(Let's see...)": "(Voyons voir..)",
+        "(Well.)": "(Bon, bah.)",
+        "(So...)": "(Alors...)",
+        "(What?)": "(Quoi ?)"
     }
 }
