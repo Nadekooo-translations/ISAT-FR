@@ -48,7 +48,33 @@
 < 	$.loadNoteData();
 ---
 > 	// $.loadNoteData();
-749a758,768
+599a608,632
+> $.command111 = Game_Interpreter.prototype.command111;
+> Game_Interpreter.prototype.command111 = function() {
+> 
+> 	if (this._params[0] === 12 && this._params[1] === "ConfigManager.getLanguage() === \"English\"") {
+> 		this._params[1] = "true";
+> 	}
+> 
+> 	return $.command111.call(this);
+> };
+> 
+> $.command122 = Game_Interpreter.prototype.command122;
+> Game_Interpreter.prototype.command122 = function() {
+> 	if (this._params[3] === 4) {
+> 		try {
+> 			var evalRet = eval(this._params[4]);
+> 
+> 			if (evalRet in $dataTranslations.hardcoded) {
+> 				this._params[4] = JSON.stringify($dataTranslations.hardcoded[evalRet][ConfigManager.getLanguage()]);
+> 			}
+> 		} catch (e) {}
+> 	}
+> 
+> 	return $.command122.call(this);
+> };
+> 
+749a783,793
 > 
 > 	$.Scene_Boot_isReady = Scene_Boot.prototype.isReady;
 > 	Scene_Boot.prototype.isReady = function() {

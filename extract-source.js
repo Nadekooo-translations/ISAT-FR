@@ -18,6 +18,7 @@ const flat = {
     terms: {},
     custom: {},
     objects: {},
+    hardcoded: {},
 };
 
 for (const msg in translations.msg) {
@@ -54,7 +55,7 @@ for (const msg in translations.custom[sourceLanguageName]) {
 
 // EXTRACT TRANSLATIONS IN SCRIPTS
 
-const extractScriptTranslations = (prefix, ops) => {
+const extractScriptTranslations = (ops) => {
     for (let i = 0; i < ops.length; i++) {
         let op = ops[i];
 
@@ -64,14 +65,9 @@ const extractScriptTranslations = (prefix, ops) => {
             op = ops[i];
 
             if (op.code === 122 && op.parameters[2] === 0 && op.parameters[3] === 4) {
-                let obj = flat;
-
-                for (const key of ["events", ...prefix]) {
-                    obj = obj[key] ??= {};
-                }
-
                 try {
-                    obj[i.toString()] = eval(op.parameters[4]);
+                    const str = eval(op.parameters[4]);
+                    flat.hardcoded[str] = str;
                 } catch (e) {
                     console.warn("Failed to eval: ", op.parameters[4], e);
                 }
@@ -82,9 +78,9 @@ const extractScriptTranslations = (prefix, ops) => {
 
 JSON.parse(String(readFileSync("isat-orig/data/CommonEvents.json")))
     .filter(Boolean)
-    .forEach(e => extractScriptTranslations(["CommonEvents", String(e.id)], e.list));
+    .forEach(e => extractScriptTranslations(e.list));
 
-const handleEvents = (prefix, events) => {
+const handleEvents = (events) => {
     for (let eventIdx = 0; events && eventIdx < events.length; eventIdx++) {
         const event = events[eventIdx];
 
@@ -95,7 +91,7 @@ const handleEvents = (prefix, events) => {
 
             if (!page) continue;
 
-            extractScriptTranslations([...prefix, String(eventIdx), String(pageIdx)], page.list);
+            extractScriptTranslations(page.list);
         }
     }
 };
@@ -104,9 +100,9 @@ for (const mapPath of globSync("isat-orig/data/Map*.json")) {
     const map = JSON.parse(String(readFileSync(mapPath)));
     const mapName = basename(mapPath, ".json");
 
-    handleEvents(["Maps", mapName], map.events);
+    handleEvents(map.events);
 }
 
-handleEvents(["Troops"], JSON.parse(String(readFileSync("isat-orig/data/Troops.json"))));
+handleEvents(JSON.parse(String(readFileSync("isat-orig/data/Troops.json"))));
 
 writeFileSync(targetLanguageCode + ".json", JSON.stringify(flat, undefined, 4));
