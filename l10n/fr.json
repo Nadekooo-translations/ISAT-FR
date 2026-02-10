@@ -19379,5 +19379,8 @@
                 "name": "La Chercheuse"
             }
         }
+    },
+    "hardcoded": {
+        "Running One": "Le Courreur"
     }
 }

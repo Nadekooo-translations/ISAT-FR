@@ -66,6 +66,10 @@ const trans = JSON.parse(String(readFileSync("./isat/data/Translations.json")));
 
 const appendTrans = (cat) => {
 	for (const msg in fr[cat]) {
+
+		trans[cat] ??= {};
+
+
 		if (cat === "custom") {
 			if (!trans[cat][French]) {
 				trans[cat][French] = {};
@@ -73,6 +77,7 @@ const appendTrans = (cat) => {
 
 			trans[cat][French][msg] = fr[cat][msg];
 		} else {
+			trans[cat][msg] ??= {};
 			trans[cat][msg][French] = fr[cat][msg];
 		}
 	}
@@ -82,5 +87,6 @@ appendTrans("msg");
 appendTrans("cmd");
 appendTrans("term");
 appendTrans("custom");
+appendTrans("hardcoded");
 
 writeFileSync("./isat/data/Translations.json", JSON.stringify(trans));

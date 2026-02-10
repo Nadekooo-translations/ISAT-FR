@@ -1,5 +1,6 @@
 const { argv, argc, exit } = require("node:process");
-const { readFileSync, writeFileSync } = require("node:fs");
+const { readFileSync, writeFileSync, globSync } = require("node:fs");
+const { basename } = require("node:path");
 
 if (argc <= 4) {
     console.error("Syntax: node extract-source.js Japanese fr");
@@ -17,6 +18,7 @@ const flat = {
     terms: {},
     custom: {},
     objects: {},
+    hardcoded: {},
 };
 
 for (const msg in translations.msg) {
@@ -50,5 +52,57 @@ for (const msg in translations.custom[sourceLanguageName]) {
         flat.custom[msg] = "";
     }
 }
+
+// EXTRACT TRANSLATIONS IN SCRIPTS
+
+const extractScriptTranslations = (ops) => {
+    for (let i = 0; i < ops.length; i++) {
+        let op = ops[i];
+
+        if (op.code !== 111 || op.parameters[0] !== 12 || op.parameters[1] !== "ConfigManager.getLanguage() === \"English\"") continue;
+
+        for (; i < ops.length && (op.code !== 111 || op.parameters[0] !== 12 || op.parameters[1] !== "ConfigManager.getLanguage() === \"Japanese\""); i++) {
+            op = ops[i];
+
+            if (op.code === 122 && op.parameters[2] === 0 && op.parameters[3] === 4) {
+                try {
+                    const str = eval(op.parameters[4]);
+                    flat.hardcoded[str] = str;
+                } catch (e) {
+                    console.warn("Failed to eval: ", op.parameters[4], e);
+                }
+            }
+        }
+    }
+};
+
+JSON.parse(String(readFileSync("isat-orig/data/CommonEvents.json")))
+    .filter(Boolean)
+    .forEach(e => extractScriptTranslations(e.list));
+
+const handleEvents = (events) => {
+    for (let eventIdx = 0; events && eventIdx < events.length; eventIdx++) {
+        const event = events[eventIdx];
+
+        if (!event) continue;
+
+        for (let pageIdx = 0; pageIdx < event.pages.length; pageIdx++) {
+            const page = event.pages[pageIdx];
+
+            if (!page) continue;
+
+            extractScriptTranslations(page.list);
+        }
+    }
+};
+
+for (const mapPath of globSync("isat-orig/data/Map*.json")) {
+    const map = JSON.parse(String(readFileSync(mapPath)));
+    const mapName = basename(mapPath, ".json");
+
+    handleEvents(map.events);
+}
+
+handleEvents(JSON.parse(String(readFileSync("isat-orig/data/Troops.json"))));
 
 writeFileSync(targetLanguageCode + ".json", JSON.stringify(flat, undefined, 4));
